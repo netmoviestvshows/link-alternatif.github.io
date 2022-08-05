@@ -4,8 +4,9 @@ function daftar() {
 } // home daftar
 
 function getbonus() {
-    window.location.href="./idpro/;
-} // home daftar
+     window.location.href="../idpro/";
+} // home getbonus
+
 
 
 
