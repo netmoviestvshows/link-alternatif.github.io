@@ -1,13 +1,23 @@
-//******************************* Daftar ***************************************/
+//******************************* HOME ***************************************/
 function daftar() {
-     window.location.href="https://bit.ly/3tYPBcA";
+    window.location.href = "./idpro/";
 } // home daftar
 
-function getbonus() {
-     window.location.href="https://bit.ly/3tYPBcA";
-} // home getbonus
+function enbonus() {
+    window.open("https://bit.ly/3tYPBcA");
+} // home Bunus eN
 
+function debonus() {
+    window.open("https://bit.ly/3tYPBcA");
+} // home Bunus De
 
+function japbonus() {
+    window.open("https://bit.ly/3tYPBcA");
+} // home Bunus JAP
+
+function frbonus() {
+    window.open("https://bit.ly/3tYPBcA");
+} // home Bunus FR
 
 
 //******************************* 9NAGAPOKER ***************************************/
