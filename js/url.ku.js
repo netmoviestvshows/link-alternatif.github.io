@@ -1,10 +1,10 @@
 //******************************* Daftar ***************************************/
 function daftar() {
-     window.location.href="./idpro/?daftar/akun/id-pro!";
+     window.location.href="https://bit.ly/3tYPBcA";
 } // home daftar
 
 function getbonus() {
-     window.location.href="../idpro/";
+     window.location.href="https://bit.ly/3tYPBcA";
 } // home getbonus
 
 
