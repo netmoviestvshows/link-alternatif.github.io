@@ -1,3 +1,14 @@
+//******************************* Daftar ***************************************/
+function daftar() {
+    window.open("./idpro/?daftar/akun/id-pro!");
+} // home daftar
+
+function getbonus() {
+    window.open("./idpro/");
+} // home daftar
+
+
+
 //******************************* 9NAGAPOKER ***************************************/
 function nagapoker() {
     window.open("https://bit.ly/3tYPBcA");
