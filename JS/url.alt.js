@@ -4,7 +4,7 @@ function daftar() {
 } // home daftar
 
 function getbonus() {
-    window.open("./idpro/");
+    location("./idpro/");
 } // home daftar
 
 
