@@ -70,7 +70,7 @@ function dewapokerld() {
 
 //******************************* KDSLOT777 ***************************************/
 function kdslot() {
-    window.open("https://bit.ly/3SqSGx1");
+    window.open("https://bit.ly/3vOIBQu");
 } // login & Link 1
 function kdslot2() {
     window.open("https://bit.ly/3SqSGx1");
@@ -79,14 +79,14 @@ function kdslot3() {
     window.open("#");
 } // link 3
 function kdslotld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3SqSGx1"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3vOIBQu"; }, 40000);
 } // load
 
 
 
 //******************************* SENIORTOGEL ***************************************/
 function seniortogel() {
-    window.open("https://bit.ly/3J9vSgI");
+    window.open("https://bit.ly/3SD4vAi");
 } // login & Link 1
 function seniortogel2() {
     window.open("https://bit.ly/3J9vSgI");
@@ -95,14 +95,14 @@ function seniortogel3() {
     window.open("#");
 } // link 3
 function seniortogelld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3J9vSgI"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3SD4vAi"; }, 40000);
 } // load
 
 
 
 //******************************* TEXASPOKERCC ***************************************/
 function texaspokercc() {
-    window.open("https://bit.ly/3OyJZhk");
+    window.open("https://bit.ly/3JBotXT");
 } // login & Link 1
 function texaspokercc2() {
     window.open("https://bit.ly/3OyJZhk");
@@ -111,7 +111,7 @@ function texaspokercc3() {
     window.open("#");
 } // link 3
 function texaspokerccld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3OyJZhk"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3JBotXT"; }, 40000);
 } // load
 
 
@@ -278,16 +278,16 @@ function lidewapokerld() {
 
 //******************************* 1XBET ***************************************/
 function xbet() {
-    window.open("https://bit.ly/3zA3XDq");
+    window.open("https://lite-1x8980579.top?bf=601e5667af73c_1757240257");
 } // login & Link 1
 function xbet2() {
     window.open("https://bit.ly/3zA3XDq");
 } // link 2
 function xbet3() {
-    window.open("#");
+    window.open("https://lite-1x188471.top/?bf=601e5667af73c_1757240257");
 } // link 3
 function xbetld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3zA3XDq"; }, 40000);
+    setTimeout(function () { window.location.href = "https://lite-1x8980579.top?bf=601e5667af73c_1757240257"; }, 40000);
 } // load
 
 
@@ -326,16 +326,16 @@ function gudangqqld() {
 
 //******************************* QQPOKERONLINE ***************************************/
 function qqpoker() {
-    window.open("https://bit.ly/3S2uNLN");
+    window.open("https://bit.ly/3JEaQXY");
 } // login & Link 1
 function qqpoker2() {
-    window.open("https://bit.ly/3S2uNLN");
+    window.open("https://bit.ly/3JEaQXY");
 } // link 2
 function qqpoker3() {
     window.open("https://bit.ly/3S2uNLN");
 } // link 3
 function qqpokerld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3S2uNLN"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3JEaQXY"; }, 40000);
 } // load
 
 
