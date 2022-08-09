@@ -22,16 +22,16 @@ function frbonus() {
 
 //******************************* 9NAGAPOKER ***************************************/
 function nagapoker() {
-    window.open("https://bit.ly/3tYPBcA");
+    window.open("https://bit.ly/3SEuw1P");
 } // login & link1
 function nagapoker2() {
     window.open("https://bit.ly/3tYPBcA");
 } // link 2
 function nagapoker3() {
-    window.open("#");
+    window.open("https://bit.ly/3SEuw1P");
 } // link 3
 function nagapokerld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3tYPBcA"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3SEuw1P"; }, 40000);
 } // load
 
 
