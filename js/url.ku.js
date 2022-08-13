@@ -48,8 +48,11 @@ function nagapokerld2() {
 
 function nagapokerld3() {
     setTimeout(function () { window.location.href = "https://bit.ly/3SEuw1P"; }, 4000);
-} // load 2
+} // load 3
 
+function nagapokerld4() {
+    setTimeout(function () { window.location.href = "https://bit.ly/3SEuw1P"; }, 13000);
+} // load 4
 
 //******************************* BIGWIN333 ***************************************/
 function bigwin() {
