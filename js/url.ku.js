@@ -97,11 +97,11 @@ function dewapoker1() {
 } // link daftar
 
 function dewapoker2() {
-    window.open("https://bit.ly/3xD5NPO");
+    window.open("https://bit.ly/3Clnlpw");
 } // link 2
 
 function dewapoker3() {
-    window.open("#");
+    window.open("https://bit.ly/3QRWfL2");
 } // link 3
 
 function dewapokerld() {
