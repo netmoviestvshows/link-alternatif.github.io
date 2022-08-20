@@ -560,15 +560,15 @@ function lidewapokerld4() {
 
 //******************************* 1XBET ***************************************/
 function xbet() {
-    window.open("https://lite-1x8980579.top?bf=601e5667af73c_1757240257");
+    window.open("https://lite-1x742136.top/?bf=601e5667af73c_1757240257");
 } // login & Link 1
 
 function xbet1() {
-    window.location.href = "https://lite-1x8980579.top?bf=601e5667af73c_1757240257";
+    window.location.href = "https://lite-1x742136.top/?bf=601e5667af73c_1757240257";
 } // link daftar
 
 function xbet2() {
-    window.open("https://bit.ly/3zA3XDq");
+    window.open("https://lite-1x8980579.top?bf=601e5667af73c_1757240257");
 } // link 2
 
 function xbet3() {
@@ -576,19 +576,19 @@ function xbet3() {
 } // link 3
 
 function xbetld() {
-    setTimeout(function () { window.location.href = "https://lite-1x8980579.top?bf=601e5667af73c_1757240257"; }, 40000);
+    setTimeout(function () { window.location.href = "https://lite-1x742136.top/?bf=601e5667af73c_1757240257"; }, 40000);
 } // load
 
 function xbetld2() {
-    setTimeout(function () { window.location.href = "https://lite-1x8980579.top?bf=601e5667af73c_1757240257"; }, 32000);
+    setTimeout(function () { window.location.href = "https://lite-1x742136.top/?bf=601e5667af73c_1757240257"; }, 32000);
 } // load 2
 
 function xbetld3() {
-    setTimeout(function () { window.location.href = "https://lite-1x8980579.top?bf=601e5667af73c_1757240257"; }, 4000);
+    setTimeout(function () { window.location.href = "https://lite-1x742136.top/?bf=601e5667af73c_1757240257"; }, 4000);
 } // load 3
 
 function xbetld4() {
-    setTimeout(function () { window.location.href = "https://lite-1x8980579.top?bf=601e5667af73c_1757240257"; }, 13000);
+    setTimeout(function () { window.location.href = "https://lite-1x742136.top/?bf=601e5667af73c_1757240257"; }, 13000);
 } // load 4
 
 
