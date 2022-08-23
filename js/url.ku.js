@@ -130,11 +130,11 @@ function kdslot1() {
 } // link daftar
 
 function kdslot2() {
-    window.open("https://bit.ly/3SqSGx1");
+    window.open("https://bit.ly/3KcwDX5");
 } // link 2
 
 function kdslot3() {
-    window.open("#");
+    window.open("https://bit.ly/3QJsVXr");
 } // link 3
 
 function kdslotld() {
@@ -458,11 +458,11 @@ function ugld4() {
 
 //******************************* MEJAVIP ***************************************/
 function mejavip() {
-    window.open("https://bit.ly/3bZeIGI");
+    window.open("https://bit.ly/3wqi2Sd");
 } // login & Link 1
 
 function mejavip1() {
-    window.location.href = "https://bit.ly/3bZeIGI";
+    window.location.href = "https://bit.ly/3wqi2Sd";
 } // link daftar
 
 function mejavip2() {
@@ -470,23 +470,23 @@ function mejavip2() {
 } // link 2
 
 function mejavip3() {
-    window.open("#");
+    window.open("https://bit.ly/3bZeIGI");
 } // link 3
 
 function mejavipld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3bZeIGI"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3wqi2Sd"; }, 40000);
 } // load
 
 function mejavipld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3bZeIGI"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3wqi2Sd"; }, 32000);
 } // load 2
 
 function mejavipld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3bZeIGI"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3wqi2Sd"; }, 4000);
 } // load 3
 
 function mejavipld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3bZeIGI"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3wqi2Sd"; }, 13000);
 } // load 4
 
 
@@ -500,7 +500,7 @@ function seniqq1() {
 } // link daftar
 
 function seniqq2() {
-    window.open("https://bit.ly/3p9GWCt");
+    window.open("https://bit.ly/3T9d4CS");
 } // link 2
 
 function seniqq3() {
