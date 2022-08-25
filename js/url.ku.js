@@ -188,35 +188,35 @@ function seniortogelld4() {
 
 //******************************* TEXASPOKERCC ***************************************/
 function texaspokercc() {
-    window.open("https://bit.ly/3JBotXT");
+    window.open("https://bit.ly/3wxftO7");
 } // login & Link 1
 
 function texaspokercc1() {
-    window.location.href = "https://bit.ly/3JBotXT";
+    window.location.href = "https://bit.ly/3wxftO7";
 } // link daftar
 
 function texaspokercc2() {
-    window.open("https://bit.ly/3OyJZhk");
+    window.open("https://bit.ly/3JBotXT");
 } // link 2
 
 function texaspokercc3() {
-    window.open("#");
+    window.open("https://bit.ly/3OyJZhk");
 } // link 3
 
 function texaspokerccld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3JBotXT"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3wxftO7"; }, 40000);
 } // load
 
 function texaspokerccld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3JBotXT"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3wxftO7"; }, 32000);
 } // load 2
 
 function texaspokerccld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3JBotXT"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3wxftO7"; }, 4000);
 } // load 3
 
 function texaspokerccld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3JBotXT"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3wxftO7"; }, 13000);
 } // load 4
 
 
