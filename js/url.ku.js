@@ -56,11 +56,11 @@ function nagapokerld4() {
 
 //******************************* BIGWIN333 ***************************************/
 function bigwin() {
-    window.open("https://bit.ly/3zkksSV");
+    window.open("https://bit.ly/3Rp3mLD");
 } // login & link1
 
 function bigwin1() {
-    window.location.href = "https://bit.ly/3zkksSV";
+    window.location.href = "https://bit.ly/3Rp3mLD";
 } // link daftar
 
 function bigwin2() {
@@ -72,19 +72,19 @@ function bigwin3() {
 } // link 3
 
 function bigwinld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3zkksSV"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3Rp3mLD"; }, 40000);
 } // load
 
 function bigwinld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3zkksSV"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3Rp3mLD"; }, 32000);
 } // load 2
 
 function bigwinld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3zkksSV"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3Rp3mLD"; }, 4000);
 } // load 3
 
 function bigwinld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3zkksSV"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3Rp3mLD"; }, 13000);
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
