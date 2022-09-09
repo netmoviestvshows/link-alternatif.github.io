@@ -187,8 +187,8 @@ function seniortogelld4() {
 } // load 4
 
 //******************************* TEXASPOKERCC ***************************************/
-function texaspokercc(https://bit.ly/3RU9UkX) {
-    window.open("");
+function texaspokercc() {
+    window.open("https://bit.ly/3RU9UkX");
 } // login & Link 1
 
 function texaspokercc1() {
