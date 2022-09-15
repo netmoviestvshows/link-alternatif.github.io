@@ -188,11 +188,11 @@ function seniortogelld4() {
 
 //******************************* TEXASPOKERCC ***************************************/
 function texaspokercc() {
-    window.open("https://bit.ly/3RU9UkX");
+    window.open("https://bit.ly/3qDNTLU");
 } // login & Link 1
 
 function texaspokercc1() {
-    window.location.href = "https://bit.ly/3RU9UkX";
+    window.location.href = "https://bit.ly/3qDNTLU";
 } // link daftar
 
 function texaspokercc2() {
@@ -200,33 +200,33 @@ function texaspokercc2() {
 } // link 2
 
 function texaspokercc3() {
-    window.open("https://bit.ly/3wxftO7");
+    window.open("https://bit.ly/3RU9UkX");
 } // link 3
 
 function texaspokerccld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3RU9UkX"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3qDNTLU"; }, 40000);
 } // load
 
 function texaspokerccld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3RU9UkX"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3qDNTLU"; }, 32000);
 } // load 2
 
 function texaspokerccld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3RU9UkX"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3qDNTLU"; }, 4000);
 } // load 3
 
 function texaspokerccld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3RU9UkX"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3qDNTLU"; }, 13000);
 } // load 4
 
 
 //******************************* POKERCLUB88 ***************************************/
 function pokerclub() {
-    window.open("https://bit.ly/3z9nBoq");
+    window.open("https://bit.ly/3dlU8kw");
 } // login & Link 1
 
 function pokerclub1() {
-    window.location.href = "https://bit.ly/3z9nBoq";
+    window.location.href = "https://bit.ly/3dlU8kw";
 } // link daftar
 
 function pokerclub2() {
@@ -234,33 +234,33 @@ function pokerclub2() {
 } // link 2
 
 function pokerclub3() {
-    window.open("#");
+    window.open("https://bit.ly/3z9nBoq");
 } // link 3
 
 function pokerclubld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3z9nBoq"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3dlU8kw"; }, 40000);
 } // load
 
 function pokerclubld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3z9nBoq"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3dlU8kw"; }, 32000);
 } // load 2
 
 function pokerclubld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3z9nBoq"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3dlU8kw"; }, 4000);
 } // load 3
 
 function pokerclubld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3z9nBoq"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3dlU8kw"; }, 13000);
 } // load 4
 
 
 //******************************* INDOTOGEL ***************************************/
 function indotogel() {
-    window.open("https://bit.ly/3oJ5fWK");
+    window.open("https://bit.ly/3BGxz3h");
 } // login & Link 1
 
 function indotogel1() {
-    window.location.href = "https://bit.ly/3oJ5fWK";
+    window.location.href = "https://bit.ly/3BGxz3h";
 } // link daftar
 
 function indotogel2() {
@@ -268,23 +268,23 @@ function indotogel2() {
 } // link 2
 
 function indotogel3() {
-    window.open("#");
+    window.open("https://bit.ly/3oJ5fWK");
 } // link 3
 
 function indotogelld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3oJ5fWK"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3BGxz3h"; }, 40000);
 } // load
 
 function indotogelld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3oJ5fWK"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3BGxz3h"; }, 32000);
 } // load 2
 
 function indotogelld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3oJ5fWK"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3BGxz3h"; }, 4000);
 } // load 3
 
 function indotogelld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3oJ5fWK"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3BGxz3h"; }, 13000);
 } // load 4
 
 
@@ -324,11 +324,11 @@ function dunia4dld4() {
 
 //******************************* JAYAPOKER ***************************************/
 function jayapoker() {
-    window.open("https://bit.ly/3zPsftt");
+    window.open("https://bit.ly/3RPL4Dt");
 } // login & Link 1
 
 function jayapoker1() {
-    window.location.href = "https://bit.ly/3zPsftt";
+    window.location.href = "https://bit.ly/3RPL4Dt";
 } // link daftar
 
 function jayapoker2() {
@@ -336,23 +336,23 @@ function jayapoker2() {
 } // link 2
 
 function jayapoker3() {
-    window.open("#");
+    window.open("https://bit.ly/3zPsftt");
 } // link 3
 
 function jayapokerld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3zPsftt"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3RPL4Dt"; }, 40000);
 } // load
 
 function jayapokerld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3zPsftt"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3RPL4Dt"; }, 32000);
 } // load 2
 
 function jayapokerld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3zPsftt"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3RPL4Dt"; }, 4000);
 } // load 3
 
 function jayapokerld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3zPsftt"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3RPL4Dt"; }, 13000);
 } // load 4
 
 
@@ -392,11 +392,11 @@ function pokerloungeld4() {
 
 //******************************* REPUBLIKSPIN ***************************************/
 function republikspin() {
-    window.open("https://bit.ly/3cRA6Og");
+    window.open("https://bit.ly/3UggJPS");
 } // login & Link 1
 
 function republikspin1() {
-    window.location.href = "https://bit.ly/3cRA6Og";
+    window.location.href = "https://bit.ly/3UggJPS";
 } // link daftar
 
 function republikspin2() {
@@ -404,23 +404,23 @@ function republikspin2() {
 } // link 2
 
 function republikspin3() {
-    window.open("#");
+    window.open("https://bit.ly/3cRA6Og");
 } // link 3
 
 function republikspinld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3cRA6Og"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3UggJPS"; }, 40000);
 } // load
 
 function republikspinld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3cRA6Og"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3UggJPS"; }, 32000);
 } // load 2
 
 function republikspinld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3cRA6Og"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3UggJPS"; }, 4000);
 } // load 3
 
 function republikspinld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3cRA6Og"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3UggJPS"; }, 13000);
 } // load 4
 
 //******************************* UG808 ***************************************/
@@ -560,11 +560,11 @@ function lidewapokerld4() {
 
 //******************************* 1XBET ***************************************/
 function xbet() {
-    window.open("https://lite-1x742136.top/?bf=601e5667af73c_1757240257");
+    window.open("https://lite-1x283524.top/?bf=601e5667af73c_1757240257");
 } // login & Link 1
 
 function xbet1() {
-    window.location.href = "https://lite-1x742136.top/?bf=601e5667af73c_1757240257";
+    window.location.href = "https://lite-1x283524.top/?bf=601e5667af73c_1757240257";
 } // link daftar
 
 function xbet2() {
@@ -576,19 +576,19 @@ function xbet3() {
 } // link 3
 
 function xbetld() {
-    setTimeout(function () { window.location.href = "https://lite-1x742136.top/?bf=601e5667af73c_1757240257"; }, 40000);
+    setTimeout(function () { window.location.href = "https://lite-1x283524.top/?bf=601e5667af73c_1757240257"; }, 40000);
 } // load
 
 function xbetld2() {
-    setTimeout(function () { window.location.href = "https://lite-1x742136.top/?bf=601e5667af73c_1757240257"; }, 32000);
+    setTimeout(function () { window.location.href = "https://lite-1x283524.top/?bf=601e5667af73c_1757240257"; }, 32000);
 } // load 2
 
 function xbetld3() {
-    setTimeout(function () { window.location.href = "https://lite-1x742136.top/?bf=601e5667af73c_1757240257"; }, 4000);
+    setTimeout(function () { window.location.href = "https://lite-1x283524.top/?bf=601e5667af73c_1757240257"; }, 4000);
 } // load 3
 
 function xbetld4() {
-    setTimeout(function () { window.location.href = "https://lite-1x742136.top/?bf=601e5667af73c_1757240257"; }, 13000);
+    setTimeout(function () { window.location.href = "https://lite-1x283524.top/?bf=601e5667af73c_1757240257"; }, 13000);
 } // load 4
 
 
