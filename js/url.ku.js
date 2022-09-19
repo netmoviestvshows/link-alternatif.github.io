@@ -122,35 +122,35 @@ function dewapokerld4() {
 
 //******************************* KDSLOT777 ***************************************/
 function kdslot() {
-    window.open("https://bit.ly/3vOIBQu");
+    window.open("https://bit.ly/3KcwDX5");
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href = "https://bit.ly/3vOIBQu";
+    window.location.href = "https://bit.ly/3KcwDX5";
 } // link daftar
 
 function kdslot2() {
-    window.open("https://bit.ly/3KcwDX5");
+    window.open("https://bit.ly/3QJsVXr");
 } // link 2
 
 function kdslot3() {
-    window.open("https://bit.ly/3QJsVXr");
+    window.open("https://bit.ly/3vOIBQu");
 } // link 3
 
 function kdslotld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3vOIBQu"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3KcwDX5"; }, 40000);
 } // load
 
 function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3vOIBQu"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3KcwDX5"; }, 32000);
 } // load 2
 
 function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3vOIBQu"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3KcwDX5"; }, 4000);
 } // load 3
 
 function kdslotld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3vOIBQu"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3KcwDX5"; }, 13000);
 } // load 4
 
 //******************************* SENIORTOGEL ***************************************/
@@ -188,35 +188,35 @@ function seniortogelld4() {
 
 //******************************* TEXASPOKERCC ***************************************/
 function texaspokercc() {
-    window.open("https://bit.ly/3qDNTLU");
+    window.open("https://bit.ly/3LpLw8O");
 } // login & Link 1
 
 function texaspokercc1() {
-    window.location.href = "https://bit.ly/3qDNTLU";
+    window.location.href = "https://bit.ly/3LpLw8O";
 } // link daftar
 
 function texaspokercc2() {
-    window.open("https://bit.ly/3JBotXT");
+    window.open("https://bit.ly/3qDNTLU");
 } // link 2
 
 function texaspokercc3() {
-    window.open("https://bit.ly/3RU9UkX");
+    window.open("https://bit.ly/3JBotXT");
 } // link 3
 
 function texaspokerccld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3qDNTLU"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3LpLw8O"; }, 40000);
 } // load
 
 function texaspokerccld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3qDNTLU"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3LpLw8O"; }, 32000);
 } // load 2
 
 function texaspokerccld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3qDNTLU"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3LpLw8O"; }, 4000);
 } // load 3
 
 function texaspokerccld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3qDNTLU"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3LpLw8O"; }, 13000);
 } // load 4
 
 
