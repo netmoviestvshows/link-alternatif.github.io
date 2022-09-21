@@ -188,11 +188,11 @@ function seniortogelld4() {
 
 //******************************* TEXASPOKERCC ***************************************/
 function texaspokercc() {
-    window.open("https://bit.ly/3LpLw8O");
+    window.open("https://texaspk-online22.com/referral/RUNNERS");
 } // login & Link 1
 
 function texaspokercc1() {
-    window.location.href = "https://bit.ly/3LpLw8O";
+    window.location.href = "https://texaspk-online22.com/referral/RUNNERS";
 } // link daftar
 
 function texaspokercc2() {
@@ -204,19 +204,19 @@ function texaspokercc3() {
 } // link 3
 
 function texaspokerccld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3LpLw8O"; }, 40000);
+    setTimeout(function () { window.location.href = "https://texaspk-online22.com/referral/RUNNERS"; }, 40000);
 } // load
 
 function texaspokerccld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3LpLw8O"; }, 32000);
+    setTimeout(function () { window.location.href = "https://texaspk-online22.com/referral/RUNNERS"; }, 32000);
 } // load 2
 
 function texaspokerccld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3LpLw8O"; }, 4000);
+    setTimeout(function () { window.location.href = "https://texaspk-online22.com/referral/RUNNERS"; }, 4000);
 } // load 3
 
 function texaspokerccld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3LpLw8O"; }, 13000);
+    setTimeout(function () { window.location.href = "https://texaspk-online22.com/referral/RUNNERS"; }, 13000);
 } // load 4
 
 
