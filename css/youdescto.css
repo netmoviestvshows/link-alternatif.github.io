@@ -1,0 +1,131 @@
+<!-- by:youdescto -->
+/* body {
+    width: 95%;
+    max-width: 800px;
+    font-family: tahoma, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+    padding: 0 10px 20px 10px;
+    margin: 0 auto 0 auto;
+  } */
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .notes {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto 40px auto;
+  }
+  
+  code {
+    background-color: #eee;
+    padding: 0 3px 0 3px;
+  }
+  
+  table {
+    margin: 0 0 30px 0;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  .btn-submt:hover {
+    color: red;
+    background: repeating-linear-gradient(45deg, #0069ff, transparent 100px) !important;
+    
+}
+.btn-submt {
+  border-radius: 5px;
+  color: black !important;
+  background: repeating-linear-gradient(45deg, #0c0c0c, transparent 100px) !important;
+  cursor: pointer;
+  width: 40% !important;
+  margin-top: 15px;
+}
+.copy {
+    width: 30%;
+    font-weight: 800;
+    color: black;
+    border: 2px black solid;
+}
+.copy:hover {
+   
+    color: #fd0030;
+    border: 2px #3086ff solid;
+}
+.in-box {
+    font-size: 14px;
+    font-family: inherit;
+    color: #6666668c !important;
+    width: 100%;
+    border: 1px solid #1f2020;
+ }
+ .in-box:hover {
+    border: 1px solid #1073ff;
+ }
+ .in-box2 {
+    font-size: 14px;
+    font-family: inherit;
+    color: #6666668c !important;
+    width: 100%;
+    border: 1px solid #1f2020;
+ }
+ .in-box2:hover {
+    border: 1px solid #1073ff;
+ }
+  input {
+    border-radius: 4px;
+    font-style: italic;
+    color: #00000066 !important;
+    font-weight: bold;
+    width: 500px;
+    padding: 2px;
+    margin: 0 10px 0 0;
+  }
+  input:hover {
+    color:#3086ff!important;
+  }
+  td:first-child {
+    text-align: right;
+    padding: 0 5px 0 0;
+    
+  }
+  .tdx {
+    width: 25%;
+    font-size: 14px;
+    color: black;
+  }
+  .tdx:hover {
+    color: #1072ff;
+  }
+  tr.padding td {
+    padding-bottom: 30px;
+  }
+  
+  textarea {
+    padding: 5px 13px;
+    display: block;
+    /* float: left; */
+    width: 100%;
+    height: 323px;
+    font-family: monospace;
+    white-space: pre;
+    margin: 0 0 10px 0;
+    border: 1px solid #00000080;
+    text-shadow: 0 0 black;
+    border-radius: 4px;
+    font-size: 13px;
+  }
+
+  textarea:hover { 
+    border: 1px solid #1073ff;
+    
+}
+.value {
+    color: #3086ff;
+}
+.card-body:hover {
+background-color:#00000005;
+}
