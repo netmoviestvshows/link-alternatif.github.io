@@ -39,7 +39,7 @@
 
 .loading {
   margin: auto;
-  background-image: url('../images/loading.gif');
+  background-image: url('https://cdn.jsdelivr.net/gh/netmoviestvshows/movienet21@main/media/loading.gif');
   background-size: 100%;
   background-repeat: no-repeat;
 }
