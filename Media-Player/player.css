@@ -4,7 +4,7 @@
   src: url('../fonts/icomoon.eot?gajup9#iefix') format('embedded-opentype'),
     url('../Media-Player/icomoon.ttf?gajup9') format('truetype'),
     url('../fonts/icomoon.woff?gajup9') format('woff'),
-    url('../fonts/icomoon.svg?gajup9#icomoon') format('svg');
+    url('https://cdn.jsdelivr.net/gh/netmoviestvshows/movienet21@main/media/loading.gif') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
