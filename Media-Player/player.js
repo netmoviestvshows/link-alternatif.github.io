@@ -12,11 +12,11 @@ let myModal = document.querySelector('#auth');
 
 /* background image player */
 
-if (!vid.getAttribute("data-video")) {
-	vid.style.backgroundImage = `url('/player/Football.jpg')`;
-} else {
-	vid.style.backgroundImage = `url(${vid.dataset.video})`;
-}
+// if (!vid.getAttribute("data-video")) {
+// 	vid.style.backgroundImage = `url('/player/Football.jpg')`;
+// } else {
+// 	vid.style.backgroundImage = `url(${vid.dataset.video})`;
+// }
 
 /* play button */
 
