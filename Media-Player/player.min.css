@@ -49,6 +49,7 @@
   padding: 0 1.6%;
   display: flex;
   box-sizing: border-box;
+  background-color: black;
 }
 
 .playSecondary {
@@ -304,7 +305,7 @@ ul.lengserup-content {
 @media (max-width: 575.98px) {
   .player {
     width: 100%;
-    height: 252px;
+    height: 215px;
   }
 
   .playPrimary img {
