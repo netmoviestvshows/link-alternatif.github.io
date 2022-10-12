@@ -235,9 +235,10 @@ blink {
 
 /* ================== lengser up ================== */
 .lengserbtn {
-  background-color: #000;
+  background-color: transparent;
   color: #fff;
-  padding: 1px;
+  padding: 5px;
+  font-size: 15px;
   border: none;
   transition: transform .2s;
 }
@@ -290,11 +291,11 @@ ul.lengserup-content {
 }
 
 .lengserup:hover .lengserbtn {
-  color: #ff0000;
+  color: #00c4ff;
 }
 
 .lengserbtn:hover {
-  color: #ff0000;
+  color: #00c4ff;
   transform: scale(1.2);
 }
 
