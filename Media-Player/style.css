@@ -1,6 +1,10 @@
 /*--------------------------------------------------------------
 	Common
 --------------------------------------------------------------*/
+::-webkit-scrollbar{width:5px}
+::-webkit-scrollbar-track{-webkit-border-radius:0;border-radius:0}
+::-webkit-scrollbar-thumb{-webkit-border-radius:0;border-radius:0;background:#0036FF}
+::-webkit-scrollbar-thumb:window-inactive{background:#fff}
 html {
   overflow-y: scroll;
   overflow-x: hidden;
@@ -614,7 +618,8 @@ a,
 /* Counter */
 #counter{position:fixed;right:15px;bottom:15px;background-color:rgba(0,0,0,.5);padding:7px 15px;}
 .globe{margin-right:10px;color:#fff;}
-.globe:before{content:"";height:19px;width:19px;position:absolute;top:7px;left:11px;border-width:2px;border-style:solid;border-color:#0036FF #0036FF #fff;border-
+.globe:before {content: ""; height: 19px; width: 19px; position: absolute; top: 7px; left: 11px;  border-width: 2px; border-style: solid;border-color: #0036FF #0036FF #fff; border-radius: 100%; animation: rotation 3s infinite linear; display: block;
+}
 .counter-value{color:#fff;}
 .blinking {
   animation: blinkingText 1.2s infinite;
