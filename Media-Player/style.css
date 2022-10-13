@@ -612,21 +612,10 @@ a,
 }
 
 /* Counter */
-#counter {
-  background: #0e75d2;
-  opacity: 0.8;
-  color: #fff;
-  border: 1px solid #fff;
-  border-radius: 2px;
-  padding: 6px 8px;
-  font-size: 10px;
-  position: fixed;
-  display: block;
-  bottom: 7px;
-  right: 53px;
-  z-index: 999;
-}
-
+#counter{position:fixed;right:15px;bottom:15px;background-color:rgba(0,0,0,.5);padding:7px 15px;}
+.globe{margin-right:10px;color:#fff;}
+.globe:before{content:"";height:19px;width:19px;position:absolute;top:7px;left:11px;border-width:2px;border-style:solid;border-color:#0036FF #0036FF #fff;border-
+.counter-value{color:#fff;}
 .blinking {
   animation: blinkingText 1.2s infinite;
 }
@@ -2128,14 +2117,7 @@ div.gsilvers:hover {
 /*--------------------------------------------------------------
 	Fun fact
 --------------------------------------------------------------*/
-.count-item {
-  text-align: center;
-}
 
-.count-icon {
-  line-height: 1.2;
-  font-size: 42px;
-}
 
 /*--------------------------------------------------------------
 	Video Box
@@ -3157,6 +3139,11 @@ margin-left: 75px;
 }
 
 @media (max-width: 767px) {
+
+    /* Counter */
+    #counter{position:relative;right:auto;bottom:auto;background-color:rgba(0,0,0,.5);padding:10px 15px 50px;text-align:center;clear:both}
+    #counter .globe{position:relative;}
+    #counter .globe:before{top:0;left:-3px;}
 
   /* Navbar */
   .navbar-custom .navbar-nav {
