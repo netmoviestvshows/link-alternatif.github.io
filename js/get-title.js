@@ -1,17 +1,17 @@
-function GetURLParameter(sParam)
-{
-    var sPageURL = window.location.search.substring(1);
-    var sURLVariables = sPageURL.split('&');
-    for (var i = 0; i < sURLVariables.length; i++) 
-    {
-        var sParameterName = sURLVariables[i].split('=');
-        if (sParameterName[0] == sParam) 
-        {
-            return sParameterName[1];
-        }
-    }
+//ambil URL
+var url = window.location.toString();
+//ambil bagian parameternya
+url.match(/\?(.+)$/);
+var params = RegExp.$1;
+// pisahkan parameter URL ke associative array
+var params = params.split("&");
+var queryStringList = {};
+for(var i=0;i<params.length;i++)
+{   var tmp = params[i].split("=");
+    queryStringList[tmp[0]] = unescape(tmp[1]);
 }
-var live = GetURLParameter('live');
-var sport = GetURLParameter('sport');
-document.getElementById("param-value").innerHTML = live;
-document.getElementById("sport").innerHTML = sport;
+// tampilkan isi associative array
+for(var i in queryStringList)
+{   var res = queryStringList[i].replace(/[+]/g, " ");
+    document.write(i+"  "+res+"<br/>");
+}
