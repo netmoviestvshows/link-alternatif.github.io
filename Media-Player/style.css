@@ -618,20 +618,23 @@ a,
 
 /* Counter */
 #counter {
-  background: #0e75d2;
-  opacity: 0.8;
-  color: #fff;
-  border: 1px solid #fff;
-  border-radius: 2px;
-  padding: 6px 8px;
-  font-size: 10px;
-  position: fixed;
-  display: block;
-  bottom: 7px;
-  right: 53px;
-  z-index: 999;
+    /* background: #0e75d2; */
+    opacity: 0.8;
+    color: #00a1ff;
+    border-bottom: 1px solid #00a1ff;
+    border-radius: 2px;
+    padding: 2px 4px;
+    font-size: 11px;
+    position: fixed;
+    display: block;
+    bottom: 7px;
+    border-radius: 9px;
+    right: 53px;
+    box-shadow: 1px 0px 23px -4px #0098ff;
+    z-index: 999;
 }
-
+.globe{font-size: 12px;}
+.counter-value{color: #fbfbfb;font-size: 11px;font-weight: 500;padding: 0 1px;}
 .blinking {
   animation: blinkingText 1.2s infinite;
 }
