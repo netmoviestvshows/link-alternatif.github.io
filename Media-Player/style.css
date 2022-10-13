@@ -2798,11 +2798,21 @@ div.gsilvers:hover {
   margin-left: 75px;
   margin-bottom: 30px;
 }
-
+@media (max-width: 575.98px) {
+.hd-quaity {
+    padding-top: 25px;
+    width: 80%;
+}
+.post.hentry h1 {
+font: normal normal 900 28px 'Fira Sans Condensed', sans-serif;
+font-size: 24px;
+margin-bottom: 10px;
+}
+}
 @media (min-width: 768px) {
-  .comment .comment {
-    margin-left: 75px;
-  }
+.comment .comment {
+margin-left: 75px;
+}
 }
 
 /*--------------------------------------------------------------
