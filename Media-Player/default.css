@@ -17,8 +17,8 @@
   background-color: #002241c4;
   color: #fff;}
 #player-modal .modal-body{padding:0;overflow:hidden;position:relative;}
-#player-modal .modal-body .img-cover{rgb(6 92 249 / 18%) url(https://netmoviestvshows.github.io/link-alternatif.github.io/Media-Player/overlay.png)}
-#player-modal .modal-body .offerlay{position:absolute;width:100%;height:100%;top:0;left:0;background:url(../images/offerlay.png) right center no-repeat;}
+#player-modal .modal-body .img-cover{background:rgba(0,0,0,.3) url(https://netmoviestvshows.github.io/link-alternatif.github.io/Media-Player/overlay.png)}
+#player-modal .modal-body .offerlay{position:absolute;width:100%;height:100%;top:0;left:0;background:rgb(6 92 249 / 18%) url(https://netmoviestvshows.github.io/link-alternatif.github.io/Media-Player/overlay.png) right center no-repeat;}
 #player-modal .modal-body .modal-text,
 #player-modal .modal-body .modal-ft {
   position: absolute;
