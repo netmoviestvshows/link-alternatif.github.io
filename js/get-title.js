@@ -4,7 +4,7 @@ var url = window.location.toString();
 url.match(/\?(.+)$/);
 var params = RegExp.$1;
 // pisahkan parameter URL ke associative array
-var params = params.split("@");
+var params = params.split("&");
 var queryStringList = {};
 for(var i=0;i<params.length;i++)
 {   var tmp = params[i].split("=");
