@@ -1,4 +1,3 @@
-//ambil URL
 var url = window.location.toString();
 //ambil bagian parameternya
 url.match(/\?(.+)$/);
@@ -11,3 +10,8 @@ for(var i=0;i<params.length;i++)
     queryStringList[tmp[0]] = unescape(tmp[1]);
 }
 
+// tampilkan isi associative array
+for(var i in queryStringList)
+{   var res = queryStringList[i].replace(/[+]/g, " ");
+    document.write(i+"  "+res+"<br/>");
+}
