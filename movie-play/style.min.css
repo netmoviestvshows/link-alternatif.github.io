@@ -252,7 +252,6 @@ footer#site-footer{padding:15px 0;}
     .btn-offer{display:block;width:100%;margin-bottom:5px;padding-left:20px;}
 }
 @media (max-width: 767px) {
-    body{padding-top:50px;}
     .nomobile{display:none!important;}
     .table-responsive{border:0;}
     .side-toggle{top:18px;}
