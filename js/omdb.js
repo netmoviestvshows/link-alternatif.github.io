@@ -60,6 +60,8 @@ let getMovie = () => {
 #videoPlayer {
   background-size: 35% !important;
     background: url(${data.Poster});}
+#player-modal .modal-body .offerlay {
+background: url(${data.Poster});}
 </style>
           `;
         }
