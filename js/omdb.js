@@ -56,6 +56,11 @@ let getMovie = () => {
   
 </div>
 </div>
+<style>
+#videoPlayer {
+  background-size: cover !important;
+    background: url(${data.Poster});}
+</style>
           `;
         }
         //If movie does NOT exists in database
