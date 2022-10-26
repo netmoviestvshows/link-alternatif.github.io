@@ -58,7 +58,7 @@ let getMovie = () => {
 </div>
 <style>
 #videoPlayer {
-  background-size: cover !important;
+  background-size: 35% !important;
     background: url(${data.Poster});}
 </style>
           `;
