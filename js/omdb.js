@@ -101,7 +101,7 @@ var apiKey = '0ceedd539b0a1efa834d0c7318eb6355';
   var imgback = "https://image.tmdb.org/t/p/w1280/"
   
   //defining the search value from the input
-  var search = $("#search").val();
+  var search = $("#movie-name").val();
   console.log()
   //this query allows users to search by title which is input by the user
   $http.get('https://api.themoviedb.org/3/search/multi?api_key=' + apiKey + '&query=' + search)
