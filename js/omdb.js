@@ -56,7 +56,14 @@ let getMovie = () => {
   
 </div>
 </div>
-
+<style>
+#videoPlayer {
+  background-size: 35% !important;
+    background: url({{backdrops}});}
+#player-modal .modal-body .offerlay {
+background-size: 50% !important;
+background: url(${data.Poster});}
+</style>
           `;
         }
         //If movie does NOT exists in database
