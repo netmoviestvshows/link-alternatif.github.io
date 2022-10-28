@@ -21,9 +21,7 @@ let getMovie = () => {
         if (data.Response == "True") {
           result.innerHTML = `
           <div class="row">
-<div class="col-md-3 text-center">
-<div class="separator" style="clear: both;"><a href="{{Poster}}" style="display: block; padding: 0.5em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="450" data-original-width="300" src="{{Poster}}"/></a></div> 
-</div>
+
 <div class="col-md-9 text-center">
 <div style="text-align: start;">${data.Title} ${data.Year}  ${data.Plot}</div>
 <div role="tabpanel" class="tab-pane fade active in" id="details">
