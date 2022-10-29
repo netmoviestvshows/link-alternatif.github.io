@@ -191,13 +191,13 @@ a.side-list:hover{background-color:#222;}
 /* button */
 #button-offer{padding:15px 0;background:#000;}
 .btn-offer:focus,.btn-offer:active{color:#fff;}
-.btn-watch{background-color:#2f11a6;}
-.btn-download{background-color:#2f11a6;}
+.btn-watch{background-color:#a91111;}
+.btn-download{background-color:#a91111;}
 .btn-offer{outline:none!important;color:#fff;padding:15px 20px 15px 70px;text-decoration:none;border-radius:3px;font-family:Oswald,Sans-serif;font-weight:700;letter-spacing:1px;text-shadow:0 1px 1px #000;position:relative;text-transform:uppercase}
 .btn-bg{color:#fff;display:inline-block;position:absolute;width:30px;height:54px;top:0px;left:-1px;background-color:#333;border-radius:3px 0 0 3px}
 .btn-bg:before{background-color:#9C360E;content:"";position:absolute;top:8px;width:38px;height:38px;background:inherit;border:inherit;border-left-color:transparent;border-bottom-color:transparent;border-radius:0 4px 0 0;-webkit-border-radius:0 4px 0 0;-moz-border-radius:0 4px 0 0;transform:rotate(45deg);-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-o-transform:rotate(45deg);-ms-transform:rotate(45deg);left:10px;border-right:1px solid;border-top:1px solid}
 .btn-bg .icon{position:relative;top:16px;left:7px}
-.btn-watch:hover{color:#fff;background-color:#1FA611;}
+.btn-watch:hover{color:#fff;background-color:#00adff;}
 .btn-download:hover{color:#fff;background-color:#444;}
 .sub-section span, .widget-title span{background:#1FA611;}
 /* player */
