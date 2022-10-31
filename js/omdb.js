@@ -42,7 +42,7 @@ let getMovie = () => {
 <tr>
 <tr>
 <th>Company/Net</th>
-<td>: ${data.Runtime}</td></tr>
+<td>: <a id='net'/></td></tr>
 <tr>
 <th>Country</th>
 <td>: ${data.Country}</td></tr>
