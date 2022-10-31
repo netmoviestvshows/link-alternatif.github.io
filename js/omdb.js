@@ -35,13 +35,13 @@ let getMovie = () => {
 <td>: ${data.Language}</td></tr>
 <tr>
 <th>Type</th>
-<td>: ${data.Rated} [${data.Type}] ${data.Runtime}</td></tr>
+<td>: <a class='typ'>${data.Type}</a> | ${data.Rated} | ${data.Runtime}</td></tr>
 <tr>
   <th>Release Date</th>
 <td>: ${data.Released}</td></tr>
 <tr>
 <tr>
-<th>Company/Net</th>
+<th><a id='name-net'/></th>
 <td>: <a id='net'/></td></tr>
 <tr>
 <th>Country</th>
