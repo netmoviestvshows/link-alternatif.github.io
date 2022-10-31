@@ -82,9 +82,9 @@ a.nodecor:hover,a.nodecor:focus{text-decoration:none;}
 #search-modal .search-option{background-color:#111;}
 #player-modal .modal-header{font-family:Oswald,Sans-serif;font-size:20px;text-transform:uppercase;position:absolute;width:100%;z-index:1;background-color:rgba(0,0,0,.8);color:#fff;}
 #player-modal .modal-body{padding:0;overflow:hidden;position:relative;}
-#player-modal .modal-body .img-cover{background:rgba(0,0,0,.3) url(https://netmoviestvshows.github.io/link-alternatif.github.io/Media-Player/overlay.png);}
+#player-modal .modal-body .img-cover{background:rgb(0 0 0 / 0%) url(https://netmoviestvshows.github.io/link-alternatif.github.io/Media-Player/overlay.png);}
 #player-modal .modal-body .offerlay{position:absolute;width:100%;height:100%;top:0;left:0;background:url(https://netmoviestvshows.github.io/link-alternatif.github.io/Media-Player/offerlay.png) right center no-repeat;}
-#player-modal .modal-body .modal-text,#player-modal .modal-body .modal-ft{position:absolute;bottom:81px;padding:10px 15px;width:50%;background-color:rgba(0,0,0,.7);font-size:larger;font-family:Oswald,Sans-serif;text-transform:uppercase;}
+#player-modal .modal-body .modal-text,#player-modal .modal-body .modal-ft{color: #0761a1;position: absolute;line-height: 20px;bottom: 81px;padding: 10px 15px;width: 50%;background-color: rgba(0,0,0,.7);font-size: larger;font-family: Oswald,Sans-serif;text-transform: uppercase;}
 #player-modal .modal-body .modal-text{opacity:1;left:0;}
 #player-modal .modal-body .modal-ft{opacity:0;left:-15px;}
 #player-modal .modal-body .modal-ft ul{list-style:none;}
