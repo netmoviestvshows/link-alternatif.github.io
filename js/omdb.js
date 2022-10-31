@@ -25,7 +25,7 @@ let getMovie = () => {
 <div class="col-md-9 text-center">
 <div style="text-align: start;">${data.Title} ${data.Year}  ${data.Plot}</div>
  <div class="genre">
- <div class="rating"><img src="https://api.iconify.design/ep/star-filled.svg?color=yellow&width=10&height=10"><h4>${data.imdbRating}</h4></div> 
+ <div class="rating"><img src="https://api.iconify.design/ep/star-filled.svg?color=yellow&width=10&height=10"><a>${data.imdbRating}</a></div> 
 <div>${data.Genre.split(",").join("</div><div>")}</div>
 </div>   
 <div role="tabpanel" class="tab-pane fade active in" id="details">
@@ -34,16 +34,14 @@ let getMovie = () => {
 <tr><th>Subtitle</th>
 <td>: ${data.Language}</td></tr>
 <tr>
-<th>Rating</th>
-<td>: ${data.imdbRating} ${data.Rated} [${data.Type}]</td></tr>
+<th>Type</th>
+<td>: ${data.Rated} [${data.Type}] ${data.Runtime}</td></tr>
 <tr>
   <th>Release Date</th>
 <td>: ${data.Released}</td></tr>
 <tr>
-<th>Genres</th>
-<td>: ${data.Genre.split(",").join(",")}</td></tr>
 <tr>
-<th>Runtime</th>
+<th>Company/Net</th>
 <td>: ${data.Runtime}</td></tr>
 <tr>
 <th>Country</th>
