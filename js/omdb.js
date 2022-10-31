@@ -24,7 +24,9 @@ let getMovie = () => {
 
 <div class="col-md-9 text-center">
 <div style="text-align: start;">${data.Title} ${data.Year}  ${data.Plot}</div>
+ <div class="genre">
 <div>${data.Genre.split(",").join("</div><div>")}</div>
+</div>   
 <div role="tabpanel" class="tab-pane fade active in" id="details">
 <table class="table table-condensed table-bordered table-hover">
 <tbody>
