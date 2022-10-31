@@ -41,7 +41,7 @@ let getMovie = () => {
 <td>: ${data.Released}</td></tr>
 <tr>
 <tr>
-<th><a id='name-net'/></th>
+<th><a id='namenet'/></th>
 <td>: <a id='net'/></td></tr>
 <tr>
 <th>Country</th>
