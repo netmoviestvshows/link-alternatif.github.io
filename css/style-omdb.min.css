@@ -189,7 +189,7 @@ a.side-list:hover{background-color:#222;}
 .list-group-item.comment .list-group-item-text{padding:10px 0;}
 .list-group-item.comment .list-group-item-heading{font-size:initial;color:#fff;}
 /* button */
-#button-offer{padding:15px 0;background:#000;}
+#button-offer{padding-top: 15px; /* background: #000; */ /* box-shadow: -3px -9px 74px 20px black;*/}
 .btn-offer:focus,.btn-offer:active{color:#fff;}
 .btn-watch{background-color:#073870;}
 .btn-download{background-color:#073870;}
