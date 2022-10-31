@@ -212,7 +212,7 @@ a.side-list:hover{background-color:#222;}
 .media-controls{position:absolute;width:100%;left:0;bottom:-1px;background:rgba(0,0,0,.8);opacity:1;}
 .media-controls .btn{outline:0!important;height:36px;background:0 0;color:#00adff;float:left;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;-webkit-background-clip:padding-box;-moz-background-clip:padding;background-clip:padding-box}
 .media-controls .btn:hover{color:#fff;}
-#durasi{color:#00adff;text-decoration: none;}
+#durasi .css_blink .titik2 {color:#00adff;text-decoration: none;}
 .media-controls #sliderContainer{padding:6px 14px 10px;position:absolute;margin-top:-117px!important;display:none;background:#000;background:0 0\9;background:rgba(0,0,0,.6);filter:progid: DXImageTransform.Microsoft.gradient(startColorstr=#66000000, endColorstr=#66000000, GradientType=1);zoom:1}
 .media-controls #rightControls .btn{box-shadow:none}
 .media-controls .glyphicon-hd-video{position:absolute;right:0;color:#c9c31b}
