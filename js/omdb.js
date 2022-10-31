@@ -25,6 +25,7 @@ let getMovie = () => {
 <div class="col-md-9 text-center">
 <div style="text-align: start;">${data.Title} ${data.Year}  ${data.Plot}</div>
  <div class="genre">
+ <div class="rating"><img src="https://api.iconify.design/ep/star-filled.svg?color=yellow&width=10&height=10"><h4>${data.imdbRating}</h4></div> 
 <div>${data.Genre.split(",").join("</div><div>")}</div>
 </div>   
 <div role="tabpanel" class="tab-pane fade active in" id="details">
