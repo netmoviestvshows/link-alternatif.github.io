@@ -191,13 +191,13 @@ a.side-list:hover{background-color:#222;}
 /* button */
 #button-offer{padding:15px 0;background:#000;}
 .btn-offer:focus,.btn-offer:active{color:#fff;}
-.btn-watch{background-color:#a91111;}
-.btn-download{background-color:#a91111;}
+.btn-watch{background-color:#073870;}
+.btn-download{background-color:#073870;}
 .btn-offer{outline:none!important;color:#fff;padding:15px 20px 15px 70px;text-decoration:none;border-radius:3px;font-family:Oswald,Sans-serif;font-weight:700;letter-spacing:1px;text-shadow:0 1px 1px #000;position:relative;text-transform:uppercase}
 .btn-bg{color:#fff;display:inline-block;position:absolute;width:30px;height:54px;top:0px;left:-1px;background-color:#333;border-radius:3px 0 0 3px}
 .btn-bg:before{background-color:#9C360E;content:"";position:absolute;top:8px;width:38px;height:38px;background:inherit;border:inherit;border-left-color:transparent;border-bottom-color:transparent;border-radius:0 4px 0 0;-webkit-border-radius:0 4px 0 0;-moz-border-radius:0 4px 0 0;transform:rotate(45deg);-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-o-transform:rotate(45deg);-ms-transform:rotate(45deg);left:10px;border-right:1px solid;border-top:1px solid}
 .btn-bg .icon{position:relative;top:16px;left:7px}
-.btn-watch:hover{color:#fff;background-color:#00adff;}
+.btn-watch:hover{color:#fff;background-color:#a91111;}
 .btn-download:hover{color:#fff;background-color:#444;}
 .sub-section span, .widget-title span{background:#00a2f7;}
 /* player */
@@ -209,7 +209,7 @@ a.side-list:hover{background-color:#222;}
 .spinner.loading:before{content:"";height:66px;width:66px;margin:-36px auto auto -33px;position:absolute;top:50%;left:50%;border-width:3px;border-style:solid;border-color:#00a2f7 #00a2f7 #111;border-radius:100%;animation:rotation .7s infinite linear}
 @keyframes rotation{from{transform:rotate(0)}to{transform:rotate(359deg)}}
 .play-wrapper{position:absolute;width:100%;height:100%;text-align:center;display:table;visibility:hidden;}
-.media-controls{position:absolute;width:100%;left:0;bottom:-36px;background:rgba(0,0,0,.8);opacity:0;}
+.media-controls{position:absolute;width:100%;left:0;bottom:-1px;background:rgba(0,0,0,.8);opacity:1;}
 .media-controls .btn{outline:0!important;height:36px;background:0 0;color:#00adff;float:left;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;-webkit-background-clip:padding-box;-moz-background-clip:padding;background-clip:padding-box}
 .media-controls .btn:hover{color:#fff;}
 #durasi{color:#00adff;text-decoration: none;}
