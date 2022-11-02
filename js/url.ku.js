@@ -61,7 +61,7 @@ function miyabipoker() {
     window.open("https://bit.ly/3Upt6bT");
 } // login & link1
 
-function miyabioker1() {
+function miyabipoker1() {
     window.location.href = "https://bit.ly/3Upt6bT";
 } // link daftar
 
