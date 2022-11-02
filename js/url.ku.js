@@ -54,6 +54,42 @@ function nagapokerld4() {
     setTimeout(function () { window.location.href = "https://bit.ly/3SEuw1P"; }, 13000);
 } // load 4
 
+
+//******************************* MIYABIPOKER ***************************************/
+
+function miyabipoker() {
+    window.open("https://bit.ly/3Upt6bT");
+} // login & link1
+
+function miyabioker1() {
+    window.location.href = "https://bit.ly/3Upt6bT";
+} // link daftar
+
+function miyabipoker2() {
+    window.open("https://bit.ly/3Upt6bT");
+} // link 2
+
+function miyabipoker3() {
+    window.open("https://bit.ly/3Upt6bT");
+} // link 3
+
+function miyabipokerld() {
+    setTimeout(function () { window.location.href = "https://bit.ly/3Upt6bT"; }, 40000);
+} // load
+
+function miyabipokerld2() {
+    setTimeout(function () { window.location.href = "https://bit.ly/3Upt6bT"; }, 32000);
+} // load 2
+
+function miyabiokerld3() {
+    setTimeout(function () { window.location.href = "https://bit.ly/3Upt6bT"; }, 4000);
+} // load 3
+
+function miyabipokerld4() {
+    setTimeout(function () { window.location.href = "https://bit.ly/3Upt6bT"; }, 13000);
+} // load 4
+
+
 //******************************* BIGWIN333 ***************************************/
 function bigwin() {
     window.open("https://bit.ly/3Tgna49");
