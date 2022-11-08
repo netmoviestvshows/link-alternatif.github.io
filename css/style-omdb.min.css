@@ -4,7 +4,7 @@
 ::-webkit-scrollbar-track{-webkit-border-radius:0;border-radius:0}
 ::-webkit-scrollbar-thumb{-webkit-border-radius:0;border-radius:0;background:#e60000}
 ::-webkit-scrollbar-thumb:window-inactive{background:#fff}
-.label-primary{background-color:#e60000;}
+.label-primary{background-color:#073870;}
 .ellipsis{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .inblock{display:inline-block;}
 .pointer:hover{cursor:pointer;}
