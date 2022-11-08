@@ -11,7 +11,7 @@
 .ease{transition:all .3s ease-in-out}
 .vam{display:table-cell;vertical-align:middle;}
 .text-color{color:#00a2f7;}
-.sub-section:after, .widget-title:after{background:#00a2f7;}
+.sub-section:after, .widget-title:after{background:#073870;}
 body{padding-top:71px;font-family:'Open Sans',sans-serif;background:#000;background-attachment:fixed;color:#999;font-size:13px;}
 h1,h2,h3,h4{font-family:'Oswald',sans-serif;}
 textarea{resize:vertical;}
@@ -199,7 +199,7 @@ a.side-list:hover{background-color:#222;}
 .btn-bg .icon{position:relative;top:16px;left:7px}
 .btn-watch:hover{color:#fff !important;background-color:#a91111;}
 .btn-download:hover{color:#fff;background-color:#444;}
-.sub-section span, .widget-title span{background:#00a2f7;}
+.sub-section span, .widget-title span{background:#073870;}
 /* player */
 #player,#home{padding:15px 0;background:url(https://awllpaper.com/wp-content/uploads/2019/03/3d-ball-wallpaper-orig.jpg) 0 0 no-repeat;background-size:cover;position:relative;background-attachment:fixed;}
 .player-cover{position:absolute;margin-top:-15px;width:100%;height:100%;}
