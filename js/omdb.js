@@ -31,8 +31,8 @@ let getMovie = () => {
 <div role="tabpanel" class="tab-pane fade active in" id="details">
 <table class="table table-condensed table-bordered table-hover">
 <tbody>
-<tr><th>Subtitle</th>
-<td>: ${data.Language}, Belgium, Spanish, Franch, German, Italiano,Dutch,Portuguese etc.</td></tr>
+<tr><th>Subtitle Available</th>
+<td>: ${data.Language}, Belgium, Spanish, Franch, German, Italiano, Dutch, Portuguese etc.</td></tr>
 <tr>
 <th>Type</th>
 <td>: <a class='typ'>${data.Type}</a> | ${data.Rated} | ${data.Runtime}</td></tr>
@@ -40,11 +40,13 @@ let getMovie = () => {
   <th>Release Date</th>
 <td>: ${data.Released}</td></tr>
 <tr>
+<th>Director</th>
+<th> ${data.Director}</th>
 <tr>
-<th><a id='namenet'/></th>
-<td>: <a id='net'/></td></tr>
+<th>Production</th>
+<td>: ${data.Production}</td></tr>
 <tr>
-<th>Country</th>
+<th>Production Countries</th>
 <td>: ${data.Country}</td></tr>
 <tr>
 <th>Casts</th>
