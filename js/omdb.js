@@ -32,7 +32,7 @@ let getMovie = () => {
 <table class="table table-condensed table-bordered table-hover">
 <tbody>
 <tr><th>Subtitle</th>
-<td>: ${data.Language}</td></tr>
+<td>: ${data.Language}, Belgium, Spanish, Franch, German, Italiano,Dutch,Portuguese etc.</td></tr>
 <tr>
 <th>Type</th>
 <td>: <a class='typ'>${data.Type}</a> | ${data.Rated} | ${data.Runtime}</td></tr>
