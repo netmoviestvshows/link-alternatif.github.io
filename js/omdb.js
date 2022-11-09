@@ -46,7 +46,7 @@ let getMovie = () => {
 <th>Production</th>
 <td>: ${data.Production}</td></tr>
 <tr>
-<th>Production Countries</th>
+<th>Production Country</th>
 <td>: ${data.Country}</td></tr>
 <tr>
 <th>Casts</th>
