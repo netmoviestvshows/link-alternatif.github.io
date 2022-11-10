@@ -92,11 +92,11 @@ function miyabipokerld4() {
 
 //******************************* BIGWIN333 ***************************************/
 function bigwin() {
-    window.open("https://bit.ly/3Tgna49");
+    window.open("https://bit.ly/3UDjN8o");
 } // login & link1
 
 function bigwin1() {
-    window.location.href = "https://bit.ly/3Tgna49";
+    window.location.href = "https://bit.ly/3UDjN8o";
 } // link daftar
 
 function bigwin2() {
@@ -108,28 +108,28 @@ function bigwin3() {
 } // link 3
 
 function bigwinld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3Tgna49"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3UDjN8o"; }, 40000);
 } // load
 
 function bigwinld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3Tgna49"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3UDjN8o"; }, 32000);
 } // load 2
 
 function bigwinld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3Tgna49"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3UDjN8o"; }, 4000);
 } // load 3
 
 function bigwinld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3Tgna49"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3UDjN8o"; }, 13000);
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
 function dewapoker() {
-    window.open("https://bit.ly/3xD5NPO");
+    window.open("https://bit.ly/3E3y7jQ");
 } // login & Link 1
 
 function dewapoker1() {
-    window.location.href = "https://bit.ly/3xD5NPO";
+    window.location.href = "https://bit.ly/3E3y7jQ";
 } // link daftar
 
 function dewapoker2() {
@@ -141,28 +141,28 @@ function dewapoker3() {
 } // link 3
 
 function dewapokerld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3xD5NPO"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3E3y7jQ"; }, 40000);
 } // load
 
 function dewapokerld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3xD5NPO"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3E3y7jQ"; }, 32000);
 } // load 2
 
 function dewapokerld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3xD5NPO"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3E3y7jQ"; }, 4000);
 } // load 3
 
 function dewapokerld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3xD5NPO"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3E3y7jQ"; }, 13000);
 } // load 4
 
 //******************************* KDSLOT777 ***************************************/
 function kdslot() {
-    window.open("https://bit.ly/3EB1P1c");
+    window.open("https://bit.ly/3NSZscO");
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href = "https://bit.ly/3EB1P1c";
+    window.location.href = "https://bit.ly/3NSZscO";
 } // link daftar
 
 function kdslot2() {
@@ -174,19 +174,19 @@ function kdslot3() {
 } // link 3
 
 function kdslotld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3EB1P1c"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3NSZscO"; }, 40000);
 } // load
 
 function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3EB1P1c"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3NSZscO"; }, 32000);
 } // load 2
 
 function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3EB1P1c"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3NSZscO"; }, 4000);
 } // load 3
 
 function kdslotld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3EB1P1c"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3NSZscO"; }, 13000);
 } // load 4
 
 //******************************* SENIORTOGEL ***************************************/
