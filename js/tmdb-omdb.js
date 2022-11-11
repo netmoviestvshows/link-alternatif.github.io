@@ -87,7 +87,7 @@ var apiKey = '0ceedd539b0a1efa834d0c7318eb6355';
           $scope.rating = "Rating: " + response.data.results[0].vote_average;
           $scope.release = "Release: " + response.data.results[0].release_date;
           $scope.runtime = "runtime: " + response.data.results[0].runtime;
-          $scope.type = "Type: " + response.data.results[0].media_type;
+          $scope.type = response.data.results[0].media_type;
           $scope.production =
             " Companies: " + response.data.results[0].production_companies;
           console.log($scope.production);
