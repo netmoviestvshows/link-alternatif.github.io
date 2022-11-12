@@ -12,9 +12,10 @@ function getQueryStringParam(param) {
 }
 
 
+
 if (getQueryStringParam("get")) {
-  var get = getQueryStringParam("get");
-  document.getElementById("param-value").innerHTML = " " + get + "";
+  var cmMmc = getQueryStringParam("get");
+  document.getElementById("param-value").innerHTML = "" + cmMmc + "";
 } else {
   document.getElementById("param-value").innerHTML = "";
 }
