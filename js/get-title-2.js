@@ -19,3 +19,11 @@ if (getQueryStringParam("episode")) {
 } else {
   document.getElementById("episode-title").innerHTML = "";
 }
+
+
+if (getQueryStringParam("episode")) {
+  var episode = getQueryStringParam("episode");
+  document.getElementById("episode2-title").innerHTML = " episode " + episode + "";
+} else {
+  document.getElementById("episode2-title").innerHTML = "";
+}
