@@ -14,8 +14,8 @@ function getQueryStringParam(param) {
 
 
 if (getQueryStringParam("episode")) {
-  var cmMmc = getQueryStringParam("episode");
-  document.getElementById("param-value").innerHTML = "episode " + cmMmc + "";
+  var episode = getQueryStringParam("episode");
+  document.getElementById("param-value").innerHTML = "episode " + episode + "";
 } else {
   document.getElementById("param-value").innerHTML = "";
 }
