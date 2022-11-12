@@ -1,4 +1,4 @@
-function getQueryStringParam(param) {
+ function getQueryStringParam(param) {
   var url = window.location.toString();
   url.match(/\?(.+)$/);
   var params = RegExp.$1;
@@ -15,7 +15,7 @@ function getQueryStringParam(param) {
 
 if (getQueryStringParam("episode")) {
   var episode = getQueryStringParam("episode");
-  document.getElementById("param-value").innerHTML = "episode " + episode + "";
+  document.getElementById("episode-title").innerHTML = " " + episode + "";
 } else {
-  document.getElementById("param-value").innerHTML = "";
+  document.getElementById("episode-title").innerHTML = "";
 }
