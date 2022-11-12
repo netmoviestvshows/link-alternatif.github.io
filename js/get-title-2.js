@@ -15,7 +15,7 @@
 
 if (getQueryStringParam("episode")) {
   var episode = getQueryStringParam("episode");
-  document.getElementById("episode-title").innerHTML = "episode" + episode + "";
+  document.getElementById("episode-title").innerHTML = " episode " + episode + "";
 } else {
   document.getElementById("episode-title").innerHTML = "";
 }
