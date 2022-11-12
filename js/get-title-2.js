@@ -1,4 +1,4 @@
-<script>
+
 function getQueryStringParam(param) {
   var url = window.location.toString();
   url.match(/\?(.+)$/);
