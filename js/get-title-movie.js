@@ -15,3 +15,5 @@ for(var i in queryStringList)
 {   var res = queryStringList[i].replace(/[+]/g, " ");
     document.write(i+"  "+res+"<br/><br/>");
 }
+
+error_reporting(0);
