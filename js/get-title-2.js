@@ -1,4 +1,3 @@
-
 function getQueryStringParam(param) {
   var url = window.location.toString();
   url.match(/\?(.+)$/);
@@ -13,10 +12,9 @@ function getQueryStringParam(param) {
 }
 
 
-
 if (getQueryStringParam("get")) {
   var get = getQueryStringParam("get");
-  document.getElementById("get-title").innerHTML = " " + get + "";
+  document.getElementById("param-value").innerHTML = " " + get + "";
 } else {
-  document.getElementById("get-title").innerHTML = "";
+  document.getElementById("param-value").innerHTML = "";
 }
