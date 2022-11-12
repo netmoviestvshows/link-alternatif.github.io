@@ -16,4 +16,4 @@ for(var i in queryStringList)
     document.write(i+"  "+res+"<br/><br/>");
 }
 
-error_reporting(0);
+error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_DEPRECATED);
