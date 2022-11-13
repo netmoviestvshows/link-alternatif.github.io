@@ -356,7 +356,7 @@ h1.entry-title, h1.page-title {
     #ext-download .ext-row .ext-title{padding-right:100px;}
     .site-links,.site-credit{text-align:center;}
     .site-links li:first-child a{padding-left:10px;}
-    #counter{position:relative;right:auto;bottom:auto;background-color:rgba(0,0,0,.5);padding:10px 15px 50px;text-align:center;clear:both}
+    #counter{text-shadow: 0 0px 9px #00b2ff;position: fixed;right: 0;bottom: 0; background-color: rgb(0 0 0 / 0%); /* padding: 10px 15px 50px; */ text-align: center; clear: both;}
     #counter .globe{position:relative;}
     #counter .globe:before{top:0;left:-3px;}
 }
