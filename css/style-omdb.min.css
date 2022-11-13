@@ -146,7 +146,7 @@ form .input-group{width:100%;margin-bottom:5px}
 .season-list .media i{display:block;}
 .main-poster{margin-bottom:15px;}
 h2.sub-title,h3.sub-title{margin-top:0;}
-.widget{margin-bottom:15px;}
+.widget{margin-bottom:0;}
 .sub-section, .widget-title{height:24px;}
 .sub-section span,.widget-title span{float:left;margin-right:20px;padding:5px 10px;text-transform:uppercase;color:#fff;background:#B9090B;font-size:13px}
 .sub-section:after,.widget-title:after{content:"";background:#073870;height:1px;overflow:hidden;display:block;position:relative;top:10px}
