@@ -549,6 +549,7 @@ function fetch(){
 
 //the results only return a partial img path so this is added to provide the full url to display the poster... those tricksters!
 var apiKey = '0ceedd539b0a1efa834d0c7318eb6355';
+  var imgPsmall = "https://image.tmdb.org/t/p/w185/" 
   var imgPath = "https://image.tmdb.org/t/p/w300/"    
   var imgback = "https://image.tmdb.org/t/p/w1280/"
   
@@ -574,7 +575,9 @@ var apiKey = '0ceedd539b0a1efa834d0c7318eb6355';
           //img path for background
           $scope.backdrops = imgback + response.data.results[0].backdrop_path;
           console.log($scope.backdrops);
-
+          //img path for poster small
+          $scope.posmall = imgPsmall + response.data.results[0].poster_path;
+          console.log($scope.posmall);
           //synopsis of the movie
           $scope.overview = response.data.results[0].overview;
 
