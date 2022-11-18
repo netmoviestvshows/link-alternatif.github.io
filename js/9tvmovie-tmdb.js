@@ -158,15 +158,15 @@ Vue.component("card", {
 <tr>
 <th>Subtitle Available</th>
 <td>
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/usa.png" width="27" alt="United Stated.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/espain.png" width="29" alt="espain.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/korean.png" width="27" alt="south-korea.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/france.png" width="27" alt="france.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/Germany.png" width="29" alt="Germany.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/italy.png" width="27" alt="italy.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/belanda.png" width="27" alt="belanda.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/portugal.png" width="27" alt="portugal.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/hungaria.png" width="27" alt="hungaria.png">  etc.
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/usa.png" width="26" alt="United Stated.png" height="24">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/espain.png" width="28" alt="espain.png" height="27">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/korean.png" width="25" alt="south-korea.png" height="24">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/france.png" width="27" alt="france.png" height="24">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/Germany.png" width="29" alt="Germany.png" height="26">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/italy.png" width="27" alt="italy.png" height="24">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/belanda.png" width="25" alt="belanda.png" height="24">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/portugal.png" width="26" alt="portugal.png" height="24">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/hungaria.png" width="27" alt="hungaria.png" height="26">  etc.
 </td>
 </tr>
 <tr>
@@ -388,15 +388,15 @@ Vue.component("card", {
 <tr>
 <th>Subtitle Available</th>
 <td>
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/usa.png" width="27" alt="United Stated.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/espain.png" width="29" alt="espain.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/korean.png" width="27" alt="south-korea.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/france.png" width="27" alt="france.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/Germany.png" width="29" alt="Germany.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/italy.png" width="27" alt="italy.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/belanda.png" width="27" alt="belanda.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/portugal.png" width="27" alt="portugal.png">
-    <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/hungaria.png" width="27" alt="hungaria.png">  etc.
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/usa.png" width="26" alt="United Stated.png" height="24">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/espain.png" width="28" alt="espain.png" height="27">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/korean.png" width="25" alt="south-korea.png" height="24">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/france.png" width="27" alt="france.png" height="24">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/Germany.png" width="29" alt="Germany.png" height="26">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/italy.png" width="27" alt="italy.png" height="24">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/belanda.png" width="25" alt="belanda.png" height="24">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/portugal.png" width="26" alt="portugal.png" height="24">
+  <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/hungaria.png" width="27" alt="hungaria.png" height="26">  etc.
 </td>
 </tr>
 <tr>
