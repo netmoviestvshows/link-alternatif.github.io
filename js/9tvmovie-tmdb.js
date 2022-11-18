@@ -1,4 +1,4 @@
-//TV
+// TMDB TV VUEJS 1
 Vue.component("card", {
   props: ["id"],
   data() {
@@ -227,7 +227,7 @@ new Vue({
 
 
 
-//TMDB MOVIE 2
+// TMDB TV VUEJS 2
 
 Vue.component("card", {
   props: ["id"],
@@ -438,57 +438,6 @@ new Vue({
   el: "#movie",
 });
 
-//TMDB SCRIPT 2
-
-angular.module("tvFinder", []).controller("tvCtrl", function ($scope, $http) {
-  $scope.$watch("search", function () {
-    fetch(); //watches the search input which refreshes every 800ms
-  });
-
-  //function called every 800ms to perform AJAX call
-  function fetch() {
-    //the results only return a partial img path so this is added to provide the full url to display the poster... those tricksters!
-    var apiKey = "0ceedd539b0a1efa834d0c7318eb6355";
-    var imgPath = "https://image.tmdb.org/t/p/w300/";
-    var imgback = "https://image.tmdb.org/t/p/w1280/";
-
-    //defining the search value from the input
-    var search = $("#tv-name").val();
-    console.log();
-    //this query allows users to search by title which is input by the user
-    $http
-      .get(
-        "https://api.themoviedb.org/3/search/multi?api_key=" +
-          apiKey +
-          "&query=" +
-          search
-      )
-      .then(function (response) {
-        //title of first tv in results array
-        $scope.title = response.data.results[0].original_title;
-        console.log($scope.title);
-
-        //synopsis of the tv
-        $scope.overview = response.data.results[0].overview;
-
-        //img path for poster
-        $scope.poster = imgPath + response.data.results[0].poster_path;
-        console.log($scope.poster);
-
-        //the voter average for the tv returned
-        $scope.rating = "Rating: " + response.data.results[0].vote_average;
-        //the voter average for the tv returned
-        $scope.backdrops = imgback + response.data.results[0].backdrop_path;
-        console.log($scope.backdrops);
-        $scope.release = "Release: " + response.data.results[0].release_date;
-        $scope.genres = "Type: " + response.data.results[0].media_type;
-        // $scope.name = 'Type: '+ response.data.results[0].origin_country;
-        $scope.runtime = "runtime: " + response.data.results[0].runtime;
-      });
-  }
-});
-
-
 
 
 //OMDB SCRIPT 2
@@ -564,11 +513,18 @@ angular
         )
         .then(function (response) {
           //title of first movie in results array
-          $scope.title = response.data.results[0].original_title;
+          $scope.title = response.data.results[0].title;
           console.log($scope.title);
+
+          $scope.titleori = response.data.results[0].original_title;
+          console.log($scope.titleori);
+
           //title tv
-          $scope.titletv = response.data.results[0].name;
-          console.log($scope.titletv);
+          $scope.name = response.data.results[0].name;
+          console.log($scope.name);
+
+          $scope.nameori = response.data.results[0].original_name;
+          console.log($scope.nameori);
           //release date
           $scope.year = response.data.results[0].release_date;
           console.log($scope.year);
