@@ -1,4 +1,4 @@
-//stole idea from: https://freefrontend.com/css-tv-cards/
+//TV
 Vue.component("card", {
   props: ["id"],
   data() {
@@ -226,9 +226,9 @@ new Vue({
 });
 
 
-//TMDB MOVIE 
 
-//stole idea from: https://freefrontend.com/css-tv-cards/
+//TMDB MOVIE 2
+
 Vue.component("card", {
   props: ["id"],
   data() {
@@ -535,63 +535,95 @@ window.addEventListener("load", getMovie);
 
 
 
-//TMDB SCRIPT 2
+//TMDB SCRIPT 3 ANGULAS VUESJS
 
 
-angular.module('movieFinder', [])
-.controller('movieCtrl', function($scope, $http){
-  $scope.$watch('search', function() {
-    fetch(); //watches the search input which refreshes every 800ms
-  });
+angular
+  .module("movieFinder", [])
+  .controller("movieCtrl", function ($scope, $http) {
+    $scope.$watch("search", function () {
+      fetch(); //watches the search input which refreshes every 800ms
+    });
 
-//function called every 800ms to perform AJAX call
-function fetch(){
+    //function called every 800ms to perform AJAX call
+    function fetch() {
+      //the results only return a partial img path so this is added to provide the full url to display the poster... those tricksters!
+      var apiKey = "2645540b01a63a0893fe4d3dd0db311e";
+      var imgPath = "https://image.tmdb.org/t/p/w300";
+      var imgPsmall = "https://image.tmdb.org/t/p/w185"; 
+      var imgBackdrops = "https://image.tmdb.org/t/p/w1280";
+      var imgBackmed = "https://image.tmdb.org/t/p/720";
 
-//the results only return a partial img path so this is added to provide the full url to display the poster... those tricksters!
-var apiKey = '0ceedd539b0a1efa834d0c7318eb6355';
-  var imgPsmall = "https://image.tmdb.org/t/p/w185/" 
-  var imgPath = "https://image.tmdb.org/t/p/w300/"    
-  var imgback = "https://image.tmdb.org/t/p/w1280/"
-  
-  //defining the search value from the input
-  var search = $("#movie-name").val();
-  console.log()
-  //this query allows users to search by title which is input by the user
-  $http.get('https://api.themoviedb.org/3/search/multi?api_key=' + apiKey + '&query=' + search)
-    .then(function(response){ 
-          
-
-     //title of first movie in results array
+      //defining the search value from the inputs
+      var search = $("#movie-name").val();
+      console.log();
+      //this query allows users to search by title which is input by the user
+      $http
+        .get(
+          "https://api.themoviedb.org/3/search/multi?api_key="+ apiKey +"&language=en-US&append_to_response=keywords,credits,person,images,videos&query=" + search
+        )
+        .then(function (response) {
+          //title of first movie in results array
           $scope.title = response.data.results[0].original_title;
           console.log($scope.title);
-          $scope.name = response.data.results[0].original_name;
-          console.log($scope.name);
-          $scope.year = response.data.results[0].year;
-          
+          //title tv
+          $scope.titletv = response.data.results[0].name;
+          console.log($scope.titletv);
+          //release date
+          $scope.year = response.data.results[0].release_date;
+          console.log($scope.year);
+          //synopsis of the movie
+          $scope.overview = response.data.results[0].overview;
 
           //img path for poster
           $scope.poster = imgPath + response.data.results[0].poster_path;
           console.log($scope.poster);
-          //img path for background
-          $scope.backdrops = imgback + response.data.results[0].backdrop_path;
-          console.log($scope.backdrops);
           //img path for poster small
           $scope.posmall = imgPsmall + response.data.results[0].poster_path;
           console.log($scope.posmall);
-          //synopsis of the movie
-          $scope.overview = response.data.results[0].overview;
+
+          //img path for Backdrops
+          $scope.backdrops =
+            imgBackdrops + response.data.results[0].backdrop_path;
+          console.log($scope.backdrops);
+
+          $scope.backmed = imgBackmed + response.data.results[0].backdrop_path;
+          console.log($scope.backmed);
 
           //the voter average for the movie returned
-          $scope.rating = "Rating: " + response.data.results[0].vote_average;
-          $scope.release = "Release: " + response.data.results[0].release_date;
-          $scope.runtime = "runtime: " + response.data.results[0].runtime;
-          $scope.type = response.data.results[0].media_type;
-          $scope.production =
-            " Companies: " + response.data.results[0].production_companies;
-          console.log($scope.production);
-          $scope.casts = " Cast: " + response.data.results[0].casts;
-          console.log($scope.casts);
+          $scope.rating = response.data.results[0].vote_average;
 
-    });
-}
-})
+          //the voter count for the movie returned
+          $scope.vote = response.data.results[0].vote_count;
+          //type tv or movie
+          $scope.type = response.data.results[0].media_type;
+          console.log($scope.type);
+
+          //type tagline
+          $scope.tagline = response.data.results[0].tagline;
+          console.log($scope.tagline);
+
+          //type genre
+          $scope.genre = response.data.results[0].countries;
+          console.log($scope.genre);
+
+          //runtime....
+          $scope.runtimetv = response.data.results[0].episode_run_time;
+          console.log($scope.runtimetv);
+
+          //Air Date episode....
+          $scope.firstair = response.data.results[0].first_air_date;
+          console.log($scope.firstair);
+
+          $scope.lastair = response.data.results[0].last_air_date;
+          console.log($scope.lastair);
+
+          $scope.numbseason = response.data.results[0].episode_release_date;
+          console.log($scope.numbseason);
+
+          //the voter average for the movie returned
+          $scope.network = response.data.results[0].production_companies;
+          console.log($scope.network);
+        });
+    }
+  });
