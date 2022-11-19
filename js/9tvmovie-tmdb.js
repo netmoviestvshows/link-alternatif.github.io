@@ -205,7 +205,7 @@ Vue.component("card", {
 </tr>
 <tr>
 <th>Home Page</th>
-<td>{{tvData.homepage}}</td>
+<td><div class="homepage-m">{{tvData.homepage}}</div></td>
 </tr>
 </tbody></table>
               
@@ -419,7 +419,7 @@ Vue.component("card", {
 </tr>
 <tr>
 <th>Home Page</th>
-<td>{{movieData.homepage}}</td>
+<td><div class="homepage-m">{{movieData.homepage}}</div></td>
 </tr>
 </tbody></table>
               
