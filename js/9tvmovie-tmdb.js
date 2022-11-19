@@ -75,7 +75,7 @@ Vue.component("card", {
         id +
         "?api_key=" +
         apikey +
-        "&language=en-US";
+        "&append_to_response=credits,person,keywords,images,videos&language=en-US";
       try {
         const res = await fetch(query);
         const tv = await res.json();
@@ -94,13 +94,13 @@ Vue.component("card", {
         id +
         "?api_key=" +
         apikey +
-        "&language=en-US";
+        "&append_to_response=credits,person,keywords,images,videos&language=en-US";
       const queryCast =
         "https://api.themoviedb.org/3/tv/" +
         id +
         "/credits?api_key=" +
         apikey +
-        "&language=en-US";
+        "&append_to_response=credits,person,keywords,images,videos&language=en-US";
       try {
         const [resMovie, resCast] = await Promise.all([
           fetch(queryMovie),
@@ -152,7 +152,7 @@ Vue.component("card", {
 <table class="table table-condensed table-bordered table-hover">
 <tbody><tr>
 <th> <div class="tags" style="display:flex;color: #13a1e5;"> <iconify-icon icon="ant-design:field-time-outlined" style="
-    font-size: 15px;"></iconify-icon>&nbsp;{{ String(tvData.episode_run_time) }} Min</div></th>
+    font-size: 15px;"></iconify-icon>&nbsp;{{ minToHour(tvData.episode_run_time [0]) }}</div></th>
 <td><div class="tagbox" v-for="genre in tvData.genres" :key="genre.id">{{genre.name}}</div></td>
 </tr>
 <tr>
@@ -169,12 +169,7 @@ Vue.component("card", {
   <img src="https://netmoviestvshows.github.io/link-alternatif.github.io/image/hungaria.png" width="27" alt="hungaria.png" height="26">  etc.
 </td>
 </tr>
-<tr>
-<th>Alternative Titles</th>
-<td>
-	<strong>{{ tvData.alternative_name }}</strong> 
-</td>
-</tr>
+
 <tr>
 <th>Number of Seasons</th>
 <td>{{tvData.number_of_seasons}}</td>
@@ -206,7 +201,7 @@ Vue.component("card", {
 </tr>
 <tr>
 <th></th>
-<td></td></td>
+<td>{{  limitString(castData.cast.map(i => i.original_name).join(', '), 150) }}</td>
 </tr>
 </tbody></table>
               
@@ -224,8 +219,6 @@ Vue.component("rating", {
 new Vue({
   el: "#tv",
 });
-
-
 
 // TMDB TV VUEJS 2
 
@@ -305,7 +298,7 @@ Vue.component("card", {
         id +
         "?api_key=" +
         apikey +
-        "&language=en-US";
+        "&append_to_response=credits,person,keywords,images,videos&language=en-US";
       try {
         const res = await fetch(query);
         const movie = await res.json();
@@ -324,13 +317,13 @@ Vue.component("card", {
         id +
         "?api_key=" +
         apikey +
-        "&language=en-US";
+        "&append_to_response=credits,person,keywords,director,images,videos&language=en-US";
       const queryCast =
         "https://api.themoviedb.org/3/movie/" +
         id +
         "/credits?api_key=" +
         apikey +
-        "&language=en-US";
+        "&append_to_response=credits,person,keywords,images,videos&language=en-US";
       try {
         const [resMovie, resCast] = await Promise.all([
           fetch(queryMovie),
@@ -376,7 +369,7 @@ Vue.component("card", {
     <h2 style="font-size: 1.6rem;font-weight: 600;">{{movieData.tagline}} {{movieData.original_title}} ({{ yearGrab(movieData.release_date) }}) 
     </h2>
     <div class="description">
-       <slot>{{ limitString(movieData.overview, 300) }}</slot>
+    <slot>{{ limitString(movieData.overview, 261) }}</slot>
     </div>
 <br />
 <table class="table table-condensed table-bordered table-hover">
@@ -401,12 +394,11 @@ Vue.component("card", {
 </tr>
 <tr>
 <th>Release Date</th>
-<td>
-	<strong>{{ movieData.release_date }}</strong> 
-</td>
+<td>{{ movieData.release_date }}</td>
 </tr>
+
 <tr>
-<th>Networks</th>
+<th>Product Compan</th>
 <td><div style="text-transform: capitalize;">{{ movieData.production_companies.map(i => i.name).join(', ') }} </div></td>
 </tr>
 <tr>
@@ -419,7 +411,7 @@ Vue.component("card", {
 </tr>
 <tr>
 <th></th>
-<td></td></td>
+<td>{{  limitString(castData.cast.map(i => i.original_name).join(', '), 150) }}</td>
 </tr>
 </tbody></table>
               
@@ -438,8 +430,6 @@ new Vue({
   el: "#movie",
 });
 
-
-
 //OMDB SCRIPT 2
 
 //Initial References
@@ -450,10 +440,10 @@ let result = document.getElementById("result");
 
 //Function to fetch data from API
 let getMovie = () => {
-   let movieName = movieNameRef.value;
-   let url = `https://www.omdbapi.com/?t=${movieName}&apikey=${key}`;
-   //If input field is empty
-   if (movieName.length <= 0) {
+  let movieName = movieNameRef.value;
+  let url = `https://www.omdbapi.com/?t=${movieName}&apikey=${key}`;
+  //If input field is empty
+  if (movieName.length <= 0) {
     result.innerHTML = `<h3 class="msg">Please Enter A Movie Name</h3>`;
   }
   //If input field is NOT empty
@@ -482,10 +472,7 @@ ${data.Actors}
 searchBtn.addEventListener("click", getMovie);
 window.addEventListener("load", getMovie);
 
-
-
 //TMDB SCRIPT 3 ANGULAS VUESJS
-
 
 angular
   .module("movieFinder", [])
@@ -499,7 +486,7 @@ angular
       //the results only return a partial img path so this is added to provide the full url to display the poster... those tricksters!
       var apiKey = "2645540b01a63a0893fe4d3dd0db311e";
       var imgPath = "https://image.tmdb.org/t/p/w300";
-      var imgPsmall = "https://image.tmdb.org/t/p/w185"; 
+      var imgPsmall = "https://image.tmdb.org/t/p/w185";
       var imgBackdrops = "https://image.tmdb.org/t/p/w1280";
       var imgBackmed = "https://image.tmdb.org/t/p/720";
 
@@ -509,7 +496,10 @@ angular
       //this query allows users to search by title which is input by the user
       $http
         .get(
-          "https://api.themoviedb.org/3/search/multi?api_key="+ apiKey +"&language=en-US&append_to_response=keywords,credits,person,images,videos&query=" + search
+          "https://api.themoviedb.org/3/search/multi?api_key=" +
+            apiKey +
+            "&language=en-US&append_to_response=keywords,credits,person,images,videos&query=" +
+            search
         )
         .then(function (response) {
           //title of first movie in results array
