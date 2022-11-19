@@ -203,6 +203,10 @@ Vue.component("card", {
 <th></th>
 <td>{{  limitString(castData.cast.map(i => i.original_name).join(', '), 150) }}</td>
 </tr>
+<tr>
+<th>Home Page</th>
+<td>{{tvData.homepage}}</td>
+</tr>
 </tbody></table>
               
        </div>
@@ -412,6 +416,10 @@ Vue.component("card", {
 <tr>
 <th></th>
 <td>{{  limitString(castData.cast.map(i => i.original_name).join(', '), 150) }}</td>
+</tr>
+<tr>
+<th>Home Page</th>
+<td>{{movieData.homepage}}</td>
 </tr>
 </tbody></table>
               
