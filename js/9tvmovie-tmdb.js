@@ -171,11 +171,11 @@ Vue.component("card", {
 </tr>
 
 <tr>
-<th>Number of Seasons</th>
+<th>Num of Seasons</th>
 <td>{{tvData.number_of_seasons}}</td>
 </tr>
 <tr>
-<th>Number of Episodes</th>
+<th>Num of Episodes</th>
 <td>{{tvData.number_of_episodes}}</td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ Vue.component("card", {
 </tr>
 <tr>
 <th>Home Page</th>
-<td>{{tvData.homepage}}</td>
+<td><a href="{{tvData.homepage}}">{{tvData.name}} ({{tvData.networks.map(i => i.name).join(', ') }})</a></td>
 </tr>
 </tbody></table>
               
@@ -419,7 +419,7 @@ Vue.component("card", {
 </tr>
 <tr>
 <th>Home Page</th>
-<td>{{movieData.homepage}}</td>
+<td><a href="{{movieData.homepage}}">{{movieData.name}} ({{movieData.networks.map(i => i.name).join(', ') }})</a></td>
 </tr>
 </tbody></table>
               
