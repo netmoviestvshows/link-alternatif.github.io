@@ -205,7 +205,7 @@ Vue.component("card", {
 </tr>
 <tr>
 <th>Home Page</th>
-<td><a href="{{tvData.homepage}}">{{tvData.name}} ({{tvData.networks.map(i => i.name).join(', ') }})</a></td>
+<td>{{tvData.homepage}}</td>
 </tr>
 </tbody></table>
               
@@ -419,7 +419,7 @@ Vue.component("card", {
 </tr>
 <tr>
 <th>Home Page</th>
-<td><a href="{{movieData.homepage}}">{{movieData.name}} ({{movieData.networks.map(i => i.name).join(', ') }})</a></td>
+<td>{{movieData.homepage}}</td>
 </tr>
 </tbody></table>
               
