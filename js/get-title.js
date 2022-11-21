@@ -13,5 +13,5 @@ for(var i=0;i<params.length;i++)
 // tampilkan isi associative array
 for(var i in queryStringList)
 {   var res = queryStringList[i].replace(/[+]/g, " ");
-    document.write(i+"  "+res+"<br/><br/>");
+    document.write(i+"  "+res+"<br/>");
 }
