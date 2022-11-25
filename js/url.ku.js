@@ -92,11 +92,11 @@ function miyabipokerld4() {
 
 //******************************* BIGWIN333 ***************************************/
 function bigwin() {
-    window.open("https://bit.ly/3UDjN8o");
+    window.open("https://bit.ly/3GGnQwO");
 } // login & link1
 
 function bigwin1() {
-    window.location.href = "https://bit.ly/3UDjN8o";
+    window.location.href = "https://bit.ly/3GGnQwO";
 } // link daftar
 
 function bigwin2() {
@@ -108,19 +108,19 @@ function bigwin3() {
 } // link 3
 
 function bigwinld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3UDjN8o"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3GGnQwO"; }, 40000);
 } // load
 
 function bigwinld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3UDjN8o"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3GGnQwO"; }, 32000);
 } // load 2
 
 function bigwinld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3UDjN8o"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3GGnQwO"; }, 4000);
 } // load 3
 
 function bigwinld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3UDjN8o"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3GGnQwO"; }, 13000);
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
@@ -360,15 +360,15 @@ function dunia4dld4() {
 
 //******************************* JAYAPOKER ***************************************/
 function jayapoker() {
-    window.open("https://jayapoker2022.com/referral/ADMIN002");
+    window.open("http://bit.ly/3GN78vI");
 } // login & Link 1
 
 function jayapoker1() {
-    window.location.href = "https://jayapoker2022.com/referral/ADMIN002";
+    window.location.href = "http://bit.ly/3GN78vI";
 } // link daftar
 
 function jayapoker2() {
-    window.open("https://bit.ly/34ycoPl");
+    window.open("https://jayapoker2022.com/referral/ADMIN002");
 } // link 2
 
 function jayapoker3() {
@@ -376,19 +376,19 @@ function jayapoker3() {
 } // link 3
 
 function jayapokerld() {
-    setTimeout(function () { window.location.href = "https://jayapoker2022.com/referral/ADMIN002"; }, 40000);
+    setTimeout(function () { window.location.href = "http://bit.ly/3GN78vI"; }, 40000);
 } // load
 
 function jayapokerld2() {
-    setTimeout(function () { window.location.href = "https://jayapoker2022.com/referral/ADMIN002"; }, 32000);
+    setTimeout(function () { window.location.href = "http://bit.ly/3GN78vI"; }, 32000);
 } // load 2
 
 function jayapokerld3() {
-    setTimeout(function () { window.location.href = "https://jayapoker2022.com/referral/ADMIN002"; }, 4000);
+    setTimeout(function () { window.location.href = "http://bit.ly/3GN78vI"; }, 4000);
 } // load 3
 
 function jayapokerld4() {
-    setTimeout(function () { window.location.href = "https://jayapoker2022.com/referral/ADMIN002"; }, 13000);
+    setTimeout(function () { window.location.href = "http://bit.ly/3GN78vI"; }, 13000);
 } // load 4
 
 
