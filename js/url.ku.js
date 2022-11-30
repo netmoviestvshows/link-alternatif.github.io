@@ -222,6 +222,39 @@ function seniortogelld4() {
     setTimeout(function () { window.location.href = "https://www.seniortoto.xn--6frz82g/link.php?member=sijabrigx"; }, 13000);
 } // load 4
 
+//******************************* LGOKINGL ***************************************/
+function lgoking() {
+    window.open("https://menangking.com/register?ref=PABAAAD0K9P");
+} // login & Link 1
+
+function lgoking1() {
+    window.location.href = "https://menangking.com/register?ref=PABAAAD0K9P";
+} // link daftar
+
+function lgoking2() {
+    window.open("https://menangking.com/register?ref=PABAAAD0K9P");
+} // link 2
+
+function lgoking3() {
+    window.open("https://menangking.com/register?ref=PABAAAD0K9P");
+} // link 3
+
+function lgokingld() {
+    setTimeout(function () { window.location.href = "https://menangking.com/register?ref=PABAAAD0K9P"; }, 40000);
+} // load
+
+function lgokingld2() {
+    setTimeout(function () { window.location.href = "https://menangking.com/register?ref=PABAAAD0K9P"; }, 32000);
+} // load 2
+
+function lgokingld3() {
+    setTimeout(function () { window.location.href = "https://menangking.com/register?ref=PABAAAD0K9P"; }, 4000);
+} // load 3
+
+function lgokingld4() {
+    setTimeout(function () { window.location.href = "https://menangking.com/register?ref=PABAAAD0K9P"; }, 13000);
+} // load 4
+
 //******************************* TEXASPOKERCC ***************************************/
 function texaspokercc() {
     window.open("http://bit.ly/3gCajf6");
