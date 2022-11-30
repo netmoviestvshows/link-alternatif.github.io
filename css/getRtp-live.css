@@ -305,15 +305,17 @@ img {
 }
 
 .play-btn {
-	font-size: 15px;
-	text-decoration: none;
-	color: white;
-	text-align: center;
-	align-items: center;
-	width: 100%;
-	margin: 25% auto;
-	padding: 8px;
-	background-color: #b10000;
+    font-size: 15px;
+    text-decoration: none;
+    color: #fdf500;
+    font-weight: 600;
+    text-shadow: 0 0 4px black;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    margin: 25% auto;
+    padding: 8px;
+    background-color: #08acb9;
 }
 
 .img-zoom {
