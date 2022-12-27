@@ -167,7 +167,7 @@ function nextBtn() {
 
 function selectedMovie(movie_id) {
   sessionStorage.setItem("movieId", movie_id);
-  window.location = "https://youdescto.blogspot.com/p/moviedetails.html";
+  window.location = "/p/moviedetails.html";
 }
 
 function selectedTV(tv_id) {
