@@ -81,7 +81,7 @@
   ) {
     (n.exports = t("./node_modules/css-loader/dist/runtime/api.js")(!1)).push([
       n.i,
-      ".app {\n  margin: 20px auto;\n  height: calc(100vh - 40px);\n}\n\n.table td {\n  border: none;\n}\n\n.table th,\n.table thead th {\n  border: none;\n}\n\n.row {\n  padding: 0.5em 0;\n  align-items: center;\n  border: 1px solid transparent;\n}\n\n.alert {\n  border-radius: 0;\n}\n\n.alert,\n.btn-group {\n  margin-bottom: 0 !important;\n}\n\n.page-header {\n  position: unset;\n  height: auto;\n  border-bottom: none;\n}\n\n.page-header h1 {\n  position: relative;\n  top: 60%;\n}\n\n.backdrop,\n.backdrop-overlay {\n  background-attachment: fixed;\n position: absolute;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 0;\n  background-position: top center;\n  background-size: 100% auto;\n  background-repeat: no-repeat;\n  padding-top: 27em;\n  padding-bottom: 0;\n  z-index: -1;\n  border-radius: 10px 10px 0 0;\n}\n\n.backdrop-overlay {\n  z-index: 0;\n  background: -moz-linear-gradient(\n    top,\n    rgba(255, 255, 255, 0) 0%,\n    rgba(255, 255, 255, 0.5) 75%,\n    rgba(255, 255, 255, 1) 90%,\n    rgba(255, 255, 255, 1) 100%\n  );\n  background: -webkit-gradient(\n    linear,\n    left top,\n    left bottom,\n    color-stop(0%, rgba(255, 255, 255, 0)),\n    color-stop(75%, rgba(255, 255, 255, 0.5)),\n    color-stop(90%, rgba(255, 255, 255, 1)),\n    color-stop(100%, rgba(255, 255, 255, 1))\n  );\n  background: -webkit-linear-gradient(\n    top,\n    rgba(255, 255, 255, 0) 0%,\n    rgba(255, 255, 255, 0.5) 75%,\n    rgba(255, 255, 255, 1) 90%,\n    rgba(255, 255, 255, 1) 100%\n  );\n  background: -o-linear-gradient(\n    top,\n    rgba(255, 255, 255, 0) 0%,\n    rgba(255, 255, 255, 0.5) 75%,\n    rgba(255, 255, 255, 1) 90%,\n    rgba(255, 255, 255, 1) 100%\n  );\n  background: -ms-linear-gradient(\n    top,\n    rgba(255, 255, 255, 0) 0%,\n    rgba(255, 255, 255, 0.5) 75%,\n    rgba(255, 255, 255, 1) 90%,\n    rgba(255, 255, 255, 1) 100%\n  );\n  background: linear-gradient(\n    to bottom,\n    rgba(255, 255, 255, 0) 0%,\n    rgba(255, 255, 255, 0.5) 75%,\n    rgba(255, 255, 255, 1) 90%,\n    rgba(255, 255, 255, 1) 100%\n  );\n  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 );\n}\n\n.search-bar {\n  margin-bottom: 1em;\n}\n\n.search-info {\n  display: none;\n}\n\nul.flat {\n  list-style-type: none;\n  padding-left: 0;\n}\n\n.copy-notice {\n  display: none;\n  text-align: right;\n}\n\n.episode {\n  padding-left: 1em;\n  padding-right: 1em;\n  width: 100%;\n height: 600px !important;\n}\n\n.show-poster {\n  margin-top: 1.5em;\n}\n\n.help-text {\n  font-weight: normal;\n  font-style: italic;\n  margin-top: 0.5em;\n}\n\n.form-control[readonly] {\n  cursor: default;\n}\n\n.no-poster {\n  padding: 5em 1em;\n}\n\n.search-result {\n  cursor: pointer;\n  float: left;\n  height: 220px;\n  margin: 0.5em;\n  padding: 0 !important;\n  width: 150px;\n}\n\n.search-result:hover {\n  background: #c2ffc4;\n  box-shadow: 0 0 5px 2px #bce8f1;\n}\n\n.no-poster-search-result {\n  width: 150px;\n}\n\n.no-poster-image {\n  height: 128px;\n  margin-bottom: 34px;\n}\n\n.no-poster-search-result p {\n  margin: 1em;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n  overflow: hidden;\n}\n\n.blue {\n  color: #428bca;\n}\n\n.btn-group {\n  margin-bottom: 1em;\n}\n\n.copy-ok {\n  float: left;\n  margin-top: 0.5em;\n  display: none;\n  color: #3c763d;\n}\n",
+      ".app {\n  margin: 20px auto;\n  height: calc(100vh - 40px);\n}\n\n.table td {\n  border: none;\n}\n\n.table th,\n.table thead th {\n  border: none;\n}\n\n.row {\n  padding: 0.5em 0;\n  align-items: center;\n  border: 1px solid transparent;\n}\n\n.alert {\n  border-radius: 0;\n}\n\n.alert,\n.btn-group {\n  margin-bottom: 0 !important;\n}\n\n.page-header {\n  position: inherit;\n  height: auto;\n  border-bottom: none;\n}\n\n.page-header h1 {\n  position: relative;\n  top: 60%;\n}\n\n.backdrop,\n.backdrop-overlay {\n  position: absolute;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 0;\n  background-position: top center;\n  background-size: 100% auto;\n  background-repeat: no-repeat;\n  padding-top: 27em;\n  padding-bottom: 0;\n  z-index: -1;\n  border-radius: 10px 10px 0 0;\n}\n\n.backdrop-overlay {\n  z-index: 0;\n  background: -moz-linear-gradient(\n    top,\n    rgba(255, 255, 255, 0) 0%,\n    rgba(255, 255, 255, 0.5) 75%,\n    rgba(255, 255, 255, 1) 90%,\n    rgba(255, 255, 255, 1) 100%\n  );\n  background: -webkit-gradient(\n    linear,\n    left top,\n    left bottom,\n    color-stop(0%, rgba(255, 255, 255, 0)),\n    color-stop(75%, rgba(255, 255, 255, 0.5)),\n    color-stop(90%, rgba(255, 255, 255, 1)),\n    color-stop(100%, rgba(255, 255, 255, 1))\n  );\n  background: -webkit-linear-gradient(\n    top,\n    rgba(255, 255, 255, 0) 0%,\n    rgba(255, 255, 255, 0.5) 75%,\n    rgba(255, 255, 255, 1) 90%,\n    rgba(255, 255, 255, 1) 100%\n  );\n  background: -o-linear-gradient(\n    top,\n    rgba(255, 255, 255, 0) 0%,\n    rgba(255, 255, 255, 0.5) 75%,\n    rgba(255, 255, 255, 1) 90%,\n    rgba(255, 255, 255, 1) 100%\n  );\n  background: -ms-linear-gradient(\n    top,\n    rgba(255, 255, 255, 0) 0%,\n    rgba(255, 255, 255, 0.5) 75%,\n    rgba(255, 255, 255, 1) 90%,\n    rgba(255, 255, 255, 1) 100%\n  );\n  background: linear-gradient(\n    to bottom,\n    rgba(255, 255, 255, 0) 0%,\n    rgba(255, 255, 255, 0.5) 75%,\n    rgba(255, 255, 255, 1) 90%,\n    rgba(255, 255, 255, 1) 100%\n  );\n  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 );\n}\n\n.search-bar {\n  margin-bottom: 1em;\n}\n\n.search-info {\n  display: none;\n}\n\nul.flat {\n  list-style-type: none;\n  padding-left: 0;\n}\n\n.copy-notice {\n  display: none;\n  text-align: right;\n}\n\n.episode {\n  padding-left: 1em;\n  padding-right: 1em;\n  height: 600px !important;\n width: 100%;\n}\n\n.show-poster {\n  margin-top: 1.5em;\n}\n\n.help-text {\n  font-weight: normal;\n  font-style: italic;\n  margin-top: 0.5em;\n}\n\n.form-control[readonly] {\n  cursor: default;\n}\n\n.no-poster {\n  padding: 5em 1em;\n}\n\n.search-result {\n  cursor: pointer;\n  float: left;\n  height: 220px;\n  margin: 0.5em;\n  padding: 0 !important;\n  width: 150px;\n}\n\n.search-result:hover {\n  background: #c2ffc4;\n  box-shadow: 0 0 5px 2px #bce8f1;\n}\n\n.no-poster-search-result {\n  width: 150px;\n}\n\n.no-poster-image {\n  height: 128px;\n  margin-bottom: 34px;\n}\n\n.no-poster-search-result p {\n  margin: 1em;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n  overflow: hidden;\n}\n\n.blue {\n  color: #428bca;\n}\n\n.btn-group {\n  margin-bottom: 1em;\n}\n\n.copy-ok {\n  float: left;\n  margin-top: 0.5em;\n  display: none;\n  color: #3c763d;\n}\n",
       "",
     ]);
   },
@@ -13313,25 +13313,6 @@ object-assign
                         id: "episode-format",
                         ref: "format",
                         type: "text",
-                        value: `TV Series (show) - Season (season) Episode (episode) "(title)" Full Episode
-Watch Video :  https://www.youtube.com/redirect?q=\n 
-(show) Season (season) Episode (episode) "(title)" Full Episode
-(show) Season (season) Episode (episode) "(title)" TV Series
-(show) Season (season) Episode (episode) "(title)" TV Shows
-(show) Season (season) All Episodes
-(show) Season (season)
-(show) Episode (episode)
-(show) Se(season) Ep(episode)
-(show) [S(season)XE(episode)]
-(show) - S(season) E(episode)
-(show) - S(season)E(episode)
-(show) - (season)X(episode)
-(show) Full Episode\n
-
-I hope you enjoy watching the series (show) Season (season) Episode (episode) on My Channel. Subscribe to my channel and get notifications for the latest Episodes of the series (show).
-Don't miss the latest Episodes from (show) Season (season) Episode (episode) series, Subscribe to my Channel now.
-Thanks for visiting & watching.\n
-#(show) #Season(season) #Episode(episode)`,
                         className: "form-control",
                         defaultValue: this.props.format,
                         onKeyDown: this.checkReturn,
@@ -14037,7 +14018,7 @@ Thanks for visiting & watching.\n
                 null !== this.props.info.backdrop_path &&
                   (e =
                     o.a.common.images_uri +
-                    "w".concat(780) +
+                    "w".concat(500) +
                     this.props.info.backdrop_path),
                   null !== this.props.info.poster_path &&
                     (t =
@@ -14078,10 +14059,14 @@ Thanks for visiting & watching.\n
                         "div",
                         { className: "col-9" },
                         i.a.createElement("h2", null, this.props.info.name),
-                        i.a.createElement("h6", null, this.props.info.tagline),
                         i.a.createElement(
                           "ul",
                           { className: "flat" },
+                          i.a.createElement(
+                            "h6",
+                            null,
+                            this.props.info.tagline
+                          ),
                           i.a.createElement(
                             "li",
                             null,
@@ -14098,44 +14083,7 @@ Thanks for visiting & watching.\n
                           i.a.createElement(
                             "li",
                             null,
-                            `Duration : `,
-                            this.props.info.episode_run_time[0],
-                            ` minutes`
-                          ),
-                          i.a.createElement(
-                            "li",
-                            null,
                             this.props.info.overview
-                          ),
-                          i.a.createElement(
-                            "li",
-                            null,
-                            `Network : `,
-                            this.props.info.networks
-                              .map((i) => i.name)
-                              .join(`, `)
-                          ),
-                          i.a.createElement(
-                            "li",
-                            null,
-                            `Companies : `,
-                            this.props.info.production_companies
-                              .map((i) => i.name)
-                              .join(`, `)
-                          ),
-                          i.a.createElement(
-                            "li",
-                            null,
-                            `Country : `,
-                            this.props.info.production_countries
-                              .map((i) => i.name)
-                              .join(`, `)
-                          ),
-                          i.a.createElement(
-                            "li",
-                            null,
-                            `Last Air : `,
-                            this.props.info.last_air_date
                           )
                         )
                       )
@@ -14970,10 +14918,10 @@ Thanks for visiting & watching.\n
             "© ",
             i.a.createElement(
               "a",
-              { href: "http://hpcodecraft.me" },
-              "hpcodecraft"
+              { href: "https://youdescto.blogspot.com" },
+              "youDescTo"
             ),
-            " 2014-",
+            " 2021-",
             n
           )
         );
@@ -15100,9 +15048,16 @@ Thanks for visiting & watching.\n
         }
       )(La),
       Na = {
-        format: `(show) - Season (season) Episode (episode) "(title)" Full Episode
-Watch Video :  https://www.youtube.com/redirect?q=\n
-(show) (season) (episode) "(title)" Full Episode
+        format: `TV Series (show) - Season (season) Episode (episode) "(title)" Full Episode
+Watch Video :  https://www.youtube.com/redirect?q=\n 
+(show) Season (season) Episode (episode) "(title)" Full Episode
+(show) Season (season) Episode (episode) "(title)" TV Series
+(show) Season (season) Episode (episode) "(title)" TV Shows
+(show) Season (season) All Episodes
+(show) Season (season)
+(show) Episode (episode)
+(show) Se(season) Ep(episode)
+(show) [S(season)XE(episode)]
 (show) - S(season) E(episode)
 (show) - S(season)E(episode)
 (show) - (season)X(episode)
@@ -15111,7 +15066,7 @@ Watch Video :  https://www.youtube.com/redirect?q=\n
 I hope you enjoy watching the series (show) Season (season) Episode (episode) on My Channel. Subscribe to my channel and get notifications for the latest Episodes of the series (show).
 Don't miss the latest Episodes from (show) Season (season) Episode (episode) series, Subscribe to my Channel now.
 Thanks for visiting & watching.\n
-#Season(season) #Episode(episode) #(year)`,
+#(show) #Season(season) #Episode(episode)`,
         language: "en",
         search: { query: "", results: [] },
         season: 1,
