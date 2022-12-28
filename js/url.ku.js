@@ -58,11 +58,11 @@ function nagapokerld4() {
 //******************************* MIYABIPOKER ***************************************/
 
 function miyabipoker() {
-    window.open("https://bit.ly/3Upt6bT");
+    window.open("https://miyabislot.live/ref/ONOD999");
 } // login & link1
 
 function miyabipoker1() {
-    window.location.href = "https://bit.ly/3Upt6bT";
+    window.location.href = "https://miyabislot.live/ref/ONOD999";
 } // link daftar
 
 function miyabipoker2() {
@@ -74,29 +74,29 @@ function miyabipoker3() {
 } // link 3
 
 function miyabipokerld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3Upt6bT"; }, 40000);
+    setTimeout(function () { window.location.href = "https://miyabislot.live/ref/ONOD999"; }, 40000);
 } // load
 
 function miyabipokerld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3Upt6bT"; }, 32000);
+    setTimeout(function () { window.location.href = "https://miyabislot.live/ref/ONOD999"; }, 32000);
 } // load 2
 
 function miyabiokerld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3Upt6bT"; }, 4000);
+    setTimeout(function () { window.location.href = "https://miyabislot.live/ref/ONOD999"; }, 4000);
 } // load 3
 
 function miyabipokerld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3Upt6bT"; }, 13000);
+    setTimeout(function () { window.location.href = "https://miyabislot.live/ref/ONOD999"; }, 13000);
 } // load 4
 
 
 //******************************* BIGWIN333 ***************************************/
 function bigwin() {
-    window.open("https://bit.ly/3GGnQwO");
+    window.open("https://www.main333.info/register?ref=1960994");
 } // login & link1
 
 function bigwin1() {
-    window.location.href = "https://bit.ly/3GGnQwO";
+    window.location.href = "https://www.main333.info/register?ref=1960994";
 } // link daftar
 
 function bigwin2() {
@@ -108,19 +108,19 @@ function bigwin3() {
 } // link 3
 
 function bigwinld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3GGnQwO"; }, 40000);
+    setTimeout(function () { window.location.href = "https://www.main333.info/register?ref=1960994"; }, 40000);
 } // load
 
 function bigwinld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3GGnQwO"; }, 32000);
+    setTimeout(function () { window.location.href = "https://www.main333.info/register?ref=1960994"; }, 32000);
 } // load 2
 
 function bigwinld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3GGnQwO"; }, 4000);
+    setTimeout(function () { window.location.href = "https://www.main333.info/register?ref=1960994"; }, 4000);
 } // load 3
 
 function bigwinld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3GGnQwO"; }, 13000);
+    setTimeout(function () { window.location.href = "https://www.main333.info/register?ref=1960994"; }, 13000);
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
@@ -224,11 +224,11 @@ function seniortogelld4() {
 
 //******************************* LGOKINGL ***************************************/
 function lgoking() {
-    window.open("https://menangking.com/register?ref=PABAAAD0K9P");
+    window.open("https://lgoking-naga.com/register?ref=PABAAAD0K9P");
 } // login & Link 1
 
 function lgoking1() {
-    window.location.href = "https://menangking.com/register?ref=PABAAAD0K9P";
+    window.location.href = "https://lgoking-naga.com/register?ref=PABAAAD0K9P";
 } // link daftar
 
 function lgoking2() {
@@ -240,19 +240,19 @@ function lgoking3() {
 } // link 3
 
 function lgokingld() {
-    setTimeout(function () { window.location.href = "https://menangking.com/register?ref=PABAAAD0K9P"; }, 40000);
+    setTimeout(function () { window.location.href = "https://lgoking-naga.com/register?ref=PABAAAD0K9P"; }, 40000);
 } // load
 
 function lgokingld2() {
-    setTimeout(function () { window.location.href = "https://menangking.com/register?ref=PABAAAD0K9P"; }, 32000);
+    setTimeout(function () { window.location.href = "https://lgoking-naga.com/register?ref=PABAAAD0K9P"; }, 32000);
 } // load 2
 
 function lgokingld3() {
-    setTimeout(function () { window.location.href = "https://menangking.com/register?ref=PABAAAD0K9P"; }, 4000);
+    setTimeout(function () { window.location.href = "https://lgoking-naga.com/register?ref=PABAAAD0K9P"; }, 4000);
 } // load 3
 
 function lgokingld4() {
-    setTimeout(function () { window.location.href = "https://menangking.com/register?ref=PABAAAD0K9P"; }, 13000);
+    setTimeout(function () { window.location.href = "https://lgoking-naga.com/register?ref=PABAAAD0K9P"; }, 13000);
 } // load 4
 
 //******************************* TEXASPOKERCC ***************************************/
