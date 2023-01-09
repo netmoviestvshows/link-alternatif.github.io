@@ -5378,7 +5378,7 @@ a.close.disabled {
   border-bottom-right-radius: 0.3rem;
   border-bottom-left-radius: 0.3rem;
   background-color: #ffffff !important;
-  font-size: 14px;
+  font-size: 14px!important;
 }
 .modal-footer > :not(:first-child) {
   margin-left: 0.25rem;
