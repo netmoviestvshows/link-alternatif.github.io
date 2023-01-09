@@ -10584,8 +10584,8 @@ body.vjs-full-window {
 .vjs-menu li.vjs-selected,
 .vjs-menu li.vjs-selected:focus,
 .vjs-menu li.vjs-selected:hover {
-  background-color: #40d83b;
-  color: #1c242c;
+  background-color: #36415c;
+  color: #ffffff;
 }
 .vjs-menu li.vjs-menu-title {
   text-align: center;
