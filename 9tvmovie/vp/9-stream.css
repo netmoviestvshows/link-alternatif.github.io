@@ -5959,7 +5959,7 @@ button.bg-primary:hover {
   background-color: #2176bd !important;
 }
 .bg-secondary {
-  background-color: #6c757d !important;
+  /*background-color: #6c757d !important;*/
 }
 a.bg-secondary:focus,
 a.bg-secondary:hover,
