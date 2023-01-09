@@ -7265,7 +7265,7 @@ button.bg-dark:hover {
 }
 .mr-5,
 .mx-5 {
-  margin-right: 3rem !important;
+ /* margin-right: 3rem !important;*/
 }
 .mb-5,
 .my-5 {
@@ -9785,7 +9785,6 @@ a:hover {
 .video-js .vjs-subtitles-button .vjs-icon-placeholder:before,
 .vjs-icon-subtitles:before {
   content: url("https://api.iconify.design/eos-icons/rotating-gear.svg?color=%2300adff");
-  padding-top: 7px;
 }
 /* BUTTON PLAY 2 */
 :root {
@@ -10168,7 +10167,6 @@ a:hover,
 .video-js:lang(fr-CA) .vjs-subs-caps-button .vjs-icon-placeholder:before,
 .vjs-icon-captions:before {
   content: url("https://api.iconify.design/eos-icons/rotating-gear.svg?color=%2300adff");
-  padding-top: 7px;
 }
 .video-js .vjs-chapters-button .vjs-icon-placeholder,
 .vjs-icon-chapters {
