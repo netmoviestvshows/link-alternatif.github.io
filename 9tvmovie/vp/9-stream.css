@@ -5377,6 +5377,7 @@ a.close.disabled {
   border-top: 1px solid #dee2e6;
   border-bottom-right-radius: 0.3rem;
   border-bottom-left-radius: 0.3rem;
+  background-color: #ffffff !important;
 }
 .modal-footer > :not(:first-child) {
   margin-left: 0.25rem;
@@ -6351,6 +6352,7 @@ button.bg-dark:hover {
 }
 .flex-column,
 .flex-row {
+  color: white;
   -webkit-box-direction: normal !important;
 }
 .flex-column {
@@ -7250,7 +7252,7 @@ button.bg-dark:hover {
 }
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important;
+  margin-bottom: 0.5rem !important;
 }
 .ml-4,
 .mx-4 {
@@ -9373,7 +9375,7 @@ a:hover {
   color: #40d83b;
 }
 .bg-theme {
-  background: #40d83b;
+  background: #0043ff !important;
 }
 .bg-hover-theme:hover {
   background: #25a621;
