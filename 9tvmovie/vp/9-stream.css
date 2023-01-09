@@ -10134,12 +10134,12 @@ a:hover,
 }
 .ex-icon {
   position: absolute;
-  top: -3rem;
-  width: 6rem;
-  height: 6rem;
-  line-height: 8rem;
-  border-radius: 50%;
-  background-color: #f1e248;
+    top: -2rem;
+    width: 4rem;
+    height: 4rem;
+    line-height: 6rem;
+    border-radius: 50%;
+    background-color: #e7dc0d;
 }
 .ex-icon i {
   color: #111;
