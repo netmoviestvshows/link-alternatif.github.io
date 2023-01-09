@@ -5373,11 +5373,12 @@ a.close.disabled {
   align-items: center;
   -webkit-box-pack: end;
   justify-content: flex-end;
-  padding: 1rem;
+  padding: 1.3rem;
   border-top: 1px solid #dee2e6;
   border-bottom-right-radius: 0.3rem;
   border-bottom-left-radius: 0.3rem;
   background-color: #ffffff !important;
+  font-size: 14px;
 }
 .modal-footer > :not(:first-child) {
   margin-left: 0.25rem;
@@ -9032,7 +9033,8 @@ a.text-light:hover {
   color: #cbd3da !important;
 }
 .text-dark {
-  color: #343a40 !important;
+  font-size: 13px;
+    color: #000000 !important;
 }
 a.text-dark:focus,
 a.text-dark:hover {
