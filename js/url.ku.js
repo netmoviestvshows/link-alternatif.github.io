@@ -92,11 +92,11 @@ function miyabipokerld4() {
 
 //******************************* BIGWIN333 ***************************************/
 function bigwin() {
-    window.open("https://www.main333.info/register?ref=1960994");
+    window.open("https://ini333.info/register?ref=1960994");
 } // login & link1
 
 function bigwin1() {
-    window.location.href = "https://www.main333.info/register?ref=1960994";
+    window.location.href = "https://ini333.info/register?ref=1960994";
 } // link daftar
 
 function bigwin2() {
@@ -108,19 +108,19 @@ function bigwin3() {
 } // link 3
 
 function bigwinld() {
-    setTimeout(function () { window.location.href = "https://www.main333.info/register?ref=1960994"; }, 40000);
+    setTimeout(function () { window.location.href = "https://ini333.info/register?ref=1960994"; }, 40000);
 } // load
 
 function bigwinld2() {
-    setTimeout(function () { window.location.href = "https://www.main333.info/register?ref=1960994"; }, 32000);
+    setTimeout(function () { window.location.href = "https://ini333.info/register?ref=1960994"; }, 32000);
 } // load 2
 
 function bigwinld3() {
-    setTimeout(function () { window.location.href = "https://www.main333.info/register?ref=1960994"; }, 4000);
+    setTimeout(function () { window.location.href = "https://ini333.info/register?ref=1960994"; }, 4000);
 } // load 3
 
 function bigwinld4() {
-    setTimeout(function () { window.location.href = "https://www.main333.info/register?ref=1960994"; }, 13000);
+    setTimeout(function () { window.location.href = "https://ini333.info/register?ref=1960994"; }, 13000);
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
@@ -257,11 +257,11 @@ function lgokingld4() {
 
 //******************************* TEXASPOKERCC ***************************************/
 function texaspokercc() {
-    window.open("https://tpkcc2022.com/referral/RUNNERS");
+    window.open("https://texaspk-online2023.com/referral/RUNNERS");
 } // login & Link 1
 
 function texaspokercc1() {
-    window.location.href = "https://tpkcc2022.com/referral/RUNNERS";
+    window.location.href = "https://texaspk-online2023.com/referral/RUNNERS";
 } // link daftar
 
 function texaspokercc2() {
@@ -273,19 +273,19 @@ function texaspokercc3() {
 } // link 3
 
 function texaspokerccld() {
-    setTimeout(function () { window.location.href = "https://tpkcc2022.com/referral/RUNNERS"; }, 40000);
+    setTimeout(function () { window.location.href = "https://texaspk-online2023.com/referral/RUNNERS"; }, 40000);
 } // load
 
 function texaspokerccld2() {
-    setTimeout(function () { window.location.href = "https://tpkcc2022.com/referral/RUNNERS"; }, 32000);
+    setTimeout(function () { window.location.href = "https://texaspk-online2023.com/referral/RUNNERS"; }, 32000);
 } // load 2
 
 function texaspokerccld3() {
-    setTimeout(function () { window.location.href = "https://tpkcc2022.com/referral/RUNNERS"; }, 4000);
+    setTimeout(function () { window.location.href = "https://texaspk-online2023.com/referral/RUNNERS"; }, 4000);
 } // load 3
 
 function texaspokerccld4() {
-    setTimeout(function () { window.location.href = "https://tpkcc2022.com/referral/RUNNERS"; }, 13000);
+    setTimeout(function () { window.location.href = "https://texaspk-online2023.com/referral/RUNNERS"; }, 13000);
 } // load 4
 
 
@@ -325,11 +325,11 @@ function pokerclubld4() {
 
 //******************************* INDOTOGEL ***************************************/
 function indotogel() {
-    window.open("https://indotgl-online.com/referral/ADM1N02");
+    window.open("https://indotg2023.com/referral/ADM1N02");
 } // login & Link 1
 
 function indotogel1() {
-    window.location.href = "https://indotgl-online.com/referral/ADM1N02";
+    window.location.href = "https://indotg2023.com/referral/ADM1N02";
 } // link daftar
 
 function indotogel2() {
@@ -341,19 +341,19 @@ function indotogel3() {
 } // link 3
 
 function indotogelld() {
-    setTimeout(function () { window.location.href = "https://indotgl-online.com/referral/ADM1N02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://indotg2023.com/referral/ADM1N02"; }, 40000);
 } // load
 
 function indotogelld2() {
-    setTimeout(function () { window.location.href = "https://indotgl-online.com/referral/ADM1N02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://indotg2023.com/referral/ADM1N02"; }, 32000);
 } // load 2
 
 function indotogelld3() {
-    setTimeout(function () { window.location.href = "https://indotgl-online.com/referral/ADM1N02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://indotg2023.com/referral/ADM1N02"; }, 4000);
 } // load 3
 
 function indotogelld4() {
-    setTimeout(function () { window.location.href = "https://indotgl-online.com/referral/ADM1N02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://indotg2023.com/referral/ADM1N02"; }, 13000);
 } // load 4
 
 
@@ -393,11 +393,11 @@ function dunia4dld4() {
 
 //******************************* JAYAPOKER ***************************************/
 function jayapoker() {
-    window.open("http://bit.ly/3GN78vI");
+    window.open("https://jayapoker-games.com/referral/ADMIN002");
 } // login & Link 1
 
 function jayapoker1() {
-    window.location.href = "http://bit.ly/3GN78vI";
+    window.location.href = "https://jayapoker-games.com/referral/ADMIN002";
 } // link daftar
 
 function jayapoker2() {
@@ -409,19 +409,19 @@ function jayapoker3() {
 } // link 3
 
 function jayapokerld() {
-    setTimeout(function () { window.location.href = "http://bit.ly/3GN78vI"; }, 40000);
+    setTimeout(function () { window.location.href = "https://jayapoker-games.com/referral/ADMIN002"; }, 40000);
 } // load
 
 function jayapokerld2() {
-    setTimeout(function () { window.location.href = "http://bit.ly/3GN78vI"; }, 32000);
+    setTimeout(function () { window.location.href = "https://jayapoker-games.com/referral/ADMIN002"; }, 32000);
 } // load 2
 
 function jayapokerld3() {
-    setTimeout(function () { window.location.href = "http://bit.ly/3GN78vI"; }, 4000);
+    setTimeout(function () { window.location.href = "https://jayapoker-games.com/referral/ADMIN002"; }, 4000);
 } // load 3
 
 function jayapokerld4() {
-    setTimeout(function () { window.location.href = "http://bit.ly/3GN78vI"; }, 13000);
+    setTimeout(function () { window.location.href = "https://jayapoker-games.com/referral/ADMIN002"; }, 13000);
 } // load 4
 
 
