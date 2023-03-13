@@ -35,7 +35,7 @@ function nagapoker2() {
 } // link 2
 
 function nagapoker3() {
-    window.open("https://bit.ly/3SEuw1P");
+    window.open("https://999naga.pro/ref/ADMIN002");
 } // link 3
 
 function nagapokerld() {
