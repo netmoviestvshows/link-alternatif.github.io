@@ -23,35 +23,35 @@ function frbonus() {
 //******************************* 9NAGAPOKER ***************************************/
 
 function nagapoker() {
-    window.open("https://bit.ly/3SEuw1P");
+    window.open("http://bit.ly/3yFI1FJ");
 } // login & link1
 
 function nagapoker1() {
-    window.location.href = "https://bit.ly/3SEuw1P";
+    window.location.href = "http://bit.ly/3yFI1FJ";
 } // link daftar
 
 function nagapoker2() {
-    window.open("https://bit.ly/3tYPBcA");
+    window.open("https://bit.ly/3SEuw1P");
 } // link 2
 
 function nagapoker3() {
-    window.open("https://999naga.pro/ref/ADMIN002");
+    window.open("https://bit.ly/3tYPBcA");
 } // link 3
 
 function nagapokerld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3SEuw1P"; }, 40000);
+    setTimeout(function () { window.location.href = "http://bit.ly/3yFI1FJ"; }, 40000);
 } // load
 
 function nagapokerld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3SEuw1P"; }, 32000);
+    setTimeout(function () { window.location.href = "http://bit.ly/3yFI1FJ"; }, 32000);
 } // load 2
 
 function nagapokerld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3SEuw1P"; }, 4000);
+    setTimeout(function () { window.location.href = "http://bit.ly/3yFI1FJ"; }, 4000);
 } // load 3
 
 function nagapokerld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3SEuw1P"; }, 13000);
+    setTimeout(function () { window.location.href = "http://bit.ly/3yFI1FJ"; }, 13000);
 } // load 4
 
 
