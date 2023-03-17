@@ -291,11 +291,11 @@ function texaspokerccld4() {
 
 //******************************* POKERCLUB88 ***************************************/
 function pokerclub() {
-    window.open("https://bit.ly/3dlU8kw");
+    window.open("https://pokerclub88a.xyz/register?ref=DAAAAAF04QT");
 } // login & Link 1
 
 function pokerclub1() {
-    window.location.href = "https://bit.ly/3dlU8kw";
+    window.location.href = "https://pokerclub88a.xyz/register?ref=DAAAAAF04QT";
 } // link daftar
 
 function pokerclub2() {
@@ -307,19 +307,19 @@ function pokerclub3() {
 } // link 3
 
 function pokerclubld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3dlU8kw"; }, 40000);
+    setTimeout(function () { window.location.href = "https://pokerclub88a.xyz/register?ref=DAAAAAF04QT"; }, 40000);
 } // load
 
 function pokerclubld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3dlU8kw"; }, 32000);
+    setTimeout(function () { window.location.href = "https://pokerclub88a.xyz/register?ref=DAAAAAF04QT"; }, 32000);
 } // load 2
 
 function pokerclubld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3dlU8kw"; }, 4000);
+    setTimeout(function () { window.location.href = "https://pokerclub88a.xyz/register?ref=DAAAAAF04QT"; }, 4000);
 } // load 3
 
 function pokerclubld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3dlU8kw"; }, 13000);
+    setTimeout(function () { window.location.href = "https://pokerclub88a.xyz/register?ref=DAAAAAF04QT"; }, 13000);
 } // load 4
 
 
@@ -427,11 +427,11 @@ function jayapokerld4() {
 
 //******************************* POKERLOUNGE ***************************************/
 function pokerlounge() {
-    window.open("https://bit.ly/3zdRxA6");
+    window.open("https://ppkrlounge99.com/register?ref=DAAAAAI0YOO");
 } // login & Link 1
 
 function pokerlounge1() {
-    window.location.href = "https://bit.ly/3zdRxA6";
+    window.location.href = "https://ppkrlounge99.com/register?ref=DAAAAAI0YOO";
 } // link daftar
 
 function pokerlounge2() {
@@ -443,19 +443,19 @@ function pokerlounge3() {
 } // link 3
 
 function pokerloungeld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3zdRxA6"; }, 40000);
+    setTimeout(function () { window.location.href = "https://ppkrlounge99.com/register?ref=DAAAAAI0YOO"; }, 40000);
 } // load
 
 function pokerloungeld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3zdRxA6"; }, 32000);
+    setTimeout(function () { window.location.href = "https://ppkrlounge99.com/register?ref=DAAAAAI0YOO"; }, 32000);
 } // load 2
 
 function pokerloungeld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3zdRxA6"; }, 4000);
+    setTimeout(function () { window.location.href = "https://ppkrlounge99.com/register?ref=DAAAAAI0YOO"; }, 4000);
 } // load 3
 
 function pokerloungeld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3zdRxA6"; }, 13000);
+    setTimeout(function () { window.location.href = "https://ppkrlounge99.com/register?ref=DAAAAAI0YOO"; }, 13000);
 } // load 4
 
 
