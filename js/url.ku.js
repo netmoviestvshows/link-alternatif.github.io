@@ -393,11 +393,11 @@ function dunia4dld4() {
 
 //******************************* JAYAPOKER ***************************************/
 function jayapoker() {
-    window.open("https://jayapoker-games.com/referral/ADMIN002");
+    window.open("https://jayapoker2023.com/referral/ADMIN002");
 } // login & Link 1
 
 function jayapoker1() {
-    window.location.href = "https://jayapoker-games.com/referral/ADMIN002";
+    window.location.href = "https://jayapoker2023.com/referral/ADMIN002";
 } // link daftar
 
 function jayapoker2() {
@@ -409,19 +409,19 @@ function jayapoker3() {
 } // link 3
 
 function jayapokerld() {
-    setTimeout(function () { window.location.href = "https://jayapoker-games.com/referral/ADMIN002"; }, 40000);
+    setTimeout(function () { window.location.href = "https://jayapoker2023.com/referral/ADMIN002"; }, 40000);
 } // load
 
 function jayapokerld2() {
-    setTimeout(function () { window.location.href = "https://jayapoker-games.com/referral/ADMIN002"; }, 32000);
+    setTimeout(function () { window.location.href = "https://jayapoker2023.com/referral/ADMIN002"; }, 32000);
 } // load 2
 
 function jayapokerld3() {
-    setTimeout(function () { window.location.href = "https://jayapoker-games.com/referral/ADMIN002"; }, 4000);
+    setTimeout(function () { window.location.href = "https://jayapoker2023.com/referral/ADMIN002"; }, 4000);
 } // load 3
 
 function jayapokerld4() {
-    setTimeout(function () { window.location.href = "https://jayapoker-games.com/referral/ADMIN002"; }, 13000);
+    setTimeout(function () { window.location.href = "https://jayapoker2023.com/referral/ADMIN002"; }, 13000);
 } // load 4
 
 
