@@ -92,11 +92,11 @@ function miyabipokerld4() {
 
 //******************************* BIGWIN333 ***************************************/
 function bigwin() {
-    window.open("https://ini333.info/register?ref=1960994");
+    window.open("http://333id.shop/?ref=okbigwin333");
 } // login & link1
 
 function bigwin1() {
-    window.location.href = "https://ini333.info/register?ref=1960994";
+    window.location.href = "http://333id.shop/?ref=okbigwin333";
 } // link daftar
 
 function bigwin2() {
@@ -108,19 +108,19 @@ function bigwin3() {
 } // link 3
 
 function bigwinld() {
-    setTimeout(function () { window.location.href = "https://ini333.info/register?ref=1960994"; }, 40000);
+    setTimeout(function () { window.location.href = "http://333id.shop/?ref=okbigwin333"; }, 40000);
 } // load
 
 function bigwinld2() {
-    setTimeout(function () { window.location.href = "https://ini333.info/register?ref=1960994"; }, 32000);
+    setTimeout(function () { window.location.href = "http://333id.shop/?ref=okbigwin333"; }, 32000);
 } // load 2
 
 function bigwinld3() {
-    setTimeout(function () { window.location.href = "https://ini333.info/register?ref=1960994"; }, 4000);
+    setTimeout(function () { window.location.href = "http://333id.shop/?ref=okbigwin333"; }, 4000);
 } // load 3
 
 function bigwinld4() {
-    setTimeout(function () { window.location.href = "https://ini333.info/register?ref=1960994"; }, 13000);
+    setTimeout(function () { window.location.href = "http://333id.shop/?ref=okbigwin333"; }, 13000);
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
@@ -158,11 +158,11 @@ function dewapokerld4() {
 
 //******************************* KDSLOT777 ***************************************/
 function kdslot() {
-    window.open("https://kdbet.asia/?ref=admin02");
+    window.open("https://slotskd.asia/?ref=admin02");
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href = "https://kdbet.asia/?ref=admin02";
+    window.location.href = "https://slotskd.asia/?ref=admin02";
 } // link daftar
 
 function kdslot2() {
@@ -174,19 +174,19 @@ function kdslot3() {
 } // link 3
 
 function kdslotld() {
-    setTimeout(function () { window.location.href = "https://kdbet.asia/?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://slotskd.asia/?ref=admin02"; }, 40000);
 } // load
 
 function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://kdbet.asia/?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://slotskd.asia/?ref=admin02"; }, 32000);
 } // load 2
 
 function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://kdbet.asia/?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://slotskd.asia/?ref=admin02"; }, 4000);
 } // load 3
 
 function kdslotld4() {
-    setTimeout(function () { window.location.href = "https://kdbet.asia/?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://slotskd.asia/?ref=admin02"; }, 13000);
 } // load 4
 
 //******************************* SENIORTOGEL ***************************************/
