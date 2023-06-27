@@ -595,11 +595,11 @@ function seniqqld4() {
 
 //******************************* LIDEWAPOKER ***************************************/
 function lidewapoker() {
-    window.open("https://highlinemediagroup.com/ref/SERVICE1");
+    window.open("https://pintulidewapk.com/ref/SERVICE1");
 } // login & Link 1
 
 function lidewapoker1() {
-    window.location.href = "https://highlinemediagroup.com/ref/SERVICE1";
+    window.location.href = "https://pintulidewapk.com/ref/SERVICE1";
 } // link daftar
 
 function lidewapoker2() {
@@ -611,19 +611,19 @@ function lidewapoker3() {
 } // link 3
 
 function lidewapokerld() {
-    setTimeout(function () { window.location.href = "https://highlinemediagroup.com/ref/SERVICE1"; }, 40000);
+    setTimeout(function () { window.location.href = "https://pintulidewapk.com/ref/SERVICE1"; }, 40000);
 } // load
 
 function lidewapokerld2() {
-    setTimeout(function () { window.location.href = "https://highlinemediagroup.com/ref/SERVICE1"; }, 32000);
+    setTimeout(function () { window.location.href = "https://pintulidewapk.com/ref/SERVICE1"; }, 32000);
 } // load 2
 
 function lidewapokerld3() {
-    setTimeout(function () { window.location.href = "https://highlinemediagroup.com/ref/SERVICE1"; }, 4000);
+    setTimeout(function () { window.location.href = "https://pintulidewapk.com/ref/SERVICE1"; }, 4000);
 } // load 3
 
 function lidewapokerld4() {
-    setTimeout(function () { window.location.href = "https://1734907lidpk.com/ref/SERVICE1"; }, 13000);
+    setTimeout(function () { window.location.href = "https://pintulidewapk.com/ref/SERVICE1"; }, 13000);
 } // load 4
 
 
