@@ -125,11 +125,11 @@ function bigwinld4() {
 
 //******************************* DEWAPOKER ***************************************/
 function dewapoker() {
-    window.open("https://lazadaku.com/ref/OMTIE69");
+    window.open("https://dewapokergcr.net/?ref=OMTIE69");
 } // login & Link 1
 
 function dewapoker1() {
-    window.location.href = "https://lazadaku.com/ref/OMTIE69";
+    window.location.href = "https://dewapokergcr.net/?ref=OMTIE69";
 } // link daftar
 
 function dewapoker2() {
@@ -141,19 +141,19 @@ function dewapoker3() {
 } // link 3
 
 function dewapokerld() {
-    setTimeout(function () { window.location.href = "https://lazadaku.com/ref/OMTIE69"; }, 40000);
+    setTimeout(function () { window.location.href = "https://dewapokergcr.net/?ref=OMTIE69"; }, 40000);
 } // load
 
 function dewapokerld2() {
-    setTimeout(function () { window.location.href = "https://lazadaku.com/ref/OMTIE69"; }, 32000);
+    setTimeout(function () { window.location.href = "https://dewapokergcr.net/?ref=OMTIE69"; }, 32000);
 } // load 2
 
 function dewapokerld3() {
-    setTimeout(function () { window.location.href = "https://lazadaku.com/ref/OMTIE69"; }, 4000);
+    setTimeout(function () { window.location.href = "https://dewapokergcr.net/?ref=OMTIE69"; }, 4000);
 } // load 3
 
 function dewapokerld4() {
-    setTimeout(function () { window.location.href = "https://lazadaku.com/ref/OMTIE69"; }, 13000);
+    setTimeout(function () { window.location.href = "https://dewapokergcr.net/?ref=OMTIE69"; }, 13000);
 } // load 4
 
 //******************************* KDSLOT777 ***************************************/
@@ -257,11 +257,11 @@ function lgokingld4() {
 
 //******************************* TEXASPOKERCC ***************************************/
 function texaspokercc() {
-    window.open("https://texaspoker20-23.com/referral/RUNNERS");
+    window.open("https://texaspkrgacor.com/referral/RUNNERS");
 } // login & Link 1
 
 function texaspokercc1() {
-    window.location.href = "https://texaspoker20-23.com/referral/RUNNERS";
+    window.location.href = "https://texaspkrgacor.com/referral/RUNNERS";
 } // link daftar
 
 function texaspokercc2() {
@@ -273,19 +273,19 @@ function texaspokercc3() {
 } // link 3
 
 function texaspokerccld() {
-    setTimeout(function () { window.location.href = "https://texaspoker20-23.com/referral/RUNNERS"; }, 40000);
+    setTimeout(function () { window.location.href = "https://texaspkrgacor.com/referral/RUNNERS"; }, 40000);
 } // load
 
 function texaspokerccld2() {
-    setTimeout(function () { window.location.href = "https://texaspoker20-23.com/referral/RUNNERS"; }, 32000);
+    setTimeout(function () { window.location.href = "https://texaspkrgacor.com/referral/RUNNERS"; }, 32000);
 } // load 2
 
 function texaspokerccld3() {
-    setTimeout(function () { window.location.href = "https://texaspoker20-23.com/referral/RUNNERS"; }, 4000);
+    setTimeout(function () { window.location.href = "https://texaspkrgacor.com/referral/RUNNERS"; }, 4000);
 } // load 3
 
 function texaspokerccld4() {
-    setTimeout(function () { window.location.href = "https://texaspoker20-23.com/referral/RUNNERS"; }, 13000);
+    setTimeout(function () { window.location.href = "https://texaspkrgacor.com/referral/RUNNERS"; }, 13000);
 } // load 4
 
 
