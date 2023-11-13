@@ -603,7 +603,7 @@ function lidewapoker1() {
 } // link daftar
 
 function lidewapoker2() {
-    window.open("https://bit.ly/3B9ErWU");
+    window.open("https://poslidewapk.com/ref/SERVICE1");
 } // link 2
 
 function lidewapoker3() {
