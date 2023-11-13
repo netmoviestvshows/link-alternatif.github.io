@@ -158,35 +158,35 @@ function dewapokerld4() {
 
 //******************************* KDSLOT777 ***************************************/
 function kdslot() {
-    window.open("https://kdbet88.com/?ref=admin02");
+    window.open("https://kdslots.one/?ref=admin02");
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href = "https://kdbet88.com/?ref=admin02";
+    window.location.href = "https://kdslots.one/?ref=admin02";
 } // link daftar
 
 function kdslot2() {
-    window.open("https://bit.ly/3KcwDX5");
+    window.open("https://kdlinkaktif.homes/?ref=admin02");
 } // link 2
 
 function kdslot3() {
-    window.open("https://bit.ly/3QJsVXr");
+    window.open("https://kdslotsdijaminamandeposithariini.site/?ref=admin02");
 } // link 3
 
 function kdslotld() {
-    setTimeout(function () { window.location.href = "https://kdbet88.com/?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://kdslots.one/?ref=admin02"; }, 40000);
 } // load
 
 function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://kdbet88.com/?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://kdslots.one/?ref=admin02"; }, 32000);
 } // load 2
 
 function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://kdbet88.com/?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://kdslots.one/?ref=admin02"; }, 4000);
 } // load 3
 
 function kdslotld4() {
-    setTimeout(function () { window.location.href = "https://kdbet88.com/?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://kdslots.one/?ref=admin02"; }, 13000);
 } // load 4
 
 //******************************* SENIORTOGEL ***************************************/
