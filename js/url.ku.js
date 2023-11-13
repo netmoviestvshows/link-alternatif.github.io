@@ -607,7 +607,7 @@ function lidewapoker2() {
 } // link 2
 
 function lidewapoker3() {
-    window.open("#");
+    window.open("https://inceslidewapk.com/ref/SERVICE1");
 } // link 3
 
 function lidewapokerld() {
