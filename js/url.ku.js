@@ -125,11 +125,11 @@ function bigwinld4() {
 
 //******************************* DEWAPOKER ***************************************/
 function dewapoker() {
-    window.open("https://dewapokergcr.net/?ref=OMTIE69");
+    window.open("https://dwpk889.net/?ref=OMTIE69");
 } // login & Link 1
 
 function dewapoker1() {
-    window.location.href = "https://dewapokergcr.net/?ref=OMTIE69";
+    window.location.href = "https://dewapokergcr.co/?ref=OMTIE69";
 } // link daftar
 
 function dewapoker2() {
@@ -141,19 +141,19 @@ function dewapoker3() {
 } // link 3
 
 function dewapokerld() {
-    setTimeout(function () { window.location.href = "https://dewapokergcr.net/?ref=OMTIE69"; }, 40000);
+    setTimeout(function () { window.location.href = "https://dwpk889.net/?ref=OMTIE69"; }, 40000);
 } // load
 
 function dewapokerld2() {
-    setTimeout(function () { window.location.href = "https://dewapokergcr.net/?ref=OMTIE69"; }, 32000);
+    setTimeout(function () { window.location.href = "https://dwpk889.net/?ref=OMTIE69"; }, 32000);
 } // load 2
 
 function dewapokerld3() {
-    setTimeout(function () { window.location.href = "https://dewapokergcr.net/?ref=OMTIE69"; }, 4000);
+    setTimeout(function () { window.location.href = "https://dwpk889.net/?ref=OMTIE69"; }, 4000);
 } // load 3
 
 function dewapokerld4() {
-    setTimeout(function () { window.location.href = "https://dewapokergcr.net/?ref=OMTIE69"; }, 13000);
+    setTimeout(function () { window.location.href = "https://dwpk889.net/?ref=OMTIE69"; }, 13000);
 } // load 4
 
 //******************************* KDSLOT777 ***************************************/
