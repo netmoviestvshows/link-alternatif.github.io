@@ -257,11 +257,11 @@ function lgokingld4() {
 
 //******************************* TEXASPOKERCC ***************************************/
 function texaspokercc() {
-    window.open("https://texaspkrgacor.com/referral/RUNNERS");
+    window.open("https://texasccpokergacor.com/referral/RUNNERS");
 } // login & Link 1
 
 function texaspokercc1() {
-    window.location.href = "https://texaspkrgacor.com/referral/RUNNERS";
+    window.location.href = "https://texasccpokergacor.com/referral/RUNNERS";
 } // link daftar
 
 function texaspokercc2() {
@@ -273,19 +273,19 @@ function texaspokercc3() {
 } // link 3
 
 function texaspokerccld() {
-    setTimeout(function () { window.location.href = "https://texaspkrgacor.com/referral/RUNNERS"; }, 40000);
+    setTimeout(function () { window.location.href = "https://texasccpokergacor.com/referral/RUNNERS"; }, 40000);
 } // load
 
 function texaspokerccld2() {
-    setTimeout(function () { window.location.href = "https://texaspkrgacor.com/referral/RUNNERS"; }, 32000);
+    setTimeout(function () { window.location.href = "https://texasccpokergacor.com/referral/RUNNERS"; }, 32000);
 } // load 2
 
 function texaspokerccld3() {
-    setTimeout(function () { window.location.href = "https://texaspkrgacor.com/referral/RUNNERS"; }, 4000);
+    setTimeout(function () { window.location.href = "https://texasccpokergacor.com/referral/RUNNERS"; }, 4000);
 } // load 3
 
 function texaspokerccld4() {
-    setTimeout(function () { window.location.href = "https://texaspkrgacor.com/referral/RUNNERS"; }, 13000);
+    setTimeout(function () { window.location.href = "https://texasccpokergacor.com/referral/RUNNERS"; }, 13000);
 } // load 4
 
 
