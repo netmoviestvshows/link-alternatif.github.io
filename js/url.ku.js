@@ -663,11 +663,11 @@ function xbetld4() {
 
 //******************************* BATIKPOKER ***************************************/
 function batikpoker() {
-    window.open("https://bit.ly/32tBkdf");
+    window.open("https://batikpkplay.com/referral/QUEENQ");
 } // login & Link 1
 
 function batikpoker1() {
-    window.location.href = "https://bit.ly/32tBkdf";
+    window.location.href = "https://batikpkplay.com/referral/QUEENQ";
 } // link daftar
 
 function batikpoker2() {
@@ -679,29 +679,29 @@ function batikpoker3() {
 } // link 3
 
 function batikpokerld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/32tBkdf"; }, 40000);
+    setTimeout(function () { window.location.href = "https://batikpkplay.com/referral/QUEENQ"; }, 40000);
 } // load
 
 function batikpokerld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/32tBkdf"; }, 32000);
+    setTimeout(function () { window.location.href = "https://batikpkplay.com/referral/QUEENQ"; }, 32000);
 } // load 2
 
 function batikpokerld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/32tBkdf"; }, 4000);
+    setTimeout(function () { window.location.href = "https://batikpkplay.com/referral/QUEENQ"; }, 4000);
 } // load 3
 
 function batikpokerld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/32tBkdf"; }, 13000);
+    setTimeout(function () { window.location.href = "https://batikpkplay.com/referral/QUEENQ"; }, 13000);
 } // load 4
 
 
 //******************************* GUDANGQQ ***************************************/
 function gudangqq() {
-    window.open("https://bit.ly/3cEj9qg");
+    window.open("https://202.95.10.213/?ref=44002");
 } // login & Link 1
 
 function gudangqq1() {
-    window.location.href = "https://bit.ly/3cEj9qg";
+    window.location.href = "https://202.95.10.213/?ref=44002";
 } // link daftar
 
 function gudangqq2() {
@@ -713,19 +713,19 @@ function gudangqq3() {
 } // link 3
 
 function gudangqqld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3cEj9qg"; }, 40000);
+    setTimeout(function () { window.location.href = "https://202.95.10.213/?ref=44002"; }, 40000);
 } // load
 
 function gudangqqld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3cEj9qg"; }, 32000);
+    setTimeout(function () { window.location.href = "https://202.95.10.213/?ref=44002"; }, 32000);
 } // load 2
 
 function gudangqqld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3cEj9qg"; }, 4000);
+    setTimeout(function () { window.location.href = "https://202.95.10.213/?ref=44002"; }, 4000);
 } // load 3
 
 function gudangqqld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3cEj9qg"; }, 13000);
+    setTimeout(function () { window.location.href = "https://202.95.10.213/?ref=44002"; }, 13000);
 } // load 4
 
 
@@ -765,11 +765,11 @@ function qqpokerld4() {
 
 //******************************* IDRPOKER ***************************************/
 function idrpoker() {
-    window.open("https://bit.ly/3J5ncIe");
+    window.open("https://idrpkr88.fun/?ref=785058");
 } // login & Link 1
 
 function idrpoker1() {
-    window.location.href = "https://bit.ly/3J5ncIe";
+    window.location.href = "https://idrpkr88.fun/?ref=785058";
 } // link daftar
 
 function idrpoker2() {
@@ -781,17 +781,17 @@ function idrpoker3() {
 } // link 3
 
 function idrpokerld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3J5ncIe"; }, 40000);
+    setTimeout(function () { window.location.href = "https://idrpkr88.fun/?ref=785058"; }, 40000);
 } // load
 
 function idrpokerld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3J5ncIe"; }, 32000);
+    setTimeout(function () { window.location.href = "https://idrpkr88.fun/?ref=785058"; }, 32000);
 } // load 2
 
 function idrpokerld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3J5ncIe"; }, 4000);
+    setTimeout(function () { window.location.href = "https://idrpkr88.fun/?ref=785058"; }, 4000);
 } // load 3
 
 function idrpokerld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3J5ncIe"; }, 13000);
+    setTimeout(function () { window.location.href = "https://idrpkr88.fun/?ref=785058"; }, 13000);
 } // load 4
