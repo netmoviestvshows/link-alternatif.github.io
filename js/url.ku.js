@@ -92,11 +92,11 @@ function miyabipokerld4() {
 
 //******************************* BIGWIN333 ***************************************/
 function bigwin() {
-    window.open("http://333id.shop/?ref=okbigwin333");
+    window.open("https://999naga.site/ref/ADMIN002");
 } // login & link1
 
 function bigwin1() {
-    window.location.href = "http://333id.shop/?ref=okbigwin333";
+    window.location.href = "https://999naga.site/ref/ADMIN002";
 } // link daftar
 
 function bigwin2() {
@@ -108,19 +108,19 @@ function bigwin3() {
 } // link 3
 
 function bigwinld() {
-    setTimeout(function () { window.location.href = "http://333id.shop/?ref=okbigwin333"; }, 40000);
+    setTimeout(function () { window.location.href = "https://999naga.site/ref/ADMIN002"; }, 40000);
 } // load
 
 function bigwinld2() {
-    setTimeout(function () { window.location.href = "http://333id.shop/?ref=okbigwin333"; }, 32000);
+    setTimeout(function () { window.location.href = "https://999naga.site/ref/ADMIN002"; }, 32000);
 } // load 2
 
 function bigwinld3() {
-    setTimeout(function () { window.location.href = "http://333id.shop/?ref=okbigwin333"; }, 4000);
+    setTimeout(function () { window.location.href = "https://999naga.site/ref/ADMIN002"; }, 4000);
 } // load 3
 
 function bigwinld4() {
-    setTimeout(function () { window.location.href = "http://333id.shop/?ref=okbigwin333"; }, 13000);
+    setTimeout(function () { window.location.href = "https://999naga.site/ref/ADMIN002"; }, 13000);
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
