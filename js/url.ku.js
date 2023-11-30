@@ -1,3 +1,11 @@
+//******************************* ID PRO ***************************************/
+var url9nagapoker = 'https://999naga.site/ref/ADMIN002';
+var urllidewapoker = 'https://pintulidewapk.com/ref/SERVICE1';
+var urldewapoker = 'https://d3w4p.com/ref=OMTIE69';
+var urljayapoker = 'https://jayapkroyal.com//referral/ADMIN002';
+var urltexaspokercc = 'https://loginpokercc.com//referral/RUNNERS';
+var urlindotogel = 'https://indotgmax.com/referral/ADM1N02';
+
 //******************************* HOME ***************************************/
 function daftar() {
     window.location.href = "./idpro/";
