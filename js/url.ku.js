@@ -1,11 +1,3 @@
-//******************************* ID PRO ***************************************/
-var url9nagapoker = 'https://999naga.site/ref/ADMIN002';
-var urllidewapoker = 'https://pintulidewapk.com/ref/SERVICE1';
-var urldewapoker = 'https://d3w4p.com/ref/OMTIE69';
-var urljayapoker = 'https://jayapkroyal.com/referral/ADMIN002';
-var urltexaspokercc = 'https://loginpokercc.com//referral/RUNNERS';
-var urlindotogel = 'https://indotgmax.com/referral/ADM1N02';
-
 //******************************* HOME ***************************************/
 function daftar() {
     window.location.href = "./idpro/";
@@ -29,6 +21,7 @@ function frbonus() {
 
 
 //******************************* 9NAGAPOKER ***************************************/
+var url9nagapoker = 'https://999naga.site/ref/ADMIN002';
 
 function nagapoker() {
     window.open("https://999naga.site/ref/ADMIN002");
@@ -132,6 +125,8 @@ function bigwinld4() {
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
+var urldewapoker = 'https://d3w4p.com/ref/OMTIE69';
+
 function dewapoker() {
     window.open("https://d3w4p.com/ref/OMTIE69");
 } // login & Link 1
@@ -264,6 +259,8 @@ function lgokingld4() {
 } // load 4
 
 //******************************* TEXASPOKERCC ***************************************/
+var urltexaspokercc = 'https://loginpokercc.com//referral/RUNNERS';
+
 function texaspokercc() {
     window.open("https://loginpokercc.com//referral/RUNNERS");
 } // login & Link 1
@@ -332,6 +329,8 @@ function pokerclubld4() {
 
 
 //******************************* INDOTOGEL ***************************************/
+var urlindotogel = 'https://indotgmax.com/referral/ADM1N02';
+
 function indotogel() {
     window.open("https://indotgmax.com/referral/ADM1N02");
 } // login & Link 1
@@ -400,6 +399,8 @@ function dunia4dld4() {
 
 
 //******************************* JAYAPOKER ***************************************/
+var urljayapoker = 'https://jayapkroyal.com/referral/ADMIN002';
+
 function jayapoker() {
     window.open("https://jayapkroyal.com/referral/ADMIN002");
 } // login & Link 1
@@ -602,6 +603,8 @@ function seniqqld4() {
 
 
 //******************************* LIDEWAPOKER ***************************************/
+var urllidewapoker = 'https://pintulidewapk.com/ref/SERVICE1';
+
 function lidewapoker() {
     window.open("https://pintulidewapk.com/ref/SERVICE1");
 } // login & Link 1
