@@ -1,3 +1,11 @@
+//******************************* ID PRO ***************************************/
+var url9nagapoker = 'https://999naga.site/ref/ADMIN002';
+var urllidewapoker = 'https://pintulidewapk.com/ref/SERVICE1';
+var urldewapoker = 'https://d3w4p.com/ref/OMTIE69';
+var urljayapoker = 'https://jayapkroyal.com/referral/ADMIN002';
+var urltexaspokercc = 'https://loginpokercc.com//referral/RUNNERS';
+var urlindotogel = 'https://indotgmax.com/referral/ADM1N02';
+
 //******************************* HOME ***************************************/
 function daftar() {
     window.location.href = "./idpro/";
@@ -796,10 +804,4 @@ function idrpokerld4() {
     setTimeout(function () { window.location.href = "https://idrpkr88.fun/?ref=785058"; }, 13000);
 } // load 4
 
-//******************************* ID PRO ***************************************/
-var url9nagapoker = 'https://999naga.site/ref/ADMIN002';
-var urllidewapoker = 'https://pintulidewapk.com/ref/SERVICE1';
-var urldewapoker = 'https://d3w4p.com/ref/OMTIE69';
-var urljayapoker = 'https://jayapkroyal.com/referral/ADMIN002';
-var urltexaspokercc = 'https://loginpokercc.com//referral/RUNNERS';
-var urlindotogel = 'https://indotgmax.com/referral/ADM1N02';
+
