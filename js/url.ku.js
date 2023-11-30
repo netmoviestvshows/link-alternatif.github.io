@@ -1,11 +1,3 @@
-//******************************* ID PRO ***************************************/
-var url9nagapoker = 'https://999naga.site/ref/ADMIN002';
-var urllidewapoker = 'https://pintulidewapk.com/ref/SERVICE1';
-var urldewapoker = 'https://d3w4p.com/ref=OMTIE69';
-var urljayapoker = 'https://jayapkroyal.com//referral/ADMIN002';
-var urltexaspokercc = 'https://loginpokercc.com//referral/RUNNERS';
-var urlindotogel = 'https://indotgmax.com/referral/ADM1N02';
-
 //******************************* HOME ***************************************/
 function daftar() {
     window.location.href = "./idpro/";
@@ -133,35 +125,35 @@ function bigwinld4() {
 
 //******************************* DEWAPOKER ***************************************/
 function dewapoker() {
-    window.open("https://d3w4p.com/ref=OMTIE69");
+    window.open("https://d3w4p.com/ref/OMTIE69");
 } // login & Link 1
 
 function dewapoker1() {
-    window.location.href = "https://d3w4p.com/?ref=OMTIE69";
+    window.location.href = "https://d3w4p.com/ref/OMTIE69";
 } // link daftar
 
 function dewapoker2() {
-    window.open("https://d3w4p.com/?ref=OMTIE69");
+    window.open("https://dpksukses.online/ref/OMTIE69");
 } // link 2
 
 function dewapoker3() {
-    window.open("https://bit.ly/3QRWfL2");
+    window.open("https://dwpkr88win.co/ref/OMTIE69");
 } // link 3
 
 function dewapokerld() {
-    setTimeout(function () { window.location.href = "https://d3w4p.com/?ref=OMTIE69"; }, 40000);
+    setTimeout(function () { window.location.href = "https://d3w4p.com/ref/OMTIE69"; }, 40000);
 } // load
 
 function dewapokerld2() {
-    setTimeout(function () { window.location.href = "https://d3w4p.com/?ref=OMTIE69"; }, 32000);
+    setTimeout(function () { window.location.href = "https://d3w4p.com/ref/OMTIE69"; }, 32000);
 } // load 2
 
 function dewapokerld3() {
-    setTimeout(function () { window.location.href = "https://d3w4p.com/?ref=OMTIE69"; }, 4000);
+    setTimeout(function () { window.location.href = "https://d3w4p.com/ref/OMTIE69"; }, 4000);
 } // load 3
 
 function dewapokerld4() {
-    setTimeout(function () { window.location.href = "https://d3w4p.com/?ref=OMTIE69"; }, 13000);
+    setTimeout(function () { window.location.href = "https://d3w4p.com/ref/OMTIE69"; }, 13000);
 } // load 4
 
 //******************************* KDSLOT777 ***************************************/
@@ -265,11 +257,11 @@ function lgokingld4() {
 
 //******************************* TEXASPOKERCC ***************************************/
 function texaspokercc() {
-    window.open("https://texaspokergacor.com/referral/RUNNERS");
+    window.open("https://loginpokercc.com//referral/RUNNERS");
 } // login & Link 1
 
 function texaspokercc1() {
-    window.location.href = "https://texaspokergacor.com/referral/RUNNERS";
+    window.location.href = "https://loginpokercc.com//referral/RUNNERS";
 } // link daftar
 
 function texaspokercc2() {
@@ -281,19 +273,19 @@ function texaspokercc3() {
 } // link 3
 
 function texaspokerccld() {
-    setTimeout(function () { window.location.href = "https://texaspokergacor.com/referral/RUNNERS"; }, 40000);
+    setTimeout(function () { window.location.href = "https://loginpokercc.com//referral/RUNNERS"; }, 40000);
 } // load
 
 function texaspokerccld2() {
-    setTimeout(function () { window.location.href = "https://texaspokergacor.com/referral/RUNNERS"; }, 32000);
+    setTimeout(function () { window.location.href = "https://loginpokercc.com//referral/RUNNERS"; }, 32000);
 } // load 2
 
 function texaspokerccld3() {
-    setTimeout(function () { window.location.href = "https://texaspokergacor.com/referral/RUNNERS"; }, 4000);
+    setTimeout(function () { window.location.href = "https://loginpokercc.com//referral/RUNNERS"; }, 4000);
 } // load 3
 
 function texaspokerccld4() {
-    setTimeout(function () { window.location.href = "https://texaspokergacor.com/referral/RUNNERS"; }, 13000);
+    setTimeout(function () { window.location.href = "https://loginpokercc.com//referral/RUNNERS"; }, 13000);
 } // load 4
 
 
@@ -401,11 +393,11 @@ function dunia4dld4() {
 
 //******************************* JAYAPOKER ***************************************/
 function jayapoker() {
-    window.open("https://jayapkspin.com/referral/ADMIN002");
+    window.open("https://jayapkroyal.com/referral/ADMIN002");
 } // login & Link 1
 
 function jayapoker1() {
-    window.location.href = "https://jayapkspin.com/referral/ADMIN002";
+    window.location.href = "https://jayapkroyal.com/referral/ADMIN002";
 } // link daftar
 
 function jayapoker2() {
@@ -417,19 +409,19 @@ function jayapoker3() {
 } // link 3
 
 function jayapokerld() {
-    setTimeout(function () { window.location.href = "https://jayapkspin.com/referral/ADMIN002"; }, 40000);
+    setTimeout(function () { window.location.href = "https://jayapkroyal.com/referral/ADMIN002"; }, 40000);
 } // load
 
 function jayapokerld2() {
-    setTimeout(function () { window.location.href = "https://jayapkspin.com/referral/ADMIN002"; }, 32000);
+    setTimeout(function () { window.location.href = "https://jayapkroyal.com/referral/ADMIN002"; }, 32000);
 } // load 2
 
 function jayapokerld3() {
-    setTimeout(function () { window.location.href = "https://jayapkspin.com/referral/ADMIN002"; }, 4000);
+    setTimeout(function () { window.location.href = "https://jayapkroyal.com/referral/ADMIN002"; }, 4000);
 } // load 3
 
 function jayapokerld4() {
-    setTimeout(function () { window.location.href = "https://jayapkspin.com/referral/ADMIN002"; }, 13000);
+    setTimeout(function () { window.location.href = "https://jayapkroyal.com/referral/ADMIN002"; }, 13000);
 } // load 4
 
 
@@ -803,3 +795,11 @@ function idrpokerld3() {
 function idrpokerld4() {
     setTimeout(function () { window.location.href = "https://idrpkr88.fun/?ref=785058"; }, 13000);
 } // load 4
+
+//******************************* ID PRO ***************************************/
+var url9nagapoker = 'https://999naga.site/ref/ADMIN002';
+var urllidewapoker = 'https://pintulidewapk.com/ref/SERVICE1';
+var urldewapoker = 'https://d3w4p.com/ref/OMTIE69';
+var urljayapoker = 'https://jayapkroyal.com/referral/ADMIN002';
+var urltexaspokercc = 'https://loginpokercc.com//referral/RUNNERS';
+var urlindotogel = 'https://indotgmax.com/referral/ADM1N02';
