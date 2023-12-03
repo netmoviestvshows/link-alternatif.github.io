@@ -57,6 +57,7 @@ function nagapokerld4() {
 
 
 //******************************* MIYABIPOKER ***************************************/
+var urlmiyabipoker = 'https://kdbet.pro/ref/ADMIN002';
 
 function miyabipoker() {
     window.open("https://d3w4p.com/ref=OMTIE69");
@@ -92,6 +93,8 @@ function miyabipokerld4() {
 
 
 //******************************* BIGWIN333 ***************************************/
+var urlbigwin = 'https://kdbet.pro/ref/ADMIN002';
+
 function bigwin() {
     window.open("https://999naga.site/ref/ADMIN002");
 } // login & link1
@@ -195,12 +198,14 @@ function dewapokerld4() {
 } // load 4
 
 //******************************* KDSLOT777 ***************************************/
+var urlkdslot = 'https://kdbet.pro/ref/ADMIN002';
+
 function kdslot() {
-    window.open("https://kdbet.pro/?ref=admin02");
+    window.open("https://kdbet.pro/ref/ADMIN002");
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href = "https://kdbet.pro/?ref=admin02";
+    window.location.href = "https://kdbet.pro/ref/ADMIN002";
 } // link daftar
 
 function kdslot2() {
@@ -228,6 +233,8 @@ function kdslotld4() {
 } // load 4
 
 //******************************* SENIORTOGEL ***************************************/
+var urlseniortogel = 'https://kdbet.pro/ref/ADMIN002';
+
 function seniortogel() {
     window.open("https://seniorlink.xyz/register?referral_code=sijabrigx");
 } // login & Link 1
@@ -261,6 +268,8 @@ function seniortogelld4() {
 } // load 4
 
 //******************************* LGOKINGL ***************************************/
+var urllgoking = 'https://kdbet.pro/ref/ADMIN002';
+
 function lgoking() {
     window.open("https://lgoking-naga.com/register?ref=PABAAAD0K9P");
 } // login & Link 1
@@ -330,6 +339,8 @@ function texaspokerccld4() {
 
 
 //******************************* POKERCLUB88 ***************************************/
+var urlpokerclub = 'https://kdbet.pro/ref/ADMIN002';
+
 function pokerclub() {
     window.open("https://pokerclub88a.xyz/register?ref=DAAAAAF04QT");
 } // login & Link 1
@@ -400,6 +411,8 @@ function indotogelld4() {
 
 
 //******************************* DUNIA4D ***************************************/
+var urldunia4d = 'https://www.dunia4d3.com/register?a=admin02';
+
 function dunia4d() {
     window.open("https://www.dunia4d3.com/register?a=admin02");
 } // login & Link 1
@@ -470,6 +483,8 @@ function jayapokerld4() {
 
 
 //******************************* POKERLOUNGE ***************************************/
+var pokerlounge = 'https://jayapkroyal.com/referral/ADMIN002';
+
 function pokerlounge() {
     window.open("https://pokerlounge99ok.com/register?ref=DAAAAAI0YOO");
 } // login & Link 1
@@ -504,6 +519,8 @@ function pokerloungeld4() {
 
 
 //******************************* REPUBLIKSPIN ***************************************/
+var republikspin = 'https://jayapkroyal.com/referral/ADMIN002';
+
 function republikspin() {
     window.open("https://kakatua.lat/register?ref=QOGAABP1P79");
 } // login & Link 1
@@ -537,6 +554,8 @@ function republikspinld4() {
 } // load 4
 
 //******************************* UG808 ***************************************/
+var urlug = 'https://jayapkroyal.com/referral/ADMIN002';
+
 function ug() {
     window.open("https://bit.ly/3PFfBmj");
 } // login & Link 1
@@ -570,6 +589,8 @@ function ugld4() {
 } // load 4
 
 //******************************* MEJAVIP ***************************************/
+var mejavip = 'https://jayapkroyal.com/referral/ADMIN002';
+
 function mejavip() {
     window.open("https://bit.ly/3wqi2Sd");
 } // login & Link 1
@@ -604,6 +625,8 @@ function mejavipld4() {
 
 
 //******************************* SENIQQ ***************************************/
+var seniqq = 'https://jayapkroyal.com/referral/ADMIN002';
+
 function seniqq() {
     window.open("https://bit.ly/3p9GWCt");
 } // login & Link 1
@@ -674,6 +697,8 @@ function lidewapokerld4() {
 
 
 //******************************* 1XBET ***************************************/
+var xbet = 'https://jayapkroyal.com/referral/ADMIN002';
+
 function xbet() {
     window.open("https://lite-1x283524.top/?bf=601e5667af73c_1757240257");
 } // login & Link 1
@@ -708,6 +733,8 @@ function xbetld4() {
 
 
 //******************************* BATIKPOKER ***************************************/
+var batikpoker = 'https://jayapkroyal.com/referral/ADMIN002';
+
 function batikpoker() {
     window.open("https://batikpkplay.com/referral/QUEENQ");
 } // login & Link 1
@@ -742,6 +769,8 @@ function batikpokerld4() {
 
 
 //******************************* GUDANGQQ ***************************************/
+var gudangqq = 'https://jayapkroyal.com/referral/ADMIN002';
+
 function gudangqq() {
     window.open("https://202.95.10.213/?ref=44002");
 } // login & Link 1
@@ -776,6 +805,8 @@ function gudangqqld4() {
 
 
 //******************************* QQPOKERONLINE ***************************************/
+var qqpoker = 'https://jayapkroyal.com/referral/ADMIN002';
+
 function qqpoker() {
     window.open("https://bit.ly/3JEaQXY");
 } // login & Link 1
@@ -810,6 +841,8 @@ function qqpokerld4() {
 
 
 //******************************* IDRPOKER ***************************************/
+var idrpoker = 'https://idrpkr88.fun/?ref=785058';
+
 function idrpoker() {
     window.open("https://idrpkr88.fun/?ref=785058");
 } // login & Link 1
