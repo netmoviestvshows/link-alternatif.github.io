@@ -163,37 +163,37 @@ function dewapokerld4() {
 } // load 4
 
 //******************************* 99DEWA ***************************************/
-var url99dewa = 'https://202.95.10.130/?ref=9999130';
+var urlpk99dewa = 'https://202.95.10.130/?ref=9999130';
 
-function 99dewa() {
+function pk99dewa() {
     window.open("https://202.95.10.130/?ref=9999130");
 } // login & Link 1
 
-function dewapoker1() {
+function pk99dewa1() {
     window.location.href = "https://202.95.10.130/?ref=9999130";
 } // link daftar
 
-function dewapoker2() {
+function pk99dewa2() {
     window.open("https://dpksukses.online/ref/OMTIE69");
 } // link 2
 
-function dewapoker3() {
+function pk99dewa3() {
     window.open("https://dwpkr88win.co/ref/OMTIE69");
 } // link 3
 
-function dewapokerld() {
+function pk99dewald() {
     setTimeout(function () { window.location.href = "https://202.95.10.130/?ref=9999130"; }, 40000);
 } // load
 
-function dewapokerld2() {
+function pk99dewald2() {
     setTimeout(function () { window.location.href = "https://202.95.10.130/?ref=9999130"; }, 32000);
 } // load 2
 
-function dewapokerld3() {
+function pk99dewald3() {
     setTimeout(function () { window.location.href = "https://202.95.10.130/?ref=9999130"; }, 4000);
 } // load 3
 
-function dewapokerld4() {
+function pk99dewald4() {
     setTimeout(function () { window.location.href = "https://202.95.10.130/?ref=9999130"; }, 13000);
 } // load 4
 
@@ -733,14 +733,14 @@ function xbetld4() {
 
 
 //******************************* BATIKPOKER ***************************************/
-var batikpoker = 'https://jayapkroyal.com/referral/ADMIN002';
+var batikpoker = 'https://batikpkmania.com/referral/QUEENQ';
 
 function batikpoker() {
-    window.open("https://batikpkplay.com/referral/QUEENQ");
+    window.open("https://batikpkmania.com/referral/QUEENQ");
 } // login & Link 1
 
 function batikpoker1() {
-    window.location.href = "https://batikpkplay.com/referral/QUEENQ";
+    window.location.href = "https://batikpkmania.com/referral/QUEENQ";
 } // link daftar
 
 function batikpoker2() {
@@ -752,24 +752,24 @@ function batikpoker3() {
 } // link 3
 
 function batikpokerld() {
-    setTimeout(function () { window.location.href = "https://batikpkplay.com/referral/QUEENQ"; }, 40000);
+    setTimeout(function () { window.location.href = "https://batikpkmania.com/referral/QUEENQ"; }, 40000);
 } // load
 
 function batikpokerld2() {
-    setTimeout(function () { window.location.href = "https://batikpkplay.com/referral/QUEENQ"; }, 32000);
+    setTimeout(function () { window.location.href = "https://batikpkmania.com/referral/QUEENQ"; }, 32000);
 } // load 2
 
 function batikpokerld3() {
-    setTimeout(function () { window.location.href = "https://batikpkplay.com/referral/QUEENQ"; }, 4000);
+    setTimeout(function () { window.location.href = "https://batikpkmania.com/referral/QUEENQ"; }, 4000);
 } // load 3
 
 function batikpokerld4() {
-    setTimeout(function () { window.location.href = "https://batikpkplay.com/referral/QUEENQ"; }, 13000);
+    setTimeout(function () { window.location.href = "https://batikpkmania.com/referral/QUEENQ"; }, 13000);
 } // load 4
 
 
 //******************************* GUDANGQQ ***************************************/
-var gudangqq = 'https://jayapkroyal.com/referral/ADMIN002';
+var gudangqq = 'https://202.95.10.213/?ref=44002';
 
 function gudangqq() {
     window.open("https://202.95.10.213/?ref=44002");
@@ -876,3 +876,37 @@ function idrpokerld4() {
 } // load 4
 
 
+//******************************* Master Poker 88 PKV ***************************************/
+var masterpoker88 = 'https://mastergame88.com/?ref=6669993';
+
+function masterpoker88() {
+    window.open("https://mastergame88.com/?ref=6669993");
+} // login & Link 1
+
+function masterpoker881() {
+    window.location.href = "https://mastergame88.com/?ref=6669993";
+} // link daftar
+
+function masterpoker882() {
+    window.open("https://bit.ly/3J5ncIe");
+} // link 2
+
+function masterpoker883() {
+    window.open("#");
+} // link 3
+
+function masterpoker88ld() {
+    setTimeout(function () { window.location.href = "https://mastergame88.com/?ref=6669993"; }, 40000);
+} // load
+
+function masterpoker88ld2() {
+    setTimeout(function () { window.location.href = "https://mastergame88.com/?ref=6669993"; }, 32000);
+} // load 2
+
+function masterpoker88ld3() {
+    setTimeout(function () { window.location.href = "https://mastergame88.com/?ref=6669993"; }, 4000);
+} // load 3
+
+function masterpoker88ld4() {
+    setTimeout(function () { window.location.href = "https://mastergame88.com/?ref=6669993"; }, 13000);
+} // load 4
