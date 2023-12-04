@@ -447,10 +447,10 @@ function dunia4dld4() {
 
 
 //******************************* JAYAPOKER ***************************************/
-var urljayapoker = 'https://jayapokerxmas.com/referral/ADMIN002';
+var urljayapoker = 'http://jayapokervip.com/referral/ADMIN002';
 
 function jayapoker() {
-    window.open("https://jayapokerxmas.com/referral/ADMIN002");
+    window.open("http://jayapokervip.com/referral/ADMIN002");
 } // login & Link 1
 
 function jayapoker1() {
@@ -466,19 +466,19 @@ function jayapoker3() {
 } // link 3
 
 function jayapokerld() {
-    setTimeout(function () { window.location.href = "https://jayapokerxmas.com/referral/ADMIN002"; }, 40000);
+    setTimeout(function () { window.location.href = "http://jayapokervip.com/referral/ADMIN002"; }, 40000);
 } // load
 
 function jayapokerld2() {
-    setTimeout(function () { window.location.href = "https://jayapokerxmas.com/referral/ADMIN002"; }, 32000);
+    setTimeout(function () { window.location.href = "http://jayapokervip.com/referral/ADMIN002"; }, 32000);
 } // load 2
 
 function jayapokerld3() {
-    setTimeout(function () { window.location.href = "https://jayapokerxmas.com/referral/ADMIN002"; }, 4000);
+    setTimeout(function () { window.location.href = "http://jayapokervip.com/referral/ADMIN002"; }, 4000);
 } // load 3
 
 function jayapokerld4() {
-    setTimeout(function () { window.location.href = "https://jayapokerxmas.com/referral/ADMIN002"; }, 13000);
+    setTimeout(function () { window.location.href = "http://jayapokervip.com/referral/ADMIN002"; }, 13000);
 } // load 4
 
 
