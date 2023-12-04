@@ -375,10 +375,10 @@ function pokerclubld4() {
 
 
 //******************************* INDOTOGEL ***************************************/
-var urlindotogel = 'https://indotogelpetir.com/referral/ADM1N02';
+var urlindotogel = 'https://indotglzeus.com/referral/ADM1N02';
 
 function indotogel() {
-    window.open("https://indotogelpetir.com/referral/ADM1N02");
+    window.open("https://indotglzeus.com/referral/ADM1N02");
 } // login & Link 1
 
 function indotogel1() {
@@ -394,19 +394,19 @@ function indotogel3() {
 } // link 3
 
 function indotogelld() {
-    setTimeout(function () { window.location.href = "https://indotogelpetir.com/referral/ADM1N02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://indotglzeus.com/referral/ADM1N02"; }, 40000);
 } // load
 
 function indotogelld2() {
-    setTimeout(function () { window.location.href = "https://indotogelpetir.com/referral/ADM1N02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://indotglzeus.com/referral/ADM1N02"; }, 32000);
 } // load 2
 
 function indotogelld3() {
-    setTimeout(function () { window.location.href = "https://indotogelpetir.com/referral/ADM1N02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://indotglzeus.com/referral/ADM1N02"; }, 4000);
 } // load 3
 
 function indotogelld4() {
-    setTimeout(function () { window.location.href = "https://indotogelpetir.com/referral/ADM1N02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://indotglzeus.com/referral/ADM1N02"; }, 13000);
 } // load 4
 
 
