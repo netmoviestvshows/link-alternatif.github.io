@@ -1,0 +1,99 @@
+<html lang="id">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>9nagapoker | 999naga | Link Alternatif Resmi</title>
+  </head>
+  <body>
+<div class="row">
+<div class="jackpot-container"><img class="image-jackpot" src="/jackpot.png"/></div>
+
+<div class="jackpot"><span class="jackpot__counter" data-jackpot="11133392551"></span></div>
+</div>
+
+<style>
+.jackpot__counter {
+  font-size: 6vw;
+  font-weight: 600;
+  color: #e3d8cf;
+  
+}
+.jackpot {
+    position: absolute;
+    left: 425px;
+    top: 60px;
+
+    /* position: relative;
+    left: 310px;
+    bottom: 104px; */
+}
+.image-jackpot {
+    width: 100%;
+}
+
+@media only screen and (max-width:640px){
+.jackpot {
+    position: relative;
+    left: 125px;
+    top: -42px;
+}
+}
+</style>
+<script>
+    class Jackpot {
+	constructor(selector) {
+		this.selector = selector;
+
+		this.loop();
+	}
+
+	loop() {
+		let jackpots = document.querySelectorAll(this.selector);
+
+		jackpots.forEach((item) => {
+			let jackpot = item.querySelector('.jackpot__counter'),
+				value = parseInt(jackpot.getAttribute(['data-jackpot'])),
+				randomJackpotInt = this.randomInt(10,40),
+				randomIntervalInt = this.randomInt(300, 900),
+				randomCentsInt = this.randomInt(10, 50);
+			
+			this.show(value, jackpot, randomJackpotInt, randomCentsInt);
+
+			let interval = setInterval(() => {
+				this.show(value, jackpot, randomJackpotInt, randomCentsInt);
+
+				this.loop();
+
+				clearInterval(interval);
+			}, randomIntervalInt);
+		})
+	}
+
+	show(value, jackpot, randomJackpotInt, randomCentsInt) {
+		value += randomJackpotInt;
+
+		let transformed = this.transform(value);
+
+		jackpot.innerHTML = 'IDR ' + transformed + '.' + randomCentsInt;
+		jackpot.setAttribute('data-jackpot', transformed.replace(/\,/g, ''));	
+	}
+
+	transform(value) {
+		return value.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,');
+	}
+
+	randomInt(min, max) {
+		return Math.floor(Math.random() * (max - min + 0.1) + min);
+	}
+}
+
+(() => {
+	console.clear();
+
+	let jackpot = new Jackpot('.jackpot');
+})()
+</script>
+
+</body>
+</html>
