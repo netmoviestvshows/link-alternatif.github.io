@@ -445,18 +445,18 @@ function masterpoker88ld4() {
 } // load 4
 
 //******************************* KDSLOT777 ***************************************/
-var urlkdslot = 'kdqris.com/?ref=admin02';
+var urlkdslot ='https://kdqris.com/?ref=admin02';
 
 function kdslot() {
-    window.open("kdsenyum.com/?ref=admin02");
+    window.open("https://kdsenyum.com/?ref=admin02");
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href = "kdsenyum.com/?ref=admin02";
+    window.location.href ="https://kdsenyum.com/?ref=admin02";
 } // link daftar
 
 function kdslot2() {
-    window.open("kdsenyum.com/?ref=admin02");
+    window.open("https://kdsenyum.com/?ref=admin02");
 } // link 2
 
 function kdslot3() {
