@@ -445,7 +445,7 @@ function masterpoker88ld4() {
 } // load 4
 
 //******************************* KDSLOT777 ***************************************/
-var urlkdslot ='https://kdqris.com/?ref=admin02';
+var urlkdslot ='https://kdsenyum.com/?ref=admin02';
 
 function kdslot() {
     window.open("https://kdsenyum.com/?ref=admin02");
@@ -456,27 +456,27 @@ function kdslot1() {
 } // link daftar
 
 function kdslot2() {
-    window.open("https://kdsenyum.com/?ref=admin02");
+    window.open("https://kadegame.com/?ref=admin02");
 } // link 2
 
 function kdslot3() {
-    window.open("https://kdslotsdijaminamandeposithariini.site/?ref=admin02");
+    window.open("https://duniakade.com/?ref=admin02");
 } // link 3
 
 function kdslotld() {
-    setTimeout(function () { window.location.href = "https://kdqris.com/?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://kdsenyum.com/?ref=admin02"; }, 40000);
 } // load
 
 function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://kdqris.com/?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://kdsenyum.com/?ref=admin02"; }, 32000);
 } // load 2
 
 function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://kdqris.com/?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://kdsenyum.com/?ref=admin02"; }, 4000);
 } // load 3
 
 function kdslotld4() {
-    setTimeout(function () { window.location.href = "https://kdqris.com/?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://kdsenyum.com/?ref=admin02"; }, 13000);
 } // load 4
 
 //******************************* MIYABIPOKER ***************************************/
