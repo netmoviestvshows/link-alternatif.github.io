@@ -516,14 +516,14 @@ function miyabipokerld4() {
 
 
 //******************************* BIGWIN333 ***************************************/
-var urlbigwin = 'https://kdbet.pro/ref/ADMIN002';
+var urlbigwin = 'https://bit.ly/4bioGge';
 
 function bigwin() {
-    window.open("https://999naga.site/ref/ADMIN002");
+    window.open("https://bit.ly/4bioGge");
 } // login & link1
 
 function bigwin1() {
-    window.location.href = "https://999naga.site/ref/ADMIN002";
+    window.location.href = "https://bit.ly/4bioGge";
 } // link daftar
 
 function bigwin2() {
@@ -535,19 +535,19 @@ function bigwin3() {
 } // link 3
 
 function bigwinld() {
-    setTimeout(function () { window.location.href = "https://999naga.site/ref/ADMIN002"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/4bioGge"; }, 40000);
 } // load
 
 function bigwinld2() {
-    setTimeout(function () { window.location.href = "https://999naga.site/ref/ADMIN002"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/4bioGge"; }, 32000);
 } // load 2
 
 function bigwinld3() {
-    setTimeout(function () { window.location.href = "https://999naga.site/ref/ADMIN002"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/4bioGge"; }, 4000);
 } // load 3
 
 function bigwinld4() {
-    setTimeout(function () { window.location.href = "https://999naga.site/ref/ADMIN002"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/4bioGge"; }, 13000);
 } // load 4
 
 
@@ -765,14 +765,14 @@ function ugld4() {
 } // load 4
 
 //******************************* MEJAVIP ***************************************/
-var mejavip = 'https://jayapkroyal.com/referral/ADMIN002';
+var mejavip = 'https://bit.ly/4bioGge';
 
 function mejavip() {
-    window.open("https://bit.ly/3wqi2Sd");
+    window.open("https://bit.ly/4bioGge");
 } // login & Link 1
 
 function mejavip1() {
-    window.location.href = "https://bit.ly/3wqi2Sd";
+    window.location.href = "https://bit.ly/4bioGge";
 } // link daftar
 
 function mejavip2() {
@@ -784,19 +784,19 @@ function mejavip3() {
 } // link 3
 
 function mejavipld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3wqi2Sd"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/4bioGge"; }, 40000);
 } // load
 
 function mejavipld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3wqi2Sd"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/4bioGge"; }, 32000);
 } // load 2
 
 function mejavipld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3wqi2Sd"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/4bioGge"; }, 4000);
 } // load 3
 
 function mejavipld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3wqi2Sd"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/4bioGge"; }, 13000);
 } // load 4
 
 
