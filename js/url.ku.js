@@ -32,7 +32,7 @@ function nagapoker1() {
 } // link daftar
 
 function nagapoker2() {
-    window.open("https://www.link9np.sbs/ref/ADMIN002");
+    window.open("https://www.link9np.cfd/ref/ADMIN002");
 } // link 2
 
 function nagapoker3() {
