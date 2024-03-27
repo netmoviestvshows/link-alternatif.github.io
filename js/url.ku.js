@@ -452,7 +452,7 @@ function kdslot() {
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href ="https://kdberlian.com/?ref=admin02";
+    window.location.href ="https://candikds.com/?ref=admin02";
 } // link daftar
 
 function kdslot2() {
