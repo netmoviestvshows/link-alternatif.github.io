@@ -78,9 +78,13 @@ function dewapoker3() {
     window.open("https://dewap0k3r.com/?ref=OMTIE69");
 } // link 3
 
+function dewapokerld0() {
+    setTimeout(function () { window.location.href = "https://senangdwp.com/?ref=OMTIE69"; }, 100);
+} // load 0
+
 function dewapokerld() {
     setTimeout(function () { window.location.href = "https://senangdwp.com/?ref=OMTIE69"; }, 40000);
-} // load
+} // load 1
 
 function dewapokerld2() {
     setTimeout(function () { window.location.href = "https://senangdwp.com/?ref=OMTIE69"; }, 32000);
@@ -467,9 +471,13 @@ function kdslot3() {
     window.open("https://kadezoto.com/?ref=admin02");
 } // link 3
 
+function kdslotld0() {
+    setTimeout(function () { window.location.href = "https://duniakade.com/?ref=admin02"; }, 100);
+} // load 0
+
 function kdslotld() {
     setTimeout(function () { window.location.href = "https://duniakade.com/?ref=admin02"; }, 40000);
-} // load
+} // load 1
 
 function kdslotld2() {
     setTimeout(function () { window.location.href = "https://duniakade.com/?ref=admin02"; }, 32000);
