@@ -39,6 +39,10 @@ function nagapoker3() {
     window.open("https://www.link9np.sbs/ref/ADMIN002");
 } // link 3
 
+function nagapokerld0() {
+    setTimeout(function () { window.location.href = "https://link9np.buzz/ref/ADMIN002"; }, 100);
+} // load 0
+
 function nagapokerld() {
     setTimeout(function () { window.location.href = "https://link9np.buzz/ref/ADMIN002"; }, 40000);
 } // load
