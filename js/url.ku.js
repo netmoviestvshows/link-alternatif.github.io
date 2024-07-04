@@ -71,7 +71,7 @@ function dewapoker1() {
 } // link daftar
 
 function dewapoker2() {
-    window.open("https://senangdwp.org/?ref=OMTIE69");
+    window.open("https://prodewapkr.xyz/ref/OMTIE69");
 } // link 2
 
 function dewapoker3() {
