@@ -8,13 +8,12 @@
         .userName {
             color: rgb(228, 70, 7);
         }
-        .proof{
+        .proof {
             display: block;
             width: 270px;
             position: fixed;
-            left: 10px;
-            animation: proof 8s;
-            opacity: 0;
+            left: 20px;
+            bottom: 20px;
             box-shadow: 0 0 70px rgb(0 0 0 / 5%);
             border-radius: var(--border-radius);
             z-index: 99999;
@@ -25,13 +24,6 @@
             border: 1px solid var(--border-color);
             border-radius: 8px !important;
             overflow: hidden;
-        }
-        .ripple {
-            color:black;
-            -webkit-animation: ripple 2s ease-out;
-            -webkit-animation-iteration-count: infinite;
-            animation: ripple 2s ease-out;
-            animation-iteration-count: infinite;
         }
         .proof-avatar, .proof-data {
             display: inline-block;
@@ -76,21 +68,4 @@
             background-position: left center;
             background-repeat: no-repeat;
             padding-left: 18px;
-        }
-        @keyframes proof {
-            0% {bottom: 0; transform: scale(1)}
-            6% {bottom: 13px; opacity: 1; transform: scale(1.05)}
-            12% {transform: scale(1)}
-            90% {bottom: 13px; opacity: 1; transform: scale(1)}
-            100% {bottom: -50px; opacity: 0; transform: scale(1)}
-        }
-        @-webkit-keyframes ripple {
-            0% {-webkit-box-shadow: 0 0 0 0 rgba(168,207,248,.4)}
-            30% {-webkit-box-shadow: 0 0 10px 15px transparent}
-            100% {-webkit-box-shadow: 0 0 0 0 transparent}
-        }
-        @keyframes ripple {
-            0% {box-shadow: 0 0 0 0 rgba(168,207,248,.4)}
-            30% {box-shadow: 0 0 10px 15px transparent}
-            100% {box-shadow: 0 0 0 0 transparent}
         }
