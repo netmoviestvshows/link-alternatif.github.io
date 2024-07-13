@@ -6,12 +6,12 @@ angular
         $http
             .get("https://api.themoviedb.org/3/trending/all/week?language=en-US&api_key=" + apiKey)
             .then(function (response) {
-                $scope.trendingData = response.data.results;
-                initializeProofs($scope.trendingData);
+                $scope.trendingDatass = response.data.results;
+                initializeProofs($scope.trendingDatass);
             });
     });
 
-function initializeProofs(trendingData) {
+function initializeProofs(trendingDatass) {
     $(document).ready(function(){
         function showProof(counter) {
             setTimeout(function(){
@@ -21,8 +21,8 @@ function initializeProofs(trendingData) {
                 // Jika counter masih kurang dari atau sama dengan 10, lakukan hal berikut
                 if (counter <= 10) {
                     // Acak array movies
-                    var shuffledMovies = shuffleArray(trendingData);
-                    var movie = shuffledMovies[0].title || shuffledMovies[0].name;
+                    var shuffledMovies = shuffleArray(trendingDatass);
+                    var movieMT = shuffledMovies[0].title || shuffledMovies[0].name;
 
                     // Ambil data dari API Random User
                     $.getJSON("https://randomuser.me/api/", function(data){
@@ -40,7 +40,7 @@ function initializeProofs(trendingData) {
                                     </div>
                                     <div class="proof-data">
                                         <h4><span class="userName">${firstName}</span> <span class="fromN">from</span> ${country}</h4>
-                                        <small>Now Watching "${movie}"</small>
+                                        <small>Now Watching "${movieMT}"</small>
                                         <p>Recently <span class="signUpB">signed up</span></p>
                                     </div>
                                 </div>
