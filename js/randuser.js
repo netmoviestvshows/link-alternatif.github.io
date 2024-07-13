@@ -1,5 +1,3 @@
-var apiKey = "a79576e54c5bbb893011b98ca48f2460";
-        
 angular
     .module("mtApp", [])
     .controller("mtController", function ($scope, $http, $window, $location) {
