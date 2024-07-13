@@ -26,6 +26,7 @@
             overflow:hidden;
         }
         .ripple{
+            color:black;
             -webkit-animation:ripple 2s ease-out;
             -webkit-animation-iteration-count:infinite;
             animation:ripple 2s ease-out;
