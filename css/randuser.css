@@ -1,0 +1,93 @@
+  .signUpB {
+            color :rgb(255, 0, 179);
+            font-weight: bold;
+        }
+        .fromN {font-weight: 100;
+
+        }
+        .userName {
+            color :rgb(228, 70, 7);
+        }
+        .proof{
+            display:block;
+            width:270px;
+            position:fixed;
+            left:20px;
+            animation:proof 8s;
+            opacity:0;
+            box-shadow:0 0 70px rgb(0 0 0 / 5%);
+            border-radius:var(--border-radius);
+            z-index:99999;
+        }
+        .proof>*{padding:8px;
+            background:#10a5eb;
+            border:1px solid var(--border-color);
+            border-radius:8px!important;
+            overflow:hidden;
+        }
+        .ripple{
+            -webkit-animation:ripple 2s ease-out;
+            -webkit-animation-iteration-count:infinite;
+            animation:ripple 2s ease-out;
+            animation-iteration-count:infinite;
+        }
+        .proof-avatar,.proof-data{
+            display:inline-block;
+            vertical-align:middle;
+        }
+        .proof-avatar{
+            width:56px;
+            height:56px;
+            background:#ddd;
+            overflow:hidden;
+            border-radius:4px;
+        }
+        .proof-avatar>img{
+            width:100%;
+            display:block;
+        }
+        .proof-data{
+            width:calc(100% - 75px);
+            margin-left:10px;
+        }
+        .proof-data>*{
+            width:100%;
+            display:block;
+            white-space:nowrap;
+            overflow:hidden;
+            text-overflow:ellipsis;
+            line-height:1.2;
+            margin:2px 0!important;
+        }
+        .proof-data h4{
+            font-weight:700;
+            font-size:.9em;
+        }
+        .proof p{
+            font-size:.8rem;
+            line-height:1.5;
+        }
+        .proof-data small{
+            font-size:.8em;
+            background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAO3SURBVFiFtZddaFtlGMd/z8nJaU7SpiFd+mHr7AaVgWVSrFd6oR06sLtwFuYcG9SB4D7SrhtserMbHXOgIEMy2MXYxbQXszrohmwlbgpiEYajZawojLKJa9GW2tgmJDnn9SLN1nVNzkka/3fnnOd5fn/e857nfY7gUioaDWJZ3Yh0Ac8DrUBo6fEcMInILZT6nmTyipw7l3BTVxzBBw48CxwDdgJ+l34XUWoQXT8lp0//XpYBNTBgkk5/BPQDukvwSmWAz1lYOC7nz6dcG1B9fW3Y9jco1V4meEVBNUo2+5acPfvA0YCKRjuw7atApCLwR/oD2+6WM2fGChpQfX1tWNZP/wP8kQmlXpRYbCp/Q3sI7+31YVkXi8I1reAjl2pB0y6rgQHzCQMEAh+T+7xWlWpqIn3yJNndu8E0C4U5S6kXSKc/yF8KPPzUblNkt9vt7WT37s0lzc2hX7iA3L1bro1/UapNYrGp/AocKwZfKRUKkdm/H2vr1nJfSzUixwFERaNBbPsBDk1m+Qosl0xO5lZjdrZUEwskk00altXtBC8m1dpK5sgR7I6OUlMD+P1vaEu9fW0yTbJ79pDdtQsMw32eUl0aRXZ+qbI7O8kcPoxqbnZrYLMGbKiUAQBVX0+mvx+rqwvE4awT2agBwUoaAEDXsbZtw9q+3SmyVufKuIFSjjVTz3Qy82emJB8Bo5Hw5bHCAZpUaXg9dklVXUgEam7dJNx7sHigx2Pr+PQk6WygUnBdWdSd+BRj5IZzsE9f1PEZ95lPbaoE3D8zTfi9Q8jsnLsE03tPw6ePrBWsCYSHh6nr6XUPB/B5r2oY/hN4HEfDgvJmktQfOkrgs1hpiR4Bw39Kk/jgNOHAb+XAa+6M09i9A++v46Un19VMSHxwOneU1VYfdGway+TBIvJFjNC+o5DOlg4XgWrjfVgaSCR+cYTG4C/FcvTbE4iAOfsXjW+/i+/r4dLBeTUER+X6tz/AsplQvfJmiL8X7pNIVRdMNAxIp8sHAwTNBC2RFvnuy3lYNpLJjUtzNARfosprFUxeK7zKa7HO/2oe/pgBAIkPjfF0aCdVemETa4E3h3fI9Us3H2OuFqte79nEVGKUf5K1FYEHzQT1NS9LfOiJg2HVgU6uDU3QHFnPU6Ef19IjEIHG2p9pibSsBgc3P6dbejYzn/qKmcRzWM6nJpBrMutq7hAw9uV3e0GP7iqC2vJOA5nkhyTTr5HMrCeV9ZO1ciuoe2x8+iKm9x4+4xqG+YnEB6fd1P0PTfsslJQPhfQAAAAASUVORK5CYII=);background-size:contain;
+            background-position:left center;
+            background-repeat:no-repeat;
+            padding-left:18px;
+        }
+        @keyframes proof{
+            0%{bottom:0;transform:scale(1)}
+            6%{bottom:20px;opacity:1;transform:scale(1.05)}
+            12%{transform:scale(1)}
+            90%{bottom:20px;opacity:1;transform:scale(1)}
+            100%{bottom:-50px;opacity:0;transform:scale(1)}
+        }
+        @-webkit-keyframes ripple{
+            0%{-webkit-box-shadow:0 0 0 0 rgba(168,207,248,.4)}
+            30%{-webkit-box-shadow:0 0 10px 15px transparent}
+            100%{-webkit-box-shadow:0 0 0 0 transparent}
+        }
+        @keyframes ripple{
+            0%{box-shadow:0 0 0 0 rgba(168,207,248,.4)}
+            30%{box-shadow:0 0 10px 15px transparent}
+            100%{box-shadow:0 0 0 0 transparent}
+        }
