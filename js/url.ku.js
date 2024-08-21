@@ -60,14 +60,14 @@ function nagapokerld4() {
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
-var urldewapoker = 'https://d3wap0ker.dev/ref/OMTIE69';
+var urldewapoker = 'https://devvapokerbest.net/ref/OMTIE69';
 
 function dewapoker() {
-    window.open("https://d3wap0ker.dev/ref/OMTIE69");
+    window.open("https://devvapokerbest.net/ref/OMTIE69");
 } // login & Link 1
 
 function dewapoker1() {
-    window.location.href = "https://d3wap0ker.dev/ref/OMTIE69";
+    window.location.href = "https://devvapokerbest.net/ref/OMTIE69";
 } // link daftar
 
 function dewapoker2() {
@@ -79,19 +79,19 @@ function dewapoker3() {
 } // link 3
 
 function dewapokerld0() {
-    setTimeout(function () { window.location.href = "https://d3wap0ker.dev/ref/OMTIE69"; }, 100);
+    setTimeout(function () { window.location.href = "https://devvapokerbest.net/ref/OMTIE69"; }, 100);
 } // load 0
 
 function dewapokerld() {
-    setTimeout(function () { window.location.href = "https://d3wap0ker.dev/ref/OMTIE69"; }, 40000);
+    setTimeout(function () { window.location.href = "https://devvapokerbest.net/ref/OMTIE69"; }, 40000);
 } // load 1
 
 function dewapokerld2() {
-    setTimeout(function () { window.location.href = "https://d3wap0ker.dev/ref/OMTIE69"; }, 32000);
+    setTimeout(function () { window.location.href = "https://devvapokerbest.net/ref/OMTIE69"; }, 32000);
 } // load 2
 
 function dewapokerld3() {
-    setTimeout(function () { window.location.href = "https://d3wap0ker.dev/ref/OMTIE69"; }, 4000);
+    setTimeout(function () { window.location.href = "https://devvapokerbest.net/ref/OMTIE69"; }, 4000);
 } // load 3
 
 function dewapokerld4() {
@@ -453,38 +453,38 @@ function masterpoker88ld4() {
 } // load 4
 
 //******************************* KDSLOT777 ***************************************/
-var urlkdslot ='https://sarapankd.com/?ref=admin02';
+var urlkdslot ='macankds.com/?ref=admin02';
 
 function kdslot() {
-    window.open("https://sarapankd.com/?ref=admin02");
+    window.open("https://macankds.com/?ref=admin02");
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href ="https://sarapankd.com/?ref=admin02";
+    window.location.href ="https://macankds.com/?ref=admin02";
 } // link daftar
 
 function kdslot2() {
-    window.open("https://yessirkdslotaman.site/?ref=admin02");
+    window.open("https://yessirkitakdslotuntukanda.site/?ref=admin02");
 } // link 2
 
 function kdslot3() {
-    window.open("https://kd-inginmenang.site/?ref=admin02");
+    window.open("https://aakdslot.xyz/?ref=admin02");
 } // link 3
 
 function kdslotld0() {
-    setTimeout(function () { window.location.href = "https://sarapankd.com/?ref=admin02"; }, 100);
+    setTimeout(function () { window.location.href = "https://macankds.com/?ref=admin02"; }, 100);
 } // load 0
 
 function kdslotld() {
-    setTimeout(function () { window.location.href = "https://sarapankd.com/?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://macankds.com/?ref=admin02"; }, 40000);
 } // load 1
 
 function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://sarapankd.com/?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://macankds.com/?ref=admin02"; }, 32000);
 } // load 2
 
 function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://sarapankd.com/?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://macankds.com/?ref=admin02"; }, 4000);
 } // load 3
 
 function kdslotld4() {
