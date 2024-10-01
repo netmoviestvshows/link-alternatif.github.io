@@ -67,7 +67,7 @@ function dewapoker() {
 } // login & Link 1
 
 function dewapoker1() {
-    window.location.href = https://dew4pokerapps.com/ref/OMTIE69";
+    window.location.href = "https://dew4pokerapps.com/ref/OMTIE69";
 } // link daftar
 
 function dewapoker2() {
