@@ -21,53 +21,53 @@ function frbonus() {
 
 
 //******************************* 9NAGAPOKER ***************************************/
-var url9nagapoker = 'https://9nagapoker-resmi.cfd/ref/ADMIN002';
+var url9nagapoker = 'https://bit.ly/3BRDwNa';
 
 function nagapoker() {
-    window.open("https://9nagapoker-resmi.cfd/ref/ADMIN002");
+    window.open("https://bit.ly/3BRDwNa");
 } // login & link1
 
 function nagapoker1() {
-    window.location.href = "https://9nagapoker-resmi.cfd/ref/ADMIN002";
+    window.location.href = "https://bit.ly/3BRDwNa";
 } // link daftar
 
 function nagapoker2() {
-    window.open("https://bit.ly/4bDPKpI");
+    window.open("https://bit.ly/3BRDwNa");
 } // link 2
 
 function nagapoker3() {
-    window.open("https://www.link9np.top/ref/ADMIN002");
+    window.open("https://bit.ly/3BRDwNa");
 } // link 3
 
 function nagapokerld0() {
-    setTimeout(function () { window.location.href = "https://9nagapoker-resmi.cfd/ref/ADMIN002"; }, 100);
+    setTimeout(function () { window.location.href = "https://bit.ly/3BRDwNa"; }, 100);
 } // load 0
 
 function nagapokerld() {
-    setTimeout(function () { window.location.href = "https://9nagapoker-resmi.cfd/ref/ADMIN002"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3BRDwNa"; }, 40000);
 } // load
 
 function nagapokerld2() {
-    setTimeout(function () { window.location.href = "https://9nagapoker-resmi.cfd/ref/ADMIN002"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3BRDwNa"; }, 32000);
 } // load 2
 
 function nagapokerld3() {
-    setTimeout(function () { window.location.href = "https://9nagapoker-resmi.cfd/ref/ADMIN002"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3BRDwNa"; }, 4000);
 } // load 3
 
 function nagapokerld4() {
-    setTimeout(function () { window.location.href = "https://9nagapoker-resmi.cfd/ref/ADMIN002"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3BRDwNa"; }, 13000);
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
-var urldewapoker = 'https://dew4pokerapps.com/ref/OMTIE69';
+var urldewapoker = 'https://d3w4p0k3rgc.com/ref/OMTIE69';
 
 function dewapoker() {
-    window.open("https://dew4pokerapps.com/ref/OMTIE69");
+    window.open("https://d3w4p0k3rgc.com/ref/OMTIE69");
 } // login & Link 1
 
 function dewapoker1() {
-    window.location.href = "https://dew4pokerapps.com/ref/OMTIE69";
+    window.location.href = "https://d3w4p0k3rgc.com/ref/OMTIE69";
 } // link daftar
 
 function dewapoker2() {
@@ -79,23 +79,23 @@ function dewapoker3() {
 } // link 3
 
 function dewapokerld0() {
-    setTimeout(function () { window.location.href = "https://dew4pokerapps.com/ref/OMTIE69"; }, 100);
+    setTimeout(function () { window.location.href = "https://d3w4p0k3rgc.com/ref/OMTIE69"; }, 100);
 } // load 0
 
 function dewapokerld() {
-    setTimeout(function () { window.location.href = "https://dew4pokerapps.com/ref/OMTIE69"; }, 40000);
+    setTimeout(function () { window.location.href = "https://d3w4p0k3rgc.com/ref/OMTIE69"; }, 40000);
 } // load 1
 
 function dewapokerld2() {
-    setTimeout(function () { window.location.href = "https://dew4pokerapps.com/ref/OMTIE69"; }, 32000);
+    setTimeout(function () { window.location.href = "https://d3w4pokeras.com/ref/OMTIE69"; }, 32000);
 } // load 2
 
 function dewapokerld3() {
-    setTimeout(function () { window.location.href = "https://dew4pokerapps.com/ref/OMTIE69"; }, 4000);
+    setTimeout(function () { window.location.href = "https://d3w4p0k3rgc.com/ref/OMTIE69"; }, 4000);
 } // load 3
 
 function dewapokerld4() {
-    setTimeout(function () { window.location.href = "https://dew4pokerapps.com/ref/OMTIE69"; }, 13000);
+    setTimeout(function () { window.location.href = "https://d3w4p0k3rgc.com/ref/OMTIE69"; }, 13000);
 } // load 4
 
 //******************************* 99DEWA ***************************************/
@@ -453,42 +453,42 @@ function masterpoker88ld4() {
 } // load 4
 
 //******************************* KDSLOT777 ***************************************/
-var urlkdslot ='https://valekd.site/?ref=admin02';
+var urlkdslot ='https://bit.ly/3ZXl7bX';
 
 function kdslot() {
-    window.open("https://valekd.site/?ref=admin02");
+    window.open("https://bit.ly/3ZXl7bX");
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href ="https://valekd.site/?ref=admin02";
+    window.location.href ="https://bit.ly/3ZXl7bX";
 } // link daftar
 
 function kdslot2() {
-    window.open("https://mimpibasahkd.site/?ref=admin02");
+    window.open("https://kdmahjong.biz/?ref=admin02");
 } // link 2
 
 function kdslot3() {
-    window.open("https://silanoakdslots.site/?ref=admin02");
+    window.open("https://mahjongkd.homes/?ref=admin02");
 } // link 3
 
 function kdslotld0() {
-    setTimeout(function () { window.location.href = "https://valekd.site/?ref=admin02"; }, 100);
+    setTimeout(function () { window.location.href = "https://bit.ly/3ZXl7bX"; }, 100);
 } // load 0
 
 function kdslotld() {
-    setTimeout(function () { window.location.href = "https://valekd.site/?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3ZXl7bX"; }, 40000);
 } // load 1
 
 function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://valekd.site/?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3ZXl7bX"; }, 32000);
 } // load 2
 
 function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://valekd.site/?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3ZXl7bX"; }, 4000);
 } // load 3
 
 function kdslotld4() {
-    setTimeout(function () { window.location.href = "https://1rasakdslot.one/?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/3ZXl7bX"; }, 13000);
 } // load 4
 
 //******************************* MIYABIPOKER ***************************************/
