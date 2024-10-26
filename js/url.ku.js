@@ -60,42 +60,42 @@ function nagapokerld4() {
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
-var urldewapoker = 'https://dwpzyz.com/ref/OMTIE69';
+var urldewapoker = 'https://dewapokerways.com/ref/OMTIE69';
 
 function dewapoker() {
-    window.open("https://dwpzyz.com/ref/OMTIE69");
+    window.open("https://dewapokerways.com/ref/OMTIE69");
 } // login & Link 1
 
 function dewapoker1() {
-    window.location.href = "https://dwpzyz.com/ref/OMTIE69";
+    window.location.href = "https://dewapokerways.com/ref/OMTIE69";
 } // link daftar
 
 function dewapoker2() {
-    window.open("https://dwpkzy.com/ref/OMTIE69");
+    window.open("https://dwpkqq.com/register?ref=OMTIE69");
 } // link 2
 
 function dewapoker3() {
-    window.open("https://dewapokerkuy.net/ref/OMTIE69");
+    window.open("https://www.dewapoker.com/ref/OMTIE69");
 } // link 3
 
 function dewapokerld0() {
-    setTimeout(function () { window.location.href = "https://dwpzyz.com/ref/OMTIE69"; }, 100);
+    setTimeout(function () { window.location.href = "https://dewapokerways.com/ref/OMTIE69"; }, 100);
 } // load 0
 
 function dewapokerld() {
-    setTimeout(function () { window.location.href = "https://dwpzyz.com/ref/OMTIE69"; }, 40000);
+    setTimeout(function () { window.location.href = "https://dewapokerways.com/ref/OMTIE69"; }, 40000);
 } // load 1
 
 function dewapokerld2() {
-    setTimeout(function () { window.location.href = "https://dwpzyz.com/ref/OMTIE69"; }, 32000);
+    setTimeout(function () { window.location.href = "https://dewapokerways.com/ref/OMTIE69"; }, 32000);
 } // load 2
 
 function dewapokerld3() {
-    setTimeout(function () { window.location.href = "https://dwpzyz.com/ref/OMTIE69"; }, 4000);
+    setTimeout(function () { window.location.href = "https://dewapokerways.com/ref/OMTIE69"; }, 4000);
 } // load 3
 
 function dewapokerld4() {
-    setTimeout(function () { window.location.href = "https://dwpzyz.com/ref/OMTIE69"; }, 13000);
+    setTimeout(function () { window.location.href = "https://dewapokerways.com/ref/OMTIE69"; }, 13000);
 } // load 4
 
 //******************************* 99DEWA ***************************************/
@@ -453,18 +453,18 @@ function masterpoker88ld4() {
 } // load 4
 
 //******************************* KDSLOT777 ***************************************/
-var urlkdslot ='https://bit.ly/3ZXl7bX';
+var urlkdslot ='https://kdmahjong.org/?ref=admin02';
 
 function kdslot() {
-    window.open("https://bit.ly/3ZXl7bX");
+    window.open("https://kdmahjong.org/?ref=admin02");
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href ="https://bit.ly/3ZXl7bX";
+    window.location.href ="https://kdmahjong.org/?ref=admin02";
 } // link daftar
 
 function kdslot2() {
-    window.open("https://kdmahjong.biz/?ref=admin02");
+    window.open("https://kdmahjong.me/?ref=admin02");
 } // link 2
 
 function kdslot3() {
@@ -472,23 +472,23 @@ function kdslot3() {
 } // link 3
 
 function kdslotld0() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3ZXl7bX"; }, 100);
+    setTimeout(function () { window.location.href = "https://kdmahjong.org/?ref=admin02"; }, 100);
 } // load 0
 
 function kdslotld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3ZXl7bX"; }, 40000);
+    setTimeout(function () { window.location.href = "https://kdmahjong.org/?ref=admin02"; }, 40000);
 } // load 1
 
 function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3ZXl7bX"; }, 32000);
+    setTimeout(function () { window.location.href = "https://kdmahjong.org/?ref=admin02"; }, 32000);
 } // load 2
 
 function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3ZXl7bX"; }, 4000);
+    setTimeout(function () { window.location.href = "https://kdmahjong.org/?ref=admin02"; }, 4000);
 } // load 3
 
 function kdslotld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/3ZXl7bX"; }, 13000);
+    setTimeout(function () { window.location.href = "https://kdmahjong.org/?ref=admin02"; }, 13000);
 } // load 4
 
 //******************************* MIYABIPOKER ***************************************/
