@@ -453,7 +453,7 @@ function masterpoker88ld4() {
 } // load 4
 
 //******************************* KDSLOT777 ***************************************/
-var urlkdslot ='https://kdmahjong.org/?ref=admin02';
+var urlkdslot ='https://hokikd.xyz/?ref=admin02';
 
 function kdslot() {
     window.open("https://kdmahjong.org/?ref=admin02");
@@ -471,24 +471,28 @@ function kdslot3() {
     window.open("https://mahjongkd.homes/?ref=admin02");
 } // link 3
 
+function kdslot4() {
+    window.open("https://kdmahjong.org/?ref=admin02");
+} // link 4
+
 function kdslotld0() {
-    setTimeout(function () { window.location.href = "https://kdmahjong.org/?ref=admin02"; }, 100);
+    setTimeout(function () { window.location.href = "https://hokikd.xyz/?ref=admin02"; }, 100);
 } // load 0
 
 function kdslotld() {
-    setTimeout(function () { window.location.href = "https://kdmahjong.org/?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://hokikd.xyz/?ref=admin02"; }, 40000);
 } // load 1
 
 function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://kdmahjong.org/?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://hokikd.xyz/?ref=admin02"; }, 32000);
 } // load 2
 
 function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://kdmahjong.org/?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://hokikd.xyz/?ref=admin02"; }, 4000);
 } // load 3
 
 function kdslotld4() {
-    setTimeout(function () { window.location.href = "https://kdmahjong.org/?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://hokikd.xyz/?ref=admin02"; }, 13000);
 } // load 4
 
 //******************************* MIYABIPOKER ***************************************/
