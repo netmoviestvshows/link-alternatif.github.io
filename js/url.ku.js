@@ -456,11 +456,11 @@ function masterpoker88ld4() {
 var urlkdslot ='https://hokikd.xyz/?ref=admin02';
 
 function kdslot() {
-    window.open("https://kdmahjong.org/?ref=admin02");
+    window.open("https://hokikd.xyz/?ref=admin02");
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href ="https://kdmahjong.org/?ref=admin02";
+    window.location.href ="https://hokikd.xyz/?ref=admin02";
 } // link daftar
 
 function kdslot2() {
