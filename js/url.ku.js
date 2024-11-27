@@ -32,7 +32,7 @@ function nagapoker1() {
 } // link daftar
 
 function nagapoker2() {
-    window.open("https://bit.ly/3BRDwNa");
+    window.open("https://link9np.buzz/ref/ADMIN002");
 } // link 2
 
 function nagapoker3() {
@@ -453,14 +453,14 @@ function masterpoker88ld4() {
 } // load 4
 
 //******************************* KDSLOT777 ***************************************/
-var urlkdslot ='https://hokikd.xyz/?ref=admin02';
+var urlkdslot ='https://pocong8.com/?ref=admin02';
 
 function kdslot() {
-    window.open("https://hokikd.xyz/?ref=admin02");
+    window.open("https://pocong8.com/?ref=admin02");
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href ="https://hokikd.xyz/?ref=admin02";
+    window.location.href ="https://pocong8.com/?ref=admin02";
 } // link daftar
 
 function kdslot2() {
@@ -476,23 +476,23 @@ function kdslot4() {
 } // link 4
 
 function kdslotld0() {
-    setTimeout(function () { window.location.href = "https://hokikd.xyz/?ref=admin02"; }, 100);
+    setTimeout(function () { window.location.href = "https://pocong8.com/?ref=admin02"; }, 100);
 } // load 0
 
 function kdslotld() {
-    setTimeout(function () { window.location.href = "https://hokikd.xyz/?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://pocong8.com/?ref=admin02"; }, 40000);
 } // load 1
 
 function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://hokikd.xyz/?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://pocong8.com/?ref=admin02"; }, 32000);
 } // load 2
 
 function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://hokikd.xyz/?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://pocong8.com/?ref=admin02"; }, 4000);
 } // load 3
 
 function kdslotld4() {
-    setTimeout(function () { window.location.href = "https://hokikd.xyz/?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://pocong8.com/?ref=admin02"; }, 13000);
 } // load 4
 
 //******************************* MIYABIPOKER ***************************************/
