@@ -21,18 +21,18 @@ function frbonus() {
 
 
 //******************************* 9NAGAPOKER ***************************************/
-var url9nagapoker = 'https://9npgacor.cfd/ref/ADMIN002';
+var url9nagapoker = 'https://9npgacor.cfd/ref/admin002';
 
 function nagapoker() {
-    window.open("https://9npgacor.cfd/ref/ADMIN002");
+    window.open("https://9npgacor.cfd/ref/admin002");
 } // login & link1
 
 function nagapoker1() {
-    window.location.href = "https://9npgacor.cfd/ref/ADMIN002";
+    window.location.href = "https://9npgacor.cfd/ref/admin002";
 } // link daftar
 
 function nagapoker2() {
-    window.open("https://link9np.buzz/ref/ADMIN002");
+    window.open("https://link9np.buzz/ref/admin002");
 } // link 2
 
 function nagapoker3() {
@@ -40,23 +40,23 @@ function nagapoker3() {
 } // link 3
 
 function nagapokerld0() {
-    setTimeout(function () { window.location.href = "https://9npgacor.cfd/ref/ADMIN002"; }, 100);
+    setTimeout(function () { window.location.href = "https://9npgacor.cfd/ref/admin002"; }, 100);
 } // load 0
 
 function nagapokerld() {
-    setTimeout(function () { window.location.href = "https://9npgacor.cfd/ref/ADMIN002"; }, 40000);
+    setTimeout(function () { window.location.href = "https://9npgacor.cfd/ref/admin002"; }, 40000);
 } // load
 
 function nagapokerld2() {
-    setTimeout(function () { window.location.href = "https://9npgacor.cfd/ref/ADMIN002"; }, 32000);
+    setTimeout(function () { window.location.href = "https://9npgacor.cfd/ref/admin002"; }, 32000);
 } // load 2
 
 function nagapokerld3() {
-    setTimeout(function () { window.location.href = "https://9npgacor.cfd/ref/ADMIN002"; }, 4000);
+    setTimeout(function () { window.location.href = "https://9npgacor.cfd/ref/admin002"; }, 4000);
 } // load 3
 
 function nagapokerld4() {
-    setTimeout(function () { window.location.href = "https://9npgacor.cfd/ref/ADMIN002"; }, 13000);
+    setTimeout(function () { window.location.href = "https://9npgacor.cfd/ref/admin002"; }, 13000);
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
