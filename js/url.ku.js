@@ -456,7 +456,7 @@ function masterpoker88ld4() {
     setTimeout(function () { window.location.href = "https://mastergame88.com/?ref=6669993"; }, 13000);
 } // load 4
 
-//******************************* KDSLOT777 ***************************************/
+//******************************* KDSLOT777 **************************************/
 var urlkdslot ='https://hokikd.store?ref=admin02';
 
 function kdslot() {
