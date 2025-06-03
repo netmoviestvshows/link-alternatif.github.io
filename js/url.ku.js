@@ -32,7 +32,7 @@ function nagapoker1() {
 } // link daftar
 
 function nagapoker2() {
-    window.open("https://bit.ly/3SkSuQQ");
+    window.open("https://bit.ly/m/9nagapoker");
 } // link 2
 
 function nagapoker3() {
@@ -40,7 +40,7 @@ function nagapoker3() {
 } // link 3
 
 function nagapoker4() {
-    window.open("https://bit.ly/3BRDwNa");
+    window.open("https://bit.ly/3SkSuQQ");
 } // link 4
 
 function nagapokerld0() {
