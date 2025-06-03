@@ -21,14 +21,14 @@ function frbonus() {
 
 
 //******************************* 9NAGAPOKER ***************************************/
-var url9nagapoker = 'https://bit.ly/9nagapkr';
+var url9nagapoker = 'https://bit.ly/9ng-pk';
 
 function nagapoker() {
-    window.open("https://bit.ly/9nagapkr");
+    window.open("https://bit.ly/9ng-pk");
 } // login & link1
 
 function nagapoker1() {
-    window.location.href = "https://bit.ly/9nagapkr";
+    window.location.href = "https://bit.ly/9ng-pk";
 } // link daftar
 
 function nagapoker2() {
@@ -44,23 +44,23 @@ function nagapoker4() {
 } // link 4
 
 function nagapokerld0() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9nagapkr"; }, 100);
+    setTimeout(function () { window.location.href = "https://bit.ly/9ng-pk"; }, 100);
 } // load 0
 
 function nagapokerld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9nagapkr"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/9ng-pk"; }, 40000);
 } // load
 
 function nagapokerld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9nagapkr"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/9ng-pk"; }, 32000);
 } // load 2
 
 function nagapokerld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9nagapkr"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/9ng-pk"; }, 4000);
 } // load 3
 
 function nagapokerld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9nagapkr"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/9ng-pk"; }, 13000);
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
