@@ -457,14 +457,14 @@ function masterpoker88ld4() {
 } // load 4
 
 //******************************* KDSLOT777 **************************************/
-var urlkdslot ='https://lolamarketkds.store?ref=admin02';
+var urlkdslot ='https://bit.ly/4jAF3aB';
 
 function kdslot() {
-    window.open("https://lolamarketkds.store?ref=admin02");
+    window.open("https://bit.ly/4jAF3aB");
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href ="https://lolamarketkds.store?ref=admin02";
+    window.location.href ="https://bit.ly/4jAF3aB";
 } // link daftar
 
 function kdslot2() {
@@ -480,23 +480,23 @@ function kdslot4() {
 } // link 4
 
 function kdslotld0() {
-    setTimeout(function () { window.location.href = "https://lolamarketkds.store?ref=admin02"; }, 100);
+    setTimeout(function () { window.location.href = "https://bit.ly/4jAF3aB"; }, 100);
 } // load 0
 
 function kdslotld() {
-    setTimeout(function () { window.location.href = "https://lolamarketkds.store?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://bit.ly/4jAF3aB"; }, 40000);
 } // load 1
 
 function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://lolamarketkds.store?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://bit.ly/4jAF3aB"; }, 32000);
 } // load 2
 
 function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://lolamarketkds.store?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://bit.ly/4jAF3aB"; }, 4000);
 } // load 3
 
 function kdslotld4() {
-    setTimeout(function () { window.location.href = "https://lolamarketkds.store?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://bit.ly/4jAF3aB"; }, 13000);
 } // load 4
 
 //******************************* MIYABIPOKER ***************************************/
