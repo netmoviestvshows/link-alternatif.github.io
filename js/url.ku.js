@@ -36,11 +36,11 @@ function nagapoker2() {
 } // link 2
 
 function nagapoker3() {
-    window.open("https://bit.ly/3EBmqVS");
+    window.open("https://9nagapoker-vip.live/ref/admin002");
 } // link 3
 
 function nagapoker4() {
-    window.open("https://bit.ly/3SkSuQQ");
+    window.open("https://9nagapoker-vip.live/ref/admin002");
 } // link 4
 
 function nagapokerld0() {
