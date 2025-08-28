@@ -1,106 +1,185 @@
 //******************************* HOME ***************************************/
 function daftar() {
-    window.location.href = "./idpro/";
+    window.location.href = "https://kadeselots.com?ref=admin02";
 } // home daftar
 
 function enbonus() {
-    window.open("https://bit.ly/3tYPBcA");
+    window.open("https://kadeselots.com?ref=admin02");
 } // home Bunus eN
 
 function debonus() {
-    window.open("https://bit.ly/3tYPBcA");
+    window.open("https://kadeselots.com?ref=admin02");
 } // home Bunus De
 
 function japbonus() {
-    window.open("https://bit.ly/3tYPBcA");
+    window.open("https://kadeselots.com?ref=admin02");
 } // home Bunus JAP
 
 function frbonus() {
-    window.open("https://bit.ly/3tYPBcA");
+    window.open("https://kadeselots.com?ref=admin02");
 } // home Bunus FR
 
 
 //******************************* 9NAGAPOKER ***************************************/
-var url9nagapoker = 'https://bit.ly/9ng-pk';
+var url9nagapoker = 'https://kadeselots.com?ref=admin02';
 
 function nagapoker() {
-    window.open("https://bit.ly/9ng-pk");
+    window.open("https://kadeselots.com?ref=admin02");
 } // login & link1
 
 function nagapoker1() {
-    window.location.href = "https://bit.ly/9ng-pk";
+    window.location.href = "https://kadeselots.com?ref=admin02";
 } // link daftar
 
 function nagapoker2() {
-    window.open("https://bit.ly/m/9nagapoker");
+    window.open("https://kadeselots.com?ref=admin02");
 } // link 2
 
 function nagapoker3() {
-    window.open("https://9nagapoker-vip.live/ref/admin002");
+    window.open("https://kadeselots.com?ref=admin02");
 } // link 3
 
 function nagapoker4() {
-    window.open("https://9nagapoker-vip.live/ref/admin002");
+    window.open("https://kadeselots.com?ref=admin02");
 } // link 4
 
 function nagapokerld0() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9ng-pk"; }, 100);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 100);
 } // load 0
 
 function nagapokerld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9ng-pk"; }, 40000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
 } // load
 
 function nagapokerld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9ng-pk"; }, 32000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
 } // load 2
 
 function nagapokerld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9ng-pk"; }, 4000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
 } // load 3
 
 function nagapokerld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9ng-pk"; }, 13000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
-var urldewapoker = 'https://bit.ly/9nagapkr';
+var urldewapoker = 'https://kadeselots.com?ref=admin02';
 
 function dewapoker() {
-    window.open("https://bit.ly/9nagapkr");
+    window.open("https://kadeselots.com?ref=admin02");
 } // login & Link 1
 
 function dewapoker1() {
-    window.location.href = "https://bit.ly/9nagapkr";
+    window.location.href = "https://kadeselots.com?ref=admin02";
 } // link daftar
 
 function dewapoker2() {
-    window.open("https://bit.ly/9nagapkr");
+    window.open("https://kadeselots.com?ref=admin02");
 } // link 2
 
 function dewapoker3() {
-    window.open("https://bit.ly/9nagapkr");
+    window.open("https://kadeselots.com?ref=admin02");
 } // link 3
 
 function dewapokerld0() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9nagapkr"; }, 100);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 100);
 } // load 0
 
 function dewapokerld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9nagapkr"; }, 40000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
 } // load 1
 
 function dewapokerld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9nagapkr"; }, 32000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
 } // load 2
 
 function dewapokerld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9nagapkr"; }, 4000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
 } // load 3
 
 function dewapokerld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/9nagapkr"; }, 13000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
 } // load 4
+
+//******************************* KDSLOT777 **************************************/
+var urlkdslot ='https://kdslotsatu.store?ref=admin02';
+
+function kdslot() {
+    window.open("https://kdslotsatu.store?ref=admin02");
+} // login & Link 1
+
+function kdslot1() {
+    window.location.href ="https://little5.kdslo.com?ref=admin02";
+} // link daftar
+
+function kdslot2() {
+    window.open("https://kdmahjong.site?ref=admin02");
+} // link 2
+
+function kdslot3() {
+    window.open("https://selamatpagikd.store?ref=admin02");
+} // link 3
+
+function kdslot4() {
+    window.open("https://kadeselots.com?ref=admin02");
+} // link 4
+
+function kdslotld0() {
+    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 100);
+} // load 0
+
+function kdslotld() {
+    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 40000);
+} // load 1
+
+function kdslotld2() {
+    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 32000);
+} // load 2
+
+function kdslotld3() {
+    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 4000);
+} // load 3
+
+function kdslotld4() {
+    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 13000);
+} // load 4
+
+//******************************* MIYABIPOKER ***************************************/
+var urlmiyabipoker = "https://kadeselots.com?ref=admin02";
+
+function miyabipoker() {
+    window.open("https://kadeselots.com?ref=admin02");
+} // login & link1
+
+function miyabipoker1() {
+    window.location.href = "https://kadeselots.com?ref=admin02";
+} // link daftar
+
+function miyabipoker2() {
+    window.open("https://kadeselots.com?ref=admin02");
+} // link 2
+
+function miyabipoker3() {
+    window.open("https://kadeselots.com?ref=admin02");
+} // link 3
+
+function miyabipokerld() {
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
+} // load
+
+function miyabipokerld2() {
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
+} // load 2
+
+function miyabiokerld3() {
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
+} // load 3
+
+function miyabipokerld4() {
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
+} // load 4
+
 
 //******************************* 99DEWA ***************************************/
 var urlpk99dewa = 'https://202.95.10.130/?ref=9999130';
@@ -138,18 +217,18 @@ function pk99dewald4() {
 } // load 4
 
 //******************************* TEXASPOKERCC ***************************************/
-var urltexaspokercc = 'https://texaspkrpro.com/referral/RUNNERS';
+var urltexaspokercc = 'https://kadeselots.com?ref=admin02';
 
 function texaspokercc() {
-    window.open("https://texaspkrpro.com/referral/RUNNERS");
+    window.open("https://kadeselots.com?ref=admin02");
 } // login & Link 1
 
 function texaspokercc1() {
-    window.location.href = "https://texaspkrpro.com/referral/RUNNERS";
+    window.location.href = "https://kadeselots.com?ref=admin02";
 } // link daftar
 
 function texaspokercc2() {
-    window.open("https://tpkcc2022.com/referral/RUNNERS");
+    window.open("https://kadeselots.com?ref=admin02");
 } // link 2
 
 function texaspokercc3() {
@@ -157,30 +236,30 @@ function texaspokercc3() {
 } // link 3
 
 function texaspokerccld() {
-    setTimeout(function () { window.location.href = "https://texaspkrpro.com/referral/RUNNERS"; }, 40000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
 } // load
 
 function texaspokerccld2() {
-    setTimeout(function () { window.location.href = "https://texaspkrpro.com/referral/RUNNERS"; }, 32000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
 } // load 2
 
 function texaspokerccld3() {
-    setTimeout(function () { window.location.href = "https://texaspkrpro.com/referral/RUNNERS"; }, 4000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
 } // load 3
 
 function texaspokerccld4() {
-    setTimeout(function () { window.location.href = "https://texaspkrpro.com/referral/RUNNERS"; }, 13000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
 } // load 4
 
 //******************************* INDOTOGEL ***************************************/
-var urlindotogel = 'https://indotglzeus.com/referral/ADM1N02';
+var urlindotogel = 'https://kadeselots.com?ref=admin02';
 
 function indotogel() {
-    window.open("https://indotglzeus.com/referral/ADM1N02");
+    window.open("https://kadeselots.com?ref=admin02");
 } // login & Link 1
 
 function indotogel1() {
-    window.location.href = "https://indotogelpetir.com/referral/ADM1N02";
+    window.location.href = "https://kadeselots.com?ref=admin02";
 } // link daftar
 
 function indotogel2() {
@@ -192,35 +271,35 @@ function indotogel3() {
 } // link 3
 
 function indotogelld() {
-    setTimeout(function () { window.location.href = "https://indotglzeus.com/referral/ADM1N02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
 } // load
 
 function indotogelld2() {
-    setTimeout(function () { window.location.href = "https://indotglzeus.com/referral/ADM1N02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
 } // load 2
 
 function indotogelld3() {
-    setTimeout(function () { window.location.href = "https://indotglzeus.com/referral/ADM1N02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
 } // load 3
 
 function indotogelld4() {
-    setTimeout(function () { window.location.href = "https://indotglzeus.com/referral/ADM1N02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
 } // load 4
 
 
 //******************************* DUNIA4D ***************************************/
-var urldunia4d = 'https://www.dunia4d3.com/register?a=admin02';
+var urldunia4d = 'https://kadeselots.com?ref=admin02';
 
 function dunia4d() {
-    window.open("https://www.dunia4d3.com/register?a=admin02");
+    window.open("https://kadeselots.com?ref=admin02");
 } // login & Link 1
 
 function dunia4d1() {
-    window.location.href = "https://www.dunia4d3.com/register?a=admin02";
+    window.location.href = "https://kadeselots.com?ref=admin02";
 } // link daftar
 
 function dunia4d2() {
-    window.open("https://bit.ly/3MA4Z6b");
+    window.open("https://kadeselots.com?ref=admin02");
 } // link 2
 
 function dunia4d3() {
@@ -228,35 +307,35 @@ function dunia4d3() {
 } // link 3
 
 function dunia4dld() {
-    setTimeout(function () { window.location.href = "https://www.dunia4d3.com/register?a=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
 } // load
 
 function dunia4dld2() {
-    setTimeout(function () { window.location.href = "https://www.dunia4d3.com/register?a=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
 } // load 2
 
 function dunia4dld3() {
-    setTimeout(function () { window.location.href = "https://www.dunia4d3.com/register?a=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
 } // load 3
 
 function dunia4dld4() {
-    setTimeout(function () { window.location.href = "https://www.dunia4d3.com/register?a=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
 } // load 4
 
 
 //******************************* JAYAPOKER ***************************************/
-var urljayapoker = 'http://jayapokervip.com/referral/ADMIN002';
+var urljayapoker = 'https://kadeselots.com?ref=admin02';
 
 function jayapoker() {
-    window.open("http://jayapokervip.com/referral/ADMIN002");
+    window.open("https://kadeselots.com?ref=admin02");
 } // login & Link 1
 
 function jayapoker1() {
-    window.location.href = "https://jayapokerxmas.com/referral/ADMIN002";
+    window.location.href = "https://kadeselots.com?ref=admin02";
 } // link daftar
 
 function jayapoker2() {
-    window.open("https://jayapkspin.com/referral/ADMIN002");
+    window.open("https://kadeselots.com?ref=admin02");
 } // link 2
 
 function jayapoker3() {
@@ -264,54 +343,54 @@ function jayapoker3() {
 } // link 3
 
 function jayapokerld() {
-    setTimeout(function () { window.location.href = "http://jayapokervip.com/referral/ADMIN002"; }, 40000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
 } // load
 
 function jayapokerld2() {
-    setTimeout(function () { window.location.href = "http://jayapokervip.com/referral/ADMIN002"; }, 32000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
 } // load 2
 
 function jayapokerld3() {
-    setTimeout(function () { window.location.href = "http://jayapokervip.com/referral/ADMIN002"; }, 4000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
 } // load 3
 
 function jayapokerld4() {
-    setTimeout(function () { window.location.href = "http://jayapokervip.com/referral/ADMIN002"; }, 13000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
 } // load 4
 
 //******************************* LIDEWAPOKER ***************************************/
-var urllidewapoker = 'https://pintulidewapk.com/ref/SERVICE1';
+var urllidewapoker = 'https://kadeselots.com?ref=admin02';
 
 function lidewapoker() {
-    window.open("https://pintulidewapk.com/ref/SERVICE1");
+    window.open("https://kadeselots.com?ref=admin02");
 } // login & Link 1
 
 function lidewapoker1() {
-    window.location.href = "https://pintulidewapk.com/ref/SERVICE1";
+    window.location.href = "https://kadeselots.com?ref=admin02";
 } // link daftar
 
 function lidewapoker2() {
-    window.open("https://poslidewapk.com/ref/SERVICE1");
+    window.open("https://kadeselots.com?ref=admin02");
 } // link 2
 
 function lidewapoker3() {
-    window.open("https://inceslidewapk.com/ref/SERVICE1");
+    window.open("https://kadeselots.com?ref=admin02");
 } // link 3
 
 function lidewapokerld() {
-    setTimeout(function () { window.location.href = "https://pintulidewapk.com/ref/SERVICE1"; }, 40000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
 } // load
 
 function lidewapokerld2() {
-    setTimeout(function () { window.location.href = "https://pintulidewapk.com/ref/SERVICE1"; }, 32000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
 } // load 2
 
 function lidewapokerld3() {
-    setTimeout(function () { window.location.href = "https://pintulidewapk.com/ref/SERVICE1"; }, 4000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
 } // load 3
 
 function lidewapokerld4() {
-    setTimeout(function () { window.location.href = "https://pintulidewapk.com/ref/SERVICE1"; }, 13000);
+    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
 } // load 4
 
 //******************************* BATIKPOKER ***************************************/
@@ -454,84 +533,6 @@ function masterpoker88ld3() {
 
 function masterpoker88ld4() {
     setTimeout(function () { window.location.href = "https://mastergame88.com/?ref=6669993"; }, 13000);
-} // load 4
-
-//******************************* KDSLOT777 **************************************/
-var urlkdslot ='https://kdslotsatu.store?ref=admin02';
-
-function kdslot() {
-    window.open("https://kdslotsatu.store?ref=admin02");
-} // login & Link 1
-
-function kdslot1() {
-    window.location.href ="https://little5.kdslo.com?ref=admin02";
-} // link daftar
-
-function kdslot2() {
-    window.open("https://kdmahjong.site?ref=admin02");
-} // link 2
-
-function kdslot3() {
-    window.open("https://selamatpagikd.store?ref=admin02");
-} // link 3
-
-function kdslot4() {
-    window.open("https://wdamin.xyz?ref=admin02");
-} // link 4
-
-function kdslotld0() {
-    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 100);
-} // load 0
-
-function kdslotld() {
-    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 40000);
-} // load 1
-
-function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 32000);
-} // load 2
-
-function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 4000);
-} // load 3
-
-function kdslotld4() {
-    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 13000);
-} // load 4
-
-//******************************* MIYABIPOKER ***************************************/
-var urlmiyabipoker = 'https://bit.ly/kdslot777-vip';
-
-function miyabipoker() {
-    window.open("https://bit.ly/kdslot777-vip");
-} // login & link1
-
-function miyabipoker1() {
-    window.location.href = "https://bit.ly/kdslot777-vip";
-} // link daftar
-
-function miyabipoker2() {
-    window.open("https://bit.ly/kdslot777-vip");
-} // link 2
-
-function miyabipoker3() {
-    window.open("https://bit.ly/kdslot777-vip");
-} // link 3
-
-function miyabipokerld() {
-    setTimeout(function () { window.location.href = "https://bit.ly/kdslot777-vip"; }, 40000);
-} // load
-
-function miyabipokerld2() {
-    setTimeout(function () { window.location.href = "https://bit.ly/kdslot777-vip"; }, 32000);
-} // load 2
-
-function miyabiokerld3() {
-    setTimeout(function () { window.location.href = "https://bit.ly/kdslot777-vip"; }, 4000);
-} // load 3
-
-function miyabipokerld4() {
-    setTimeout(function () { window.location.href = "https://bit.ly/kdslot777-vip"; }, 13000);
 } // load 4
 
 
