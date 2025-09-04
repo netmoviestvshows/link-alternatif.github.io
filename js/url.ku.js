@@ -1,105 +1,105 @@
 //******************************* HOME ***************************************/
 function daftar() {
-    window.location.href = "https://kadeselots.com?ref=admin02";
+    window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html";
 } // home daftar
 
 function enbonus() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // home Bunus eN
 
 function debonus() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // home Bunus De
 
 function japbonus() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // home Bunus JAP
 
 function frbonus() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // home Bunus FR
 
 
 //******************************* 9NAGAPOKER ***************************************/
-var url9nagapoker = 'https://kadeselots.com?ref=admin02';
+var url9nagapoker = 'https://max-wins.blogspot.com/p/kdslot777.html';
 
 function nagapoker() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // login & link1
 
 function nagapoker1() {
-    window.location.href = "https://kadeselots.com?ref=admin02";
+    window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html";
 } // link daftar
 
 function nagapoker2() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // link 2
 
 function nagapoker3() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // link 3
 
 function nagapoker4() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // link 4
 
 function nagapokerld0() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 100);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 100);
 } // load 0
 
 function nagapokerld() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 40000);
 } // load
 
 function nagapokerld2() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 32000);
 } // load 2
 
 function nagapokerld3() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 4000);
 } // load 3
 
 function nagapokerld4() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 13000);
 } // load 4
 
 //******************************* DEWAPOKER ***************************************/
-var urldewapoker = 'https://kadeselots.com?ref=admin02';
+var urldewapoker = 'https://max-wins.blogspot.com/p/kdslot777.html';
 
 function dewapoker() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // login & Link 1
 
 function dewapoker1() {
-    window.location.href = "https://kadeselots.com?ref=admin02";
+    window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html";
 } // link daftar
 
 function dewapoker2() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // link 2
 
 function dewapoker3() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // link 3
 
 function dewapokerld0() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 100);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 100);
 } // load 0
 
 function dewapokerld() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 40000);
 } // load 1
 
 function dewapokerld2() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 32000);
 } // load 2
 
 function dewapokerld3() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 4000);
 } // load 3
 
 function dewapokerld4() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 13000);
 } // load 4
 
 //******************************* KDSLOT777 **************************************/
@@ -146,38 +146,38 @@ function kdslotld4() {
 } // load 4
 
 //******************************* MIYABIPOKER ***************************************/
-var urlmiyabipoker = "https://kadeselots.com?ref=admin02";
+var urlmiyabipoker = "https://max-wins.blogspot.com/p/kdslot777.html";
 
 function miyabipoker() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // login & link1
 
 function miyabipoker1() {
-    window.location.href = "https://kadeselots.com?ref=admin02";
+    window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html";
 } // link daftar
 
 function miyabipoker2() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // link 2
 
 function miyabipoker3() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // link 3
 
 function miyabipokerld() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 40000);
 } // load
 
 function miyabipokerld2() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 32000);
 } // load 2
 
 function miyabiokerld3() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 4000);
 } // load 3
 
 function miyabipokerld4() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 13000);
 } // load 4
 
 
@@ -217,18 +217,18 @@ function pk99dewald4() {
 } // load 4
 
 //******************************* TEXASPOKERCC ***************************************/
-var urltexaspokercc = 'https://kadeselots.com?ref=admin02';
+var urltexaspokercc = 'https://max-wins.blogspot.com/p/kdslot777.html';
 
 function texaspokercc() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // login & Link 1
 
 function texaspokercc1() {
-    window.location.href = "https://kadeselots.com?ref=admin02";
+    window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html";
 } // link daftar
 
 function texaspokercc2() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // link 2
 
 function texaspokercc3() {
@@ -236,30 +236,30 @@ function texaspokercc3() {
 } // link 3
 
 function texaspokerccld() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 40000);
 } // load
 
 function texaspokerccld2() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 32000);
 } // load 2
 
 function texaspokerccld3() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 4000);
 } // load 3
 
 function texaspokerccld4() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 13000);
 } // load 4
 
 //******************************* INDOTOGEL ***************************************/
-var urlindotogel = 'https://kadeselots.com?ref=admin02';
+var urlindotogel = 'https://max-wins.blogspot.com/p/kdslot777.html';
 
 function indotogel() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // login & Link 1
 
 function indotogel1() {
-    window.location.href = "https://kadeselots.com?ref=admin02";
+    window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html";
 } // link daftar
 
 function indotogel2() {
@@ -271,35 +271,35 @@ function indotogel3() {
 } // link 3
 
 function indotogelld() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 40000);
 } // load
 
 function indotogelld2() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 32000);
 } // load 2
 
 function indotogelld3() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 4000);
 } // load 3
 
 function indotogelld4() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 13000);
 } // load 4
 
 
 //******************************* DUNIA4D ***************************************/
-var urldunia4d = 'https://kadeselots.com?ref=admin02';
+var urldunia4d = 'https://max-wins.blogspot.com/p/kdslot777.html';
 
 function dunia4d() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // login & Link 1
 
 function dunia4d1() {
-    window.location.href = "https://kadeselots.com?ref=admin02";
+    window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html";
 } // link daftar
 
 function dunia4d2() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // link 2
 
 function dunia4d3() {
@@ -307,35 +307,35 @@ function dunia4d3() {
 } // link 3
 
 function dunia4dld() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 40000);
 } // load
 
 function dunia4dld2() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 32000);
 } // load 2
 
 function dunia4dld3() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 4000);
 } // load 3
 
 function dunia4dld4() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 13000);
 } // load 4
 
 
 //******************************* JAYAPOKER ***************************************/
-var urljayapoker = 'https://kadeselots.com?ref=admin02';
+var urljayapoker = 'https://max-wins.blogspot.com/p/kdslot777.html';
 
 function jayapoker() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // login & Link 1
 
 function jayapoker1() {
-    window.location.href = "https://kadeselots.com?ref=admin02";
+    window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html";
 } // link daftar
 
 function jayapoker2() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // link 2
 
 function jayapoker3() {
@@ -343,54 +343,54 @@ function jayapoker3() {
 } // link 3
 
 function jayapokerld() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 40000);
 } // load
 
 function jayapokerld2() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 32000);
 } // load 2
 
 function jayapokerld3() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 4000);
 } // load 3
 
 function jayapokerld4() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 13000);
 } // load 4
 
 //******************************* LIDEWAPOKER ***************************************/
-var urllidewapoker = 'https://kadeselots.com?ref=admin02';
+var urllidewapoker = 'https://max-wins.blogspot.com/p/kdslot777.html';
 
 function lidewapoker() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // login & Link 1
 
 function lidewapoker1() {
-    window.location.href = "https://kadeselots.com?ref=admin02";
+    window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html";
 } // link daftar
 
 function lidewapoker2() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // link 2
 
 function lidewapoker3() {
-    window.open("https://kadeselots.com?ref=admin02");
+    window.open("https://max-wins.blogspot.com/p/kdslot777.html");
 } // link 3
 
 function lidewapokerld() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 40000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 40000);
 } // load
 
 function lidewapokerld2() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 32000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 32000);
 } // load 2
 
 function lidewapokerld3() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 4000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 4000);
 } // load 3
 
 function lidewapokerld4() {
-    setTimeout(function () { window.location.href = "https://kadeselots.com?ref=admin02"; }, 13000);
+    setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 13000);
 } // load 4
 
 //******************************* BATIKPOKER ***************************************/
