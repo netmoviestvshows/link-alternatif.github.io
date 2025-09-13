@@ -1,3 +1,83 @@
+//******************************* KDSLOT777 **************************************/
+var urlkdslot ='https://1xlite-45869.pro?bf=601e5667af73c_1757240257';
+
+function kdslot() {
+    window.open("https://1xlite-45869.pro?bf=601e5667af73c_1757240257");
+} // login & Link 1
+
+function kdslot1() {
+    window.location.href ="https://1xlite-45869.pro?bf=601e5667af73c_1757240257";
+} // link daftar
+
+function kdslot2() {
+    window.open("https://1xlite-45869.pro?bf=601e5667af73c_1757240257");
+} // link 2
+
+function kdslot3() {
+    window.open("https://1xlite-45869.pro?bf=601e5667af73c_1757240257");
+} // link 3
+
+function kdslot4() {
+    window.open("https://1xlite-45869.pro?bf=601e5667af73c_1757240257");
+} // link 4
+
+function kdslotld0() {
+    setTimeout(function () { window.location.href = "https://1xlite-45869.pro?bf=601e5667af73c_1757240257"; }, 100);
+} // load 0
+
+function kdslotld() {
+    setTimeout(function () { window.location.href = "https://1xlite-45869.pro?bf=601e5667af73c_1757240257"; }, 40000);
+} // load 1
+
+function kdslotld2() {
+    setTimeout(function () { window.location.href = "https://1xlite-45869.pro?bf=601e5667af73c_1757240257"; }, 32000);
+} // load 2
+
+function kdslotld3() {
+    setTimeout(function () { window.location.href = "https://1xlite-45869.pro?bf=601e5667af73c_1757240257"; }, 4000);
+} // load 3
+
+function kdslotld4() {
+    setTimeout(function () { window.location.href = "https://1xlite-45869.pro?bf=601e5667af73c_1757240257"; }, 13000);
+} // load 4
+
+
+//******************************* 1XBET ***************************************/
+var xbet = 'https://1xlite-45869.pro?bf=601e5667af73c_1757240257';
+
+function xbet() {
+    window.open("https://1xlite-45869.pro?bf=601e5667af73c_1757240257");
+} // login & Link 1
+
+function xbet1() {
+    window.location.href = "https://1xlite-45869.pro?bf=601e5667af73c_1757240257";
+} // link daftar
+
+function xbet2() {
+    window.open("https://1xlite-45869.pro?bf=601e5667af73c_1757240257");
+} // link 2
+
+function xbet3() {
+    window.open("https://1xlite-45869.pro?bf=601e5667af73c_1757240257");
+} // link 3
+
+function xbetld() {
+    setTimeout(function () { window.location.href = "https://1xlite-45869.pro?bf=601e5667af73c_1757240257"; }, 40000);
+} // load
+
+function xbetld2() {
+    setTimeout(function () { window.location.href = "https://1xlite-45869.pro?bf=601e5667af73c_1757240257"; }, 32000);
+} // load 2
+
+function xbetld3() {
+    setTimeout(function () { window.location.href = "https://1xlite-45869.pro?bf=601e5667af73c_1757240257"; }, 4000);
+} // load 3
+
+function xbetld4() {
+    setTimeout(function () { window.location.href = "https://1xlite-45869.pro?bf=601e5667af73c_1757240257"; }, 13000);
+} // load 4
+
+
 //******************************* HOME ***************************************/
 function daftar() {
     window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html";
@@ -102,48 +182,6 @@ function dewapokerld4() {
     setTimeout(function () { window.location.href = "https://max-wins.blogspot.com/p/kdslot777.html"; }, 13000);
 } // load 4
 
-//******************************* KDSLOT777 **************************************/
-var urlkdslot ='https://kdslotsatu.store?ref=admin02';
-
-function kdslot() {
-    window.open("https://kdslotsatu.store?ref=admin02");
-} // login & Link 1
-
-function kdslot1() {
-    window.location.href ="https://little5.kdslo.com?ref=admin02";
-} // link daftar
-
-function kdslot2() {
-    window.open("https://kdmahjong.site?ref=admin02");
-} // link 2
-
-function kdslot3() {
-    window.open("https://selamatpagikd.store?ref=admin02");
-} // link 3
-
-function kdslot4() {
-    window.open("https://kadeselots.com?ref=admin02");
-} // link 4
-
-function kdslotld0() {
-    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 100);
-} // load 0
-
-function kdslotld() {
-    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 40000);
-} // load 1
-
-function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 32000);
-} // load 2
-
-function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 4000);
-} // load 3
-
-function kdslotld4() {
-    setTimeout(function () { window.location.href = "https://kdslotsatu.store?ref=admin02"; }, 13000);
-} // load 4
 
 //******************************* MIYABIPOKER ***************************************/
 var urlmiyabipoker = "https://max-wins.blogspot.com/p/kdslot777.html";
@@ -854,42 +892,6 @@ function seniqqld3() {
 
 function seniqqld4() {
     setTimeout(function () { window.location.href = "https://bit.ly/3p9GWCt"; }, 13000);
-} // load 4
-
-
-//******************************* 1XBET ***************************************/
-var xbet = 'https://jayapkroyal.com/referral/ADMIN002';
-
-function xbet() {
-    window.open("https://lite-1x283524.top/?bf=601e5667af73c_1757240257");
-} // login & Link 1
-
-function xbet1() {
-    window.location.href = "https://lite-1x283524.top/?bf=601e5667af73c_1757240257";
-} // link daftar
-
-function xbet2() {
-    window.open("https://lite-1x8980579.top?bf=601e5667af73c_1757240257");
-} // link 2
-
-function xbet3() {
-    window.open("https://lite-1x188471.top/?bf=601e5667af73c_1757240257");
-} // link 3
-
-function xbetld() {
-    setTimeout(function () { window.location.href = "https://lite-1x283524.top/?bf=601e5667af73c_1757240257"; }, 40000);
-} // load
-
-function xbetld2() {
-    setTimeout(function () { window.location.href = "https://lite-1x283524.top/?bf=601e5667af73c_1757240257"; }, 32000);
-} // load 2
-
-function xbetld3() {
-    setTimeout(function () { window.location.href = "https://lite-1x283524.top/?bf=601e5667af73c_1757240257"; }, 4000);
-} // load 3
-
-function xbetld4() {
-    setTimeout(function () { window.location.href = "https://lite-1x283524.top/?bf=601e5667af73c_1757240257"; }, 13000);
 } // load 4
 
 
