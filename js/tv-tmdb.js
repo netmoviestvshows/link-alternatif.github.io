@@ -10,15 +10,15 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log('TMDb data:', data);
         if (data.next_episode_to_air) {
           const ep = data.next_episode_to_air;
-          nextEpDiv.textContent = `Season ${ep.season_number}, Episode ${ep.episode_number} (${ep.air_date})`;
+          nextEpDiv.textContent = `SS ${ep.season_number} / EP ${ep.episode_number} (${ep.air_date})`;
         } else if (data.status) {
-          nextEpDiv.textContent = `Status: ${data.status}`;
+          nextEpDiv.textContent = `${data.status}`;
         } else {
-          nextEpDiv.textContent = 'Belum ada episode berikutnya';
+          nextEpDiv.textContent = 'No episodes available';
         }
       })
       .catch(() => {
-        nextEpDiv.textContent = 'Gagal memuat data';
+        nextEpDiv.textContent = 'Failed to load data';
       });
   });
 });
