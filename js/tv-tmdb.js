@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log('TMDb data:', data);
         if (data.next_episode_to_air) {
           const ep = data.next_episode_to_air;
-          nextEpDiv.textContent = `SS ${ep.season_number} / EP ${ep.episode_number} / (${ep.air_date})`;
+          nextEpDiv.textContent = `SS ${ep.season_number} / EP ${ep.episode_number} / ${ep.air_date}`;
         } else if (data.status) {
           nextEpDiv.textContent = `${data.status}`;
         } else {
