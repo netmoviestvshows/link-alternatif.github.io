@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
           if (isSidebar) {
             nextEpDiv.textContent = data.status;
           } else {
-            nextEpDiv.innerHTML = `<span class="badge bg-secondary" style="padding-bottom: 2px;">${data.status}</span>`;
+            nextEpDiv.innerHTML = `<span class="badge bg-secondary badge-home-rating" style="padding-bottom: 2px;">${data.status}</span>`;
           }
         } else {
           nextEpDiv.textContent = 'No episodes available';
