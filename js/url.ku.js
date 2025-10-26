@@ -1,12 +1,12 @@
 //******************************* KDSLOT777 **************************************/
-var urlkdslot ='https://1xlite-975426.bar/?bf=601e5667af73c_1757240257';
+var urlkdslot ='https://1xlite-97706.bar/?bf=601e5667af73c_1757240257';
 
 function kdslot() {
-    window.open("https://1xlite-975426.bar/?bf=601e5667af73c_1757240257");
+    window.open("https://1xlite-97706.bar/?bf=601e5667af73c_1757240257");
 } // login & Link 1
 
 function kdslot1() {
-    window.location.href ="https://1xlite-975426.bar/?bf=601e5667af73c_1757240257";
+    window.location.href ="https://1xlite-97706.bar/?bf=601e5667af73c_1757240257";
 } // link daftar
 
 function kdslot2() {
@@ -18,63 +18,63 @@ function kdslot3() {
 } // link 3
 
 function kdslot4() {
-    window.open("https://1xlite-975426.bar/?bf=601e5667af73c_1757240257");
+    window.open("https://1xlite-97706.bar/?bf=601e5667af73c_1757240257");
 } // link 4
 
 function kdslotld0() {
-    setTimeout(function () { window.location.href = "https://1xlite-975426.bar/?bf=601e5667af73c_1757240257"; }, 100);
+    setTimeout(function () { window.location.href = "https://1xlite-97706.bar/?bf=601e5667af73c_1757240257"; }, 100);
 } // load 0
 
 function kdslotld() {
-    setTimeout(function () { window.location.href = "https://1xlite-975426.bar/?bf=601e5667af73c_1757240257"; }, 40000);
+    setTimeout(function () { window.location.href = "https://1xlite-97706.bar/?bf=601e5667af73c_1757240257"; }, 40000);
 } // load 1
 
 function kdslotld2() {
-    setTimeout(function () { window.location.href = "https://1xlite-975426.bar/?bf=601e5667af73c_1757240257"; }, 32000);
+    setTimeout(function () { window.location.href = "https://1xlite-97706.bar/?bf=601e5667af73c_1757240257"; }, 32000);
 } // load 2
 
 function kdslotld3() {
-    setTimeout(function () { window.location.href = "https://1xlite-975426.bar/?bf=601e5667af73c_1757240257"; }, 4000);
+    setTimeout(function () { window.location.href = "https://1xlite-97706.bar/?bf=601e5667af73c_1757240257"; }, 4000);
 } // load 3
 
 function kdslotld4() {
-    setTimeout(function () { window.location.href = "https://1xlite-975426.bar/?bf=601e5667af73c_1757240257"; }, 13000);
+    setTimeout(function () { window.location.href = "https://1xlite-97706.bar/?bf=601e5667af73c_1757240257"; }, 13000);
 } // load 4
 
 
 //******************************* 1XBET ***************************************/
-var xbet = 'https://1xlite-975426.bar/?bf=601e5667af73c_1757240257';
+var xbet = 'https://1xlite-97706.bar/?bf=601e5667af73c_1757240257';
 
 function xbet() {
-    window.open("https://1xlite-975426.bar/?bf=601e5667af73c_1757240257");
+    window.open("https://1xlite-97706.bar/?bf=601e5667af73c_1757240257");
 } // login & Link 1
 
 function xbet1() {
-    window.location.href = "https://1xlite-975426.bar/?bf=601e5667af73c_1757240257";
+    window.location.href = "https://1xlite-97706.bar/?bf=601e5667af73c_1757240257";
 } // link daftar
 
 function xbet2() {
-    window.open("https://1xlite-975426.bar/?bf=601e5667af73c_1757240257");
+    window.open("https://1xlite-97706.bar/?bf=601e5667af73c_1757240257");
 } // link 2
 
 function xbet3() {
-    window.open("https://1xlite-975426.bar/?bf=601e5667af73c_1757240257");
+    window.open("https://1xlite-97706.bar/?bf=601e5667af73c_1757240257");
 } // link 3
 
 function xbetld() {
-    setTimeout(function () { window.location.href = "https://1xlite-975426.bar/?bf=601e5667af73c_1757240257"; }, 40000);
+    setTimeout(function () { window.location.href = "https://1xlite-97706.bar/?bf=601e5667af73c_1757240257"; }, 40000);
 } // load
 
 function xbetld2() {
-    setTimeout(function () { window.location.href = "https://1xlite-975426.bar/?bf=601e5667af73c_1757240257"; }, 32000);
+    setTimeout(function () { window.location.href = "https://1xlite-97706.bar/?bf=601e5667af73c_1757240257"; }, 32000);
 } // load 2
 
 function xbetld3() {
-    setTimeout(function () { window.location.href = "https://1xlite-975426.bar/?bf=601e5667af73c_1757240257"; }, 4000);
+    setTimeout(function () { window.location.href = "https://1xlite-97706.bar/?bf=601e5667af73c_1757240257"; }, 4000);
 } // load 3
 
 function xbetld4() {
-    setTimeout(function () { window.location.href = "https://1xlite-975426.bar/?bf=601e5667af73c_1757240257"; }, 13000);
+    setTimeout(function () { window.location.href = "https://1xlite-97706.bar/?bf=601e5667af73c_1757240257"; }, 13000);
 } // load 4
 
 
